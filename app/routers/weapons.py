@@ -1,0 +1,71 @@
+from fastapi import APIRouter, Depends, HTTPException, status, Response, Header
+from sqlalchemy.orm import Session
+from app.database import SessionLocal
+from app.models import Weapon
+from app.schemas import WeaponOut, WeaponCreate, WeaponUpdate
+import os
+
+router = APIRouter(prefix="/weapons", tags=["Weapons"])
+
+
+def get_db():
+    db = SessionLocal()
+    try:
+        yield db
+    finally:
+        db.close()
+
+
+ADMIN_TOKEN = os.getenv("ADMIN_TOKEN")
+
+
+def admin_required(x_admin_token: str | None = Header(None, alias="X-Admin-Token")) -> bool:
+    if not ADMIN_TOKEN or x_admin_token != ADMIN_TOKEN:
+        raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail="Admin token required")
+    return True
+
+
+@router.get("/", response_model=list[WeaponOut])
+def get_weapons(db: Session = Depends(get_db)):
+    return db.query(Weapon).all()
+
+
+@router.get("/{weapon_id}", response_model=WeaponOut)
+def get_weapon(weapon_id: int, db: Session = Depends(get_db)):
+    weapon = db.query(Weapon).filter(Weapon.id == weapon_id).first()
+    if not weapon:
+        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Weapon not found")
+    return weapon
+
+
+@router.post("/", response_model=WeaponOut, status_code=status.HTTP_201_CREATED)
+def create_weapon(payload: WeaponCreate, db: Session = Depends(get_db), _admin: bool = Depends(admin_required)):
+    db_weapon = Weapon(**payload.dict())
+    db.add(db_weapon)
+    db.commit()
+    db.refresh(db_weapon)
+    return db_weapon
+
+
+@router.put("/{weapon_id}", response_model=WeaponOut)
+def update_weapon(weapon_id: int, payload: WeaponUpdate, db: Session = Depends(get_db), _admin: bool = Depends(admin_required)):
+    weapon = db.query(Weapon).filter(Weapon.id == weapon_id).first()
+    if not weapon:
+        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Weapon not found")
+    update_data = payload.dict(exclude_unset=True)
+    for key, value in update_data.items():
+        setattr(weapon, key, value)
+    db.add(weapon)
+    db.commit()
+    db.refresh(weapon)
+    return weapon
+
+
+@router.delete("/{weapon_id}", status_code=status.HTTP_204_NO_CONTENT)
+def delete_weapon(weapon_id: int, db: Session = Depends(get_db), _admin: bool = Depends(admin_required)):
+    weapon = db.query(Weapon).filter(Weapon.id == weapon_id).first()
+    if not weapon:
+        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Weapon not found")
+    db.delete(weapon)
+    db.commit()
+    return Response(status_code=status.HTTP_204_NO_CONTENT)
