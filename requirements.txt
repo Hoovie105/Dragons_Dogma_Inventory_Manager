@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-dotenv
+react
+npm
+Tailwind CSS
+shadcn-ui
+react-lucide
