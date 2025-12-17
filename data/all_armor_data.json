@@ -12,7 +12,7 @@
       "Defense": "2",
       "Magick Defense": "17",
       "Value": "1900 G",
-      "Armor Type": "Head Armor"
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Fire": "-3%",
@@ -57,7 +57,7 @@
       "Defense": "55",
       "Magick Defense": "50",
       "Value": "238,550G",
-      "Armor Type": "Head Armor"
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Fire": "10%",
@@ -86,18 +86,18 @@
     "description": "A hat lined with a material that can repel magick. Quite difficult to craft, as evidence by its high value.",
     "image_path": "scraped_armor_images\\Archwizards_Helm.png",
     "locations": [
-      "Caxton in Caxton's Armory in Gran Soren for  148,600 G (Post-Game)",
-      "Mathias at The Greatwall Encampment for 148,600 G",
-      "Jayce in Devilfire Grove for 148,600 G (Post-Game)",
+      "Caxton in Caxton's Armory in Gran Soren for\u00c2\u00a0 148,600 G (Post-Game)",
+      "Mathias at The Greatwall Encampment for\u00c2\u00a0148,600 G",
+      "Jayce in Devilfire Grove for\u00c2\u00a0148,600 G (Post-Game)",
       "Alon in The Ancient Quarry for 148,600 G",
-      "Barroch on Bitterblack Isle for 148,600 G"
+      "Barroch on Bitterblack Isle for\u00c2\u00a0148,600 G"
     ],
     "stats": {
       "Weight": ".89",
       "Defense": "32",
       "Magick Defense": "53",
       "Value": "148,600 G",
-      "Armor Type": "Head Armor"
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Fire": "6%",
@@ -127,7 +127,7 @@
       "Defense": "31",
       "Magick Defense": "30",
       "Value": "12,230 G",
-      "Armor Type": "Head Armor"
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Holy": "-1%",
@@ -160,7 +160,7 @@
       "Defense": "35",
       "Magick Defense": "49",
       "Value": "51,910 G",
-      "Armor Type": "Head Armor"
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Fire": "9%",
@@ -192,7 +192,7 @@
       "Defense": "32",
       "Magick Defense": "6",
       "Value": "2,330 G",
-      "Armor Type": "Head Armor"
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Dark": "8%"
@@ -230,7 +230,7 @@
       "Defense": "77",
       "Magick Defense": "7",
       "Value": "210,610 G",
-      "Armor Type": "Head Armor"
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Fire": "1%",
@@ -261,7 +261,7 @@
       "Defense": "39",
       "Magick Defense": "18",
       "Value": "4,880 G",
-      "Armor Type": "Head Armor"
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Ice": "5%"
@@ -289,7 +289,7 @@
       "Defense": "55",
       "Magick Defense": "50",
       "Value": "1900 G",
-      "Armor Type": "Head Armor"
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Lightning": "-3%",
@@ -324,8 +324,8 @@
       "Weight": ".07",
       "Defense": "12",
       "Magick Defense": "32",
-      "Value": "2,000 G",
-      "Armor Type": "Head Armor"
+      "Value": "2,000\u00c2\u00a0G",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Dark": "4%"
@@ -353,7 +353,7 @@
     "description": "A bronze sallet that protects the entire head. Popular due to its stellar price performance.",
     "image_path": "scraped_armor_images\\Bronze_Sallet.png",
     "locations": [
-      "Can be purchased by Alon for 15,200 G",
+      "Can be purchased by Alon for\u00c2\u00a015,200 G",
       "May be able to find in some chests in The Catacombs or The Ancient Quarry"
     ],
     "stats": {
@@ -361,7 +361,7 @@
       "Defense": "27",
       "Magick Defense": "5",
       "Value": "6,070 G",
-      "Armor Type": "Head Armor"
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Lightning": "-1%"
@@ -389,7 +389,7 @@
       "Defense": "31",
       "Magick Defense": "12",
       "Value": "1900 G",
-      "Armor Type": "Head Armor"
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Ice": "4%"
@@ -418,7 +418,7 @@
       "Defense": "37",
       "Magick Defense": "21",
       "Value": "1900 G",
-      "Armor Type": "Head Armor"
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Fire": "-3%",
@@ -444,8 +444,8 @@
     "description": "A metal helm that calls to mind the mighty chimera.",
     "image_path": "scraped_armor_images\\Chimeric_Armet.png",
     "locations": [
-      "Caxton in Caxton's Armory in Gran Soren for 59,000 G",
-      "Mathias at The Greatwall Encampment for 59,000 G",
+      "Caxton in Caxton's Armory in Gran Soren for\u00c2\u00a059,000 G",
+      "Mathias at The Greatwall Encampment for\u00c2\u00a059,000 G",
       "Jayce in the Devilfire Grove for 59,000 G",
       "Alon in The Ancient Quarry for 59,000 G",
       "Barroch on Bitterblack Isle for 59,000 G"
@@ -455,7 +455,7 @@
       "Defense": "45",
       "Magick Defense": "20",
       "Value": "23,590 G",
-      "Armor Type": "Head Armor"
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Fire": "4%",
@@ -479,15 +479,15 @@
     "description": "A metal headpiece donned by magick users to focus their mental energies on the arcane.",
     "image_path": "scraped_armor_images\\Circlet.png",
     "locations": [
-      "Caxton from Caxton's Armory in Gran Soren for 14,200 G",
-      "Madeleine for 14,200 G"
+      "Caxton from Caxton's Armory in Gran Soren for\u00c2\u00a014,200 G",
+      "Madeleine for\u00c2\u00a014,200 G"
     ],
     "stats": {
       "Weight": ".12",
       "Defense": "8",
       "Magick Defense": "17",
       "Value": "5,680 G",
-      "Armor Type": "Head Armor"
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Fire": "7%",
@@ -516,18 +516,18 @@
     "description": "A half-helm favored by those who serve the Maker. Despite its elaborate design, it is suitable for everyday use.",
     "image_path": "scraped_armor_images\\Clerical_Cap.png",
     "locations": [
-      "Caxton from Caxton's Armory in Gran Soren for 53,000 G",
+      "Caxton from Caxton's Armory in Gran Soren for\u00c2\u00a053,000 G",
       "Mathias at the Greatwall Encampment for 53,000 G",
-      "Madeleine from Madeleine's Shop in Gran Soren for 53,000 G",
-      "Jayce in Devilfire Grove for 53,000 G",
-      "Barroch on Bitterblack Isle for 53,000 G"
+      "Madeleine from Madeleine's Shop in Gran Soren for\u00c2\u00a053,000 G",
+      "Jayce in Devilfire Grove for\u00c2\u00a053,000 G",
+      "Barroch on Bitterblack Isle for\u00c2\u00a053,000 G"
     ],
     "stats": {
       "Weight": ".54",
       "Defense": "32",
       "Magick Defense": "24",
       "Value": "1900 G",
-      "Armor Type": "Head Armor"
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Holy": "11%"
@@ -554,10 +554,10 @@
     "description": "A hood fastened with a guard of sturdy alloy. Crafted from two separate materials, paired for added toughness",
     "image_path": "scraped_armor_images\\Coupled_Headgear.png",
     "locations": [
-      "Caxton from Caxton's Armor in Gran Soren for 140,800 G",
-      "Jayce in Devilfire Grove for 140,800 G",
+      "Caxton from Caxton's Armor in Gran Soren for\u00c2\u00a0140,800 G",
+      "Jayce in Devilfire Grove for\u00c2\u00a0140,800 G",
       "Alon in The Ancient Quarry for 140,800 G",
-      "Mathias in the Greatwall Encampment for 140,800 G",
+      "Mathias in the Greatwall Encampment for\u00c2\u00a0140,800 G",
       "Barroch on Bitterblack Isle for 140,800 G"
     ],
     "stats": {
@@ -565,7 +565,7 @@
       "Defense": "44",
       "Magick Defense": "32",
       "Value": "56,310 G",
-      "Armor Type": "Head Armor"
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Fire": "4%",
@@ -600,7 +600,8 @@
       "PiercingResist": "3%",
       "StrikingResist": "1%",
       "StaggerResist": "5%",
-      "KnockdownResist": "5%"
+      "KnockdownResist": "5%",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Fire": "2%",
@@ -633,7 +634,8 @@
       "PiercingResist": "-1%",
       "StrikingResist": "1%",
       "StaggerResist": "2%",
-      "KnockdownResist": "2%"
+      "KnockdownResist": "2%",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Ice": "3%"
@@ -666,7 +668,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "1%",
       "StaggerResist": "2%",
-      "KnockdownResist": "5%"
+      "KnockdownResist": "5%",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Fire": "1%",
@@ -699,7 +702,8 @@
       "PiercingResist": "-4%",
       "StrikingResist": "-4%",
       "StaggerResist": "2%",
-      "KnockdownResist": "2%"
+      "KnockdownResist": "2%",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Fire": "3%",
@@ -733,7 +737,8 @@
       "PiercingResist": "-2%",
       "StrikingResist": "1%",
       "StaggerResist": "4%",
-      "KnockdownResist": "3%"
+      "KnockdownResist": "3%",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Fire": "-7%",
@@ -768,7 +773,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "1%",
       "StaggerResist": "3%",
-      "KnockdownResist": "3%"
+      "KnockdownResist": "3%",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Holy": "3%",
@@ -808,7 +814,8 @@
       "PiercingResist": "3%",
       "StrikingResist": "1%",
       "StaggerResist": "5%",
-      "KnockdownResist": "6%"
+      "KnockdownResist": "6%",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Fire": "3%",
@@ -842,7 +849,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "1%",
       "StaggerResist": "3%",
-      "KnockdownResist": "3%"
+      "KnockdownResist": "3%",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Fire": "6%"
@@ -879,7 +887,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "0%",
       "StaggerResist": "0%",
-      "KnockdownResist": "1%"
+      "KnockdownResist": "1%",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Dark": "2%"
@@ -916,7 +925,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "0%",
       "StaggerResist": "0%",
-      "KnockdownResist": "0%"
+      "KnockdownResist": "0%",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Holy": "2%"
@@ -954,7 +964,8 @@
       "StrikingResist": "1%",
       "StaggerResist": "1%",
       "KnockdownResist": "1%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Fire": "-3%",
@@ -994,7 +1005,8 @@
       "StrikingResist": "0%",
       "StaggerResist": "0%",
       "KnockdownResist": "0%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Fire": "2%"
@@ -1025,7 +1037,8 @@
       "StrikingResist": "0%",
       "StaggerResist": "0%",
       "KnockdownResist": "0%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Fire": "1%"
@@ -1061,7 +1074,8 @@
       "StrikingResist": "0%",
       "StaggerResist": "0%",
       "KnockdownResist": "1%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Ice": ""
@@ -1092,7 +1106,8 @@
       "StrikingResist": "0%",
       "StaggerResist": "0%",
       "KnockdownResist": "0%",
-      "ElementalResist": "-"
+      "ElementalResist": "-",
+      "Armor Type": "Head"
     },
     "elemental_res": {},
     "debilitation_res": {
@@ -1128,7 +1143,8 @@
       "PiercingResist": "2%",
       "StrikingResist": "3%",
       "StaggerResist": "3%",
-      "KnockdownResist": "4%"
+      "KnockdownResist": "4%",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "lightning": "2%",
@@ -1163,7 +1179,8 @@
       "StrikingResist": "1%",
       "StaggerResist": "2%",
       "KnockdownResist": "2%",
-      "ElementalResist": "-"
+      "ElementalResist": "-",
+      "Armor Type": "Head"
     },
     "elemental_res": {},
     "debilitation_res": {
@@ -1199,7 +1216,8 @@
       "PiercingResist": "-2%",
       "StrikingResist": "1%",
       "StaggerResist": "4%",
-      "KnockdownResist": "5%"
+      "KnockdownResist": "5%",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Ice": "1%",
@@ -1235,7 +1253,8 @@
       "StrikingResist": "2%",
       "StaggerResist": "3%",
       "KnockdownResist": "5%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Fire": "",
@@ -1267,7 +1286,8 @@
       "StrikingResist": "2%",
       "StaggerResist": "3%",
       "KnockdownResist": "3%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Fire": "-4%",
@@ -1305,7 +1325,8 @@
       "StrikingResist": "0%",
       "StaggerResist": "1%",
       "KnockdownResist": "1%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Fire": "5%",
@@ -1339,7 +1360,8 @@
       "PiercingResist": "2%",
       "StrikingResist": "1%",
       "StaggerResist": "2%",
-      "KnockdownResist": "1%"
+      "KnockdownResist": "1%",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Fire": "",
@@ -1373,7 +1395,8 @@
       "StrikingResist": "2%",
       "StaggerResist": "3%",
       "KnockdownResist": "2%",
-      "ElementalResist": "-"
+      "ElementalResist": "-",
+      "Armor Type": "Head"
     },
     "elemental_res": {},
     "debilitation_res": {
@@ -1403,7 +1426,8 @@
       "StrikingResist": "1%",
       "StaggerResist": "2%",
       "KnockdownResist": "2%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Fire": "-3%",
@@ -1441,7 +1465,8 @@
       "StrikingResist": "1%",
       "StaggerResist": "2%",
       "KnockdownResist": "2%",
-      "ElementalResist": "-"
+      "ElementalResist": "-",
+      "Armor Type": "Head"
     },
     "elemental_res": {},
     "debilitation_res": {
@@ -1474,7 +1499,8 @@
       "StaggerResist": "4%",
       "KnockdownResist": "3%",
       "ElementalResist": "-",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Head"
     },
     "elemental_res": {},
     "debilitation_res": {},
@@ -1502,7 +1528,8 @@
       "PiercingResist": "-3%",
       "StrikingResist": "-3%",
       "StaggerResist": "1%",
-      "KnockdownResist": "1%"
+      "KnockdownResist": "1%",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Fire": "1%",
@@ -1547,7 +1574,8 @@
       "StaggerResist": "0%",
       "KnockdownResist": "0%",
       "ElementalResist": "-",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Head"
     },
     "elemental_res": {},
     "debilitation_res": {},
@@ -1580,7 +1608,8 @@
       "PiercingResist": "-1%",
       "StrikingResist": "-1%",
       "StaggerResist": "1%",
-      "KnockdownResist": "1%"
+      "KnockdownResist": "1%",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Fire": "1%"
@@ -1621,7 +1650,8 @@
       "StaggerResist": "1%",
       "KnockdownResist": "0%",
       "ElementalResist": "-",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Head"
     },
     "elemental_res": {},
     "debilitation_res": {},
@@ -1655,7 +1685,8 @@
       "PiercingResist": "2%",
       "StrikingResist": "1%",
       "StaggerResist": "3%",
-      "KnockdownResist": "2%"
+      "KnockdownResist": "2%",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Holy": "2%"
@@ -1689,7 +1720,8 @@
       "PiercingResist": "-1%",
       "StrikingResist": "-1%",
       "StaggerResist": "4%",
-      "KnockdownResist": "3%"
+      "KnockdownResist": "3%",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Fire": "-5%"
@@ -1729,7 +1761,8 @@
       "PiercingResist": "-1%",
       "StrikingResist": "3%",
       "StaggerResist": "3%",
-      "KnockdownResist": "6%"
+      "KnockdownResist": "6%",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Fire": "2%",
@@ -1763,7 +1796,8 @@
       "PiercingResist": "2%",
       "StrikingResist": "2%",
       "StaggerResist": "4%",
-      "KnockdownResist": "4%"
+      "KnockdownResist": "4%",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Fire": "1%"
@@ -1795,7 +1829,8 @@
       "StrikingResist": "0%",
       "StaggerResist": "1%",
       "KnockdownResist": "1%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Fire": "-3%",
@@ -1830,7 +1865,8 @@
       "StrikingResist": "0%",
       "StaggerResist": "0%",
       "KnockdownResist": "0%",
-      "ElementalResist": "-"
+      "ElementalResist": "-",
+      "Armor Type": "Head"
     },
     "elemental_res": {},
     "debilitation_res": {
@@ -1866,7 +1902,8 @@
       "StrikingResist": "0%",
       "StaggerResist": "1%",
       "KnockdownResist": "0%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Fire": "1%"
@@ -1902,7 +1939,8 @@
       "StrikingResist": "1%",
       "StaggerResist": "2%",
       "KnockdownResist": "1%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Fire": "1%"
@@ -1937,7 +1975,8 @@
       "PiercingResist": "-1%",
       "StrikingResist": "2%",
       "StaggerResist": "3%",
-      "KnockdownResist": "3%"
+      "KnockdownResist": "3%",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Holy": "3%"
@@ -1971,7 +2010,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "1%",
       "StaggerResist": "1%",
-      "KnockdownResist": "1%"
+      "KnockdownResist": "1%",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Holy": "3%",
@@ -2009,7 +2049,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "1%",
       "StaggerResist": "1%",
-      "KnockdownResist": "1%"
+      "KnockdownResist": "1%",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Ice": "",
@@ -2048,7 +2089,8 @@
       "StrikingResist": "0%",
       "StaggerResist": "0%",
       "KnockdownResist": "0%",
-      "ElementalResist": "-"
+      "ElementalResist": "-",
+      "Armor Type": "Head"
     },
     "elemental_res": {},
     "debilitation_res": {
@@ -2085,7 +2127,8 @@
       "StrikingResist": "0%",
       "StaggerResist": "2%",
       "KnockdownResist": "1%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Dark": "1%"
@@ -2117,7 +2160,8 @@
       "StaggerResist": "4%",
       "KnockdownResist": "5%",
       "ElementalResist": "-",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Head"
     },
     "elemental_res": {},
     "debilitation_res": {},
@@ -2144,7 +2188,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "2%",
-      "KnockdownResist": "2%"
+      "KnockdownResist": "2%",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Fire": "4%"
@@ -2183,7 +2228,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "2%",
-      "KnockdownResist": "2%"
+      "KnockdownResist": "2%",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Fire": "2%"
@@ -2222,7 +2268,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "1%",
       "StaggerResist": "1%",
-      "KnockdownResist": "3%"
+      "KnockdownResist": "3%",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Dark": "2%"
@@ -2254,7 +2301,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "-1%",
       "StaggerResist": "2%",
-      "KnockdownResist": "4%"
+      "KnockdownResist": "4%",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Holy": "-3%",
@@ -2287,7 +2335,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "1%",
       "StaggerResist": "1%",
-      "KnockdownResist": "0%"
+      "KnockdownResist": "0%",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Ice": "-3%",
@@ -2321,7 +2370,8 @@
       "StrikingResist": "1%",
       "StaggerResist": "1%",
       "KnockdownResist": "1%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Holy": "2%"
@@ -2356,7 +2406,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "1%",
       "StaggerResist": "4%",
-      "KnockdownResist": "3%"
+      "KnockdownResist": "3%",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Holy": "1%",
@@ -2390,7 +2441,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "1%",
-      "KnockdownResist": "2%"
+      "KnockdownResist": "2%",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Fire": "1%",
@@ -2424,7 +2476,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "0%",
       "StaggerResist": "1%",
-      "KnockdownResist": "1%"
+      "KnockdownResist": "1%",
+      "Armor Type": "Head"
     },
     "elemental_res": {
       "Fire": "2%"
@@ -2461,7 +2514,8 @@
       "PiercingResist": "3%",
       "StrikingResist": "2%",
       "StaggerResist": "23%",
-      "KnockdownResist": "24%"
+      "KnockdownResist": "24%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Fire": "5%"
@@ -2513,7 +2567,8 @@
       "DebilitationResist (icon-debilitation-sleep)": "18%",
       "DebilitationResist (icon-debilitation-skill-stifling)": "12%",
       "DebilitationResist (icon-debilitation-curse)": "12%",
-      "DebilitationResist (icon-debilitation-petrification)": "12%"
+      "DebilitationResist (icon-debilitation-petrification)": "12%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {},
     "debilitation_res": {},
@@ -2542,7 +2597,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "1%",
       "StaggerResist": "13%",
-      "KnockdownResist": "16%"
+      "KnockdownResist": "16%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Dark": "3%"
@@ -2582,7 +2638,8 @@
       "PiercingResist": "2%",
       "StrikingResist": "2%",
       "StaggerResist": "24%",
-      "KnockdownResist": "24%"
+      "KnockdownResist": "24%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Ice": "2%"
@@ -2614,7 +2671,8 @@
       "PiercingResist": "-2%",
       "StrikingResist": "-2%",
       "StaggerResist": "13%",
-      "KnockdownResist": "13%"
+      "KnockdownResist": "13%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Fire": "-6%",
@@ -2655,7 +2713,8 @@
       "PiercingResist": "-2%",
       "StrikingResist": "-2%",
       "StaggerResist": "19%",
-      "KnockdownResist": "20%"
+      "KnockdownResist": "20%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "lightning": "3%",
@@ -2688,7 +2747,8 @@
       "PiercingResist": "2%",
       "StrikingResist": "-3%",
       "StaggerResist": "7%",
-      "KnockdownResist": "9%"
+      "KnockdownResist": "9%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Fire": "-4%",
@@ -2725,7 +2785,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "-2%",
       "StaggerResist": "4%",
-      "KnockdownResist": "5%"
+      "KnockdownResist": "5%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Fire": "-2%",
@@ -2763,7 +2824,8 @@
       "StrikingResist": "1%",
       "StaggerResist": "17%",
       "KnockdownResist": "19%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "lightning": "-3%"
@@ -2792,7 +2854,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "2%",
       "StaggerResist": "12%",
-      "KnockdownResist": "14%"
+      "KnockdownResist": "14%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "lightning": ""
@@ -2824,7 +2887,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "1%",
       "StaggerResist": "17%",
-      "KnockdownResist": "19%"
+      "KnockdownResist": "19%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Fire": "3%",
@@ -2863,7 +2927,8 @@
       "StrikingResist": "2%",
       "StaggerResist": "8%",
       "KnockdownResist": "10%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Fire": "-4%",
@@ -2904,7 +2969,8 @@
       "StaggerResist": "7%",
       "KnockdownResist": "9%",
       "ElementalResist": "-",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Torso"
     },
     "elemental_res": {},
     "debilitation_res": {},
@@ -2935,7 +3001,8 @@
       "PiercingResist": "3%",
       "StrikingResist": "2%",
       "StaggerResist": "25%",
-      "KnockdownResist": "24%"
+      "KnockdownResist": "24%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Fire": "",
@@ -2969,7 +3036,8 @@
       "PiercingResist": "4%",
       "StrikingResist": "2%",
       "StaggerResist": "28%",
-      "KnockdownResist": "27%"
+      "KnockdownResist": "27%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Fire": "3%",
@@ -3001,7 +3069,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "18%",
-      "KnockdownResist": "16%"
+      "KnockdownResist": "16%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Fire": "4%"
@@ -3033,7 +3102,8 @@
       "PiercingResist": "2%",
       "StrikingResist": "1%",
       "StaggerResist": "12%",
-      "KnockdownResist": "12%"
+      "KnockdownResist": "12%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Holy": "3%"
@@ -3065,7 +3135,8 @@
       "PiercingResist": "2%",
       "StrikingResist": "-2%",
       "StaggerResist": "20%",
-      "KnockdownResist": "23%"
+      "KnockdownResist": "23%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Holy": "-4%",
@@ -3098,7 +3169,8 @@
       "PiercingResist": "2%",
       "StrikingResist": "1%",
       "StaggerResist": "24%",
-      "KnockdownResist": "28%"
+      "KnockdownResist": "28%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Holy": "4%",
@@ -3131,7 +3203,8 @@
       "StrikingResist": "1%",
       "StaggerResist": "7%",
       "KnockdownResist": "6%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Fire": "-4%",
@@ -3166,7 +3239,8 @@
       "PiercingResist": "3%",
       "StrikingResist": "2%",
       "StaggerResist": "18%",
-      "KnockdownResist": "20%"
+      "KnockdownResist": "20%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Ice": "2%"
@@ -3199,7 +3273,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "16%",
-      "KnockdownResist": "13%"
+      "KnockdownResist": "13%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Fire": "1%",
@@ -3239,7 +3314,8 @@
       "PiercingResist": "-1%",
       "StrikingResist": "-1%",
       "StaggerResist": "15%",
-      "KnockdownResist": "14%"
+      "KnockdownResist": "14%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Fire": "2%",
@@ -3279,7 +3355,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "3%",
       "StaggerResist": "25%",
-      "KnockdownResist": "24%"
+      "KnockdownResist": "24%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "lightning": "3%",
@@ -3313,7 +3390,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "1%",
       "StaggerResist": "22%",
-      "KnockdownResist": "22%"
+      "KnockdownResist": "22%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Ice": ""
@@ -3345,7 +3423,8 @@
       "PiercingResist": "-3%",
       "StrikingResist": "2%",
       "StaggerResist": "24%",
-      "KnockdownResist": "26%"
+      "KnockdownResist": "26%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Ice": "2%",
@@ -3382,7 +3461,8 @@
       "StrikingResist": "0%",
       "StaggerResist": "21%",
       "KnockdownResist": "25%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Fire": "-4%",
@@ -3412,7 +3492,8 @@
       "PiercingResist": "-1%",
       "StrikingResist": "0%",
       "StaggerResist": "6%",
-      "KnockdownResist": "4%"
+      "KnockdownResist": "4%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Ice": "1%",
@@ -3446,7 +3527,8 @@
       "StrikingResist": "0%",
       "StaggerResist": "6%",
       "KnockdownResist": "4%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Fire": "6%",
@@ -3481,7 +3563,8 @@
       "StrikingResist": "1%",
       "StaggerResist": "12%",
       "KnockdownResist": "9%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Fire": "-4%",
@@ -3516,7 +3599,8 @@
       "StrikingResist": "1%",
       "StaggerResist": "15%",
       "KnockdownResist": "19%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "lightning": "1%"
@@ -3547,7 +3631,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "14%",
-      "KnockdownResist": "16%"
+      "KnockdownResist": "16%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "lightning": "2%"
@@ -3581,7 +3666,8 @@
       "StrikingResist": "3%",
       "StaggerResist": "16%",
       "KnockdownResist": "18%",
-      "ElementalResist": "-"
+      "ElementalResist": "-",
+      "Armor Type": "Torso"
     },
     "elemental_res": {},
     "debilitation_res": {
@@ -3611,7 +3697,8 @@
       "PiercingResist": "3%",
       "StrikingResist": "1%",
       "StaggerResist": "23%",
-      "KnockdownResist": "22%"
+      "KnockdownResist": "22%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Fire": "2%",
@@ -3647,7 +3734,8 @@
       "StaggerResist": "8%",
       "KnockdownResist": "7%",
       "ElementalResist": "-",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Torso"
     },
     "elemental_res": {},
     "debilitation_res": {},
@@ -3680,7 +3768,8 @@
       "StaggerResist": "3%",
       "KnockdownResist": "4%",
       "ElementalResist": "-",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Torso"
     },
     "elemental_res": {},
     "debilitation_res": {},
@@ -3711,7 +3800,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "1%",
       "StaggerResist": "16%",
-      "KnockdownResist": "13%"
+      "KnockdownResist": "13%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Fire": "1%"
@@ -3744,7 +3834,8 @@
       "StrikingResist": "2%",
       "StaggerResist": "15%",
       "KnockdownResist": "13%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Fire": "1%"
@@ -3774,7 +3865,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "2%",
       "StaggerResist": "11%",
-      "KnockdownResist": "13%"
+      "KnockdownResist": "13%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Fire": "2%",
@@ -3807,7 +3899,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "1%",
       "StaggerResist": "16%",
-      "KnockdownResist": "15%"
+      "KnockdownResist": "15%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Holy": "2%"
@@ -3844,7 +3937,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "21%",
-      "KnockdownResist": "19%"
+      "KnockdownResist": "19%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Ice": ""
@@ -3877,7 +3971,8 @@
       "PiercingResist": "2%",
       "StrikingResist": "3%",
       "StaggerResist": "26%",
-      "KnockdownResist": "24%"
+      "KnockdownResist": "24%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Fire": ""
@@ -3908,7 +4003,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "2%",
       "StaggerResist": "13%",
-      "KnockdownResist": "12%"
+      "KnockdownResist": "12%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "lightning": "2%"
@@ -3940,7 +4036,8 @@
       "StrikingResist": "0%",
       "StaggerResist": "5%",
       "KnockdownResist": "8%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Fire": "-4%",
@@ -3975,7 +4072,8 @@
       "StrikingResist": "0%",
       "StaggerResist": "20%",
       "KnockdownResist": "20%",
-      "ElementalResist": "-"
+      "ElementalResist": "-",
+      "Armor Type": "Torso"
     },
     "elemental_res": {},
     "debilitation_res": {
@@ -4014,7 +4112,8 @@
       "StrikingResist": "2%",
       "StaggerResist": "16%",
       "KnockdownResist": "18%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Ice": "1%"
@@ -4045,7 +4144,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "1%",
       "StaggerResist": "22%",
-      "KnockdownResist": "22%"
+      "KnockdownResist": "22%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Holy": ""
@@ -4081,7 +4181,8 @@
       "StaggerResist": "0%",
       "KnockdownResist": "0%",
       "ElementalResist": "-",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Torso"
     },
     "elemental_res": {},
     "debilitation_res": {},
@@ -4114,7 +4215,8 @@
       "PiercingResist": "-1%",
       "StrikingResist": "-2%",
       "StaggerResist": "23%",
-      "KnockdownResist": "23%"
+      "KnockdownResist": "23%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "lightning": "3%",
@@ -4157,7 +4259,8 @@
       "PiercingResist": "4%",
       "StrikingResist": "-2%",
       "StaggerResist": "26%",
-      "KnockdownResist": "26%"
+      "KnockdownResist": "26%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Fire": "3%",
@@ -4190,7 +4293,8 @@
       "PiercingResist": "2%",
       "StrikingResist": "2%",
       "StaggerResist": "19%",
-      "KnockdownResist": "16%"
+      "KnockdownResist": "16%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Fire": ""
@@ -4223,7 +4327,8 @@
       "PiercingResist": "2%",
       "StrikingResist": "3%",
       "StaggerResist": "21%",
-      "KnockdownResist": "23%"
+      "KnockdownResist": "23%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Holy": "2%"
@@ -4262,7 +4367,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "1%",
       "StaggerResist": "26%",
-      "KnockdownResist": "26%"
+      "KnockdownResist": "26%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Fire": "1%",
@@ -4296,7 +4402,8 @@
       "PiercingResist": "2%",
       "StrikingResist": "2%",
       "StaggerResist": "14%",
-      "KnockdownResist": "13%"
+      "KnockdownResist": "13%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "lightning": "3%",
@@ -4329,7 +4436,8 @@
       "PiercingResist": "3%",
       "StrikingResist": "1%",
       "StaggerResist": "17%",
-      "KnockdownResist": "17%"
+      "KnockdownResist": "17%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Fire": "-3%",
@@ -4362,7 +4470,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "1%",
       "StaggerResist": "9%",
-      "KnockdownResist": "8%"
+      "KnockdownResist": "8%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Fire": "2%"
@@ -4395,7 +4504,8 @@
       "StaggerResist": "11%",
       "KnockdownResist": "10%",
       "ElementalResist": "-",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Torso"
     },
     "elemental_res": {},
     "debilitation_res": {},
@@ -4425,7 +4535,8 @@
       "StaggerResist": "23%",
       "KnockdownResist": "21%",
       "ElementalResist": "-",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Torso"
     },
     "elemental_res": {},
     "debilitation_res": {},
@@ -4452,7 +4563,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "2%",
-      "KnockdownResist": "5%"
+      "KnockdownResist": "5%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Fire": "1%"
@@ -4485,7 +4597,8 @@
       "StaggerResist": "5%",
       "KnockdownResist": "3%",
       "ElementalResist": "-",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Torso"
     },
     "elemental_res": {},
     "debilitation_res": {},
@@ -4518,7 +4631,8 @@
       "StaggerResist": "19%",
       "KnockdownResist": "19%",
       "ElementalResist": "-",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Torso"
     },
     "elemental_res": {},
     "debilitation_res": {},
@@ -4548,7 +4662,8 @@
       "StaggerResist": "25%",
       "KnockdownResist": "27%",
       "ElementalResist": "-",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Torso"
     },
     "elemental_res": {},
     "debilitation_res": {},
@@ -4577,7 +4692,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "23%",
-      "KnockdownResist": "21%"
+      "KnockdownResist": "21%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Fire": "5%"
@@ -4616,7 +4732,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "18%",
-      "KnockdownResist": "16%"
+      "KnockdownResist": "16%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Fire": "3%"
@@ -4655,7 +4772,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "1%",
       "StaggerResist": "18%",
-      "KnockdownResist": "18%"
+      "KnockdownResist": "18%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Ice": "1%",
@@ -4686,7 +4804,7 @@
     "description": "Armor of thick layers of steel plate. Its protection is first rate, yet still offers ample maneuverability.",
     "image_path": "scraped_armor_images\\Swordsmans_Plate.png",
     "locations": [
-      "Sold by Alon . (not available on PC version)"
+      "Sold by Alon .\u00c2\u00a0(not available on PC version)"
     ],
     "stats": {
       "Weight": "3.46",
@@ -4696,7 +4814,8 @@
       "PiercingResist": "2%",
       "StrikingResist": "1%",
       "StaggerResist": "23%",
-      "KnockdownResist": "22%"
+      "KnockdownResist": "22%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Holy": "-4%",
@@ -4735,7 +4854,8 @@
       "PiercingResist": "2%",
       "StrikingResist": "1%",
       "StaggerResist": "17%",
-      "KnockdownResist": "15%"
+      "KnockdownResist": "15%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "lightning": "1%"
@@ -4770,7 +4890,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "2%",
       "StaggerResist": "21%",
-      "KnockdownResist": "21%"
+      "KnockdownResist": "21%",
+      "Armor Type": "Torso"
     },
     "elemental_res": {
       "Holy": "3%",
@@ -4803,7 +4924,8 @@
       "PiercingResist": "2%",
       "StrikingResist": "1%",
       "StaggerResist": "5%",
-      "KnockdownResist": "5%"
+      "KnockdownResist": "5%",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "lightning": "5%"
@@ -4843,7 +4965,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "0%",
       "StaggerResist": "1%",
-      "KnockdownResist": "2%"
+      "KnockdownResist": "2%",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Fire": "3%"
@@ -4893,7 +5016,8 @@
       "DebilitationResist (icon-debilitation-sleep)": "15%",
       "DebilitationResist (icon-debilitation-skill-stifling)": "10%",
       "DebilitationResist (icon-debilitation-curse)": "10%",
-      "DebilitationResist (icon-debilitation-petrification)": "10%"
+      "DebilitationResist (icon-debilitation-petrification)": "10%",
+      "Armor Type": "Arms"
     },
     "elemental_res": {},
     "debilitation_res": {},
@@ -4928,7 +5052,8 @@
       "StrikingResist": "-1%",
       "StaggerResist": "3%",
       "KnockdownResist": "4%",
-      "ElementalResist": "-"
+      "ElementalResist": "-",
+      "Armor Type": "Arms"
     },
     "elemental_res": {},
     "debilitation_res": {
@@ -4964,7 +5089,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "1%",
       "StaggerResist": "4%",
-      "KnockdownResist": "1%"
+      "KnockdownResist": "1%",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "lightning": "1%"
@@ -5001,7 +5127,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "0%",
       "StaggerResist": "4%",
-      "KnockdownResist": "3%"
+      "KnockdownResist": "3%",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Holy": "-3%",
@@ -5037,7 +5164,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "1%",
       "StaggerResist": "5%",
-      "KnockdownResist": "3%"
+      "KnockdownResist": "3%",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Fire": "1%",
@@ -5071,7 +5199,8 @@
       "PiercingResist": "-1%",
       "StrikingResist": "0%",
       "StaggerResist": "0%",
-      "KnockdownResist": "1%"
+      "KnockdownResist": "1%",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Dark": "2%"
@@ -5107,7 +5236,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "5%",
-      "KnockdownResist": "4%"
+      "KnockdownResist": "4%",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Fire": "1%",
@@ -5145,7 +5275,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "0%",
       "StaggerResist": "1%",
-      "KnockdownResist": "0%"
+      "KnockdownResist": "0%",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Ice": "3%"
@@ -5183,7 +5314,8 @@
       "StrikingResist": "1%",
       "StaggerResist": "5%",
       "KnockdownResist": "5%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "lightning": "-2%"
@@ -5212,7 +5344,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "1%",
       "StaggerResist": "5%",
-      "KnockdownResist": "5%"
+      "KnockdownResist": "5%",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "lightning": "2%"
@@ -5247,7 +5380,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "1%",
       "StaggerResist": "2%",
-      "KnockdownResist": "2%"
+      "KnockdownResist": "2%",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Holy": "1%"
@@ -5287,7 +5421,8 @@
       "StrikingResist": "2%",
       "StaggerResist": "2%",
       "KnockdownResist": "2%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Fire": "-3%",
@@ -5321,7 +5456,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "1%",
       "StaggerResist": "7%",
-      "KnockdownResist": "7%"
+      "KnockdownResist": "7%",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Fire": "1%",
@@ -5354,7 +5490,8 @@
       "PiercingResist": "3%",
       "StrikingResist": "2%",
       "StaggerResist": "8%",
-      "KnockdownResist": "7%"
+      "KnockdownResist": "7%",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Fire": "2%",
@@ -5387,7 +5524,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "6%",
-      "KnockdownResist": "3%"
+      "KnockdownResist": "3%",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Dark": "1%"
@@ -5424,7 +5562,8 @@
       "StrikingResist": "1%",
       "StaggerResist": "5%",
       "KnockdownResist": "6%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Fire": "2%",
@@ -5456,7 +5595,8 @@
       "PiercingResist": "3%",
       "StrikingResist": "-1%",
       "StaggerResist": "7%",
-      "KnockdownResist": "7%"
+      "KnockdownResist": "7%",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Fire": "2%",
@@ -5490,7 +5630,8 @@
       "StrikingResist": "1%",
       "StaggerResist": "1%",
       "KnockdownResist": "1%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Fire": "-3%",
@@ -5528,7 +5669,8 @@
       "StrikingResist": "0%",
       "StaggerResist": "1%",
       "KnockdownResist": "0%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Fire": "1%"
@@ -5564,7 +5706,8 @@
       "StrikingResist": "-1%",
       "StaggerResist": "1%",
       "KnockdownResist": "2%",
-      "ElementalResist": "-"
+      "ElementalResist": "-",
+      "Armor Type": "Arms"
     },
     "elemental_res": {},
     "debilitation_res": {
@@ -5599,7 +5742,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "1%",
       "StaggerResist": "0%",
-      "KnockdownResist": "3%"
+      "KnockdownResist": "3%",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Holy": "2%",
@@ -5639,7 +5783,8 @@
       "StrikingResist": "0%",
       "StaggerResist": "1%",
       "KnockdownResist": "2%",
-      "ElementalResist": "-"
+      "ElementalResist": "-",
+      "Armor Type": "Arms"
     },
     "elemental_res": {},
     "debilitation_res": {
@@ -5674,7 +5819,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "0%",
       "StaggerResist": "1%",
-      "KnockdownResist": "1%"
+      "KnockdownResist": "1%",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Fire": "3%",
@@ -5713,7 +5859,8 @@
       "PiercingResist": "-2%",
       "StrikingResist": "1%",
       "StaggerResist": "5%",
-      "KnockdownResist": "6%"
+      "KnockdownResist": "6%",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Ice": "1%",
@@ -5753,7 +5900,8 @@
       "StrikingResist": "1%",
       "StaggerResist": "5%",
       "KnockdownResist": "7%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Fire": "-3%",
@@ -5786,7 +5934,8 @@
       "StaggerResist": "2%",
       "KnockdownResist": "1%",
       "ElementalResist": "-",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Arms"
     },
     "elemental_res": {},
     "debilitation_res": {},
@@ -5818,7 +5967,8 @@
       "StrikingResist": "1%",
       "StaggerResist": "1%",
       "KnockdownResist": "1%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Fire": "5%",
@@ -5858,7 +6008,8 @@
       "StrikingResist": "1%",
       "StaggerResist": "2%",
       "KnockdownResist": "1%",
-      "DebilitationResist": "2.31"
+      "DebilitationResist": "2.31",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Fire": "-3%",
@@ -5894,7 +6045,8 @@
       "StaggerResist": "6%",
       "KnockdownResist": "5%",
       "ElementalResist": "-",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Arms"
     },
     "elemental_res": {},
     "debilitation_res": {},
@@ -5923,7 +6075,8 @@
       "StaggerResist": "3%",
       "KnockdownResist": "4%",
       "ElementalResist": "-",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Arms"
     },
     "elemental_res": {},
     "debilitation_res": {},
@@ -5956,7 +6109,8 @@
       "StrikingResist": "0%",
       "StaggerResist": "3%",
       "KnockdownResist": "4%",
-      "ElementalResist": "-"
+      "ElementalResist": "-",
+      "Armor Type": "Arms"
     },
     "elemental_res": {},
     "debilitation_res": {
@@ -5989,7 +6143,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "0%",
       "StaggerResist": "2%",
-      "KnockdownResist": "1%"
+      "KnockdownResist": "1%",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Dark": "3%"
@@ -6027,7 +6182,8 @@
       "StrikingResist": "0%",
       "StaggerResist": "3%",
       "KnockdownResist": "2%",
-      "ElementalResist": "-"
+      "ElementalResist": "-",
+      "Armor Type": "Arms"
     },
     "elemental_res": {},
     "debilitation_res": {
@@ -6061,7 +6217,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "6%",
-      "KnockdownResist": "5%"
+      "KnockdownResist": "5%",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Holy": "1%"
@@ -6098,7 +6255,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "2%",
       "StaggerResist": "7%",
-      "KnockdownResist": "6%"
+      "KnockdownResist": "6%",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Fire": "1%"
@@ -6129,7 +6287,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "1%",
-      "KnockdownResist": "1%"
+      "KnockdownResist": "1%",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Fire": "-3%",
@@ -6163,7 +6322,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "5%",
-      "KnockdownResist": "4%"
+      "KnockdownResist": "4%",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Fire": "1%"
@@ -6200,7 +6360,8 @@
       "StaggerResist": "1%",
       "KnockdownResist": "1%",
       "ElementalResist": "-",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Arms"
     },
     "elemental_res": {},
     "debilitation_res": {},
@@ -6232,7 +6393,8 @@
       "StrikingResist": "0%",
       "StaggerResist": "4%",
       "KnockdownResist": "3%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Fire": "1%"
@@ -6265,7 +6427,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "0%",
       "StaggerResist": "1%",
-      "KnockdownResist": "1%"
+      "KnockdownResist": "1%",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Holy": "3%"
@@ -6304,7 +6467,8 @@
       "StrikingResist": "0%",
       "StaggerResist": "4%",
       "KnockdownResist": "4%",
-      "DebilitationResist": "0.94"
+      "DebilitationResist": "0.94",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Fire": "-2%",
@@ -6341,7 +6505,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "1%",
       "StaggerResist": "5%",
-      "KnockdownResist": "5%"
+      "KnockdownResist": "5%",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Fire": "2%"
@@ -6377,7 +6542,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "0%",
       "StaggerResist": "0%",
-      "KnockdownResist": "0%"
+      "KnockdownResist": "0%",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Fire": "1%"
@@ -6414,7 +6580,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "1%",
       "StaggerResist": "5%",
-      "KnockdownResist": "8%"
+      "KnockdownResist": "8%",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Holy": "-5%",
@@ -6447,7 +6614,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "0%",
       "StaggerResist": "0%",
-      "KnockdownResist": "0%"
+      "KnockdownResist": "0%",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Fire": "2%",
@@ -6488,7 +6656,8 @@
       "StaggerResist": "6%",
       "KnockdownResist": "8%",
       "ElementalResist": "-",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Arms"
     },
     "elemental_res": {},
     "debilitation_res": {},
@@ -6505,7 +6674,7 @@
     "description": "Armored gauntlets protecting both upper and forearm. They are light enough that one's weapon arm can move freely.",
     "image_path": "scraped_armor_images\\Swordsmans_Bracers.png",
     "locations": [
-      "Sold by Alon . (not available on PC version)"
+      "Sold by Alon .\u00c2\u00a0(not available on PC version)"
     ],
     "stats": {
       "Weight": "1.97",
@@ -6515,7 +6684,8 @@
       "PiercingResist": "2%",
       "StrikingResist": "1%",
       "StaggerResist": "7%",
-      "KnockdownResist": "6%"
+      "KnockdownResist": "6%",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Holy": "-3%",
@@ -6553,7 +6723,8 @@
       "StrikingResist": "0%",
       "StaggerResist": "0%",
       "KnockdownResist": "0%",
-      "ElementalResist": "-"
+      "ElementalResist": "-",
+      "Armor Type": "Arms"
     },
     "elemental_res": {},
     "debilitation_res": {
@@ -6588,7 +6759,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "1%",
-      "KnockdownResist": "1%"
+      "KnockdownResist": "1%",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "lightning": "3%"
@@ -6626,7 +6798,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "-1%",
       "StaggerResist": "3%",
-      "KnockdownResist": "3%"
+      "KnockdownResist": "3%",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Holy": "-3%",
@@ -6658,7 +6831,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "2%",
       "StaggerResist": "5%",
-      "KnockdownResist": "5%"
+      "KnockdownResist": "5%",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Holy": "2%",
@@ -6692,7 +6866,8 @@
       "StrikingResist": "0%",
       "StaggerResist": "0%",
       "KnockdownResist": "0%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Arms"
     },
     "elemental_res": {
       "Fire": "-1%",
@@ -6728,7 +6903,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "1%",
       "StaggerResist": "19%",
-      "KnockdownResist": "18%"
+      "KnockdownResist": "18%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Ice": "5%"
@@ -6780,7 +6956,8 @@
       "DebilitationResist (icon-debilitation-sleep)": "15%",
       "DebilitationResist (icon-debilitation-skill-stifling)": "10%",
       "DebilitationResist (icon-debilitation-curse)": "10%",
-      "DebilitationResist (icon-debilitation-petrification)": "10%"
+      "DebilitationResist (icon-debilitation-petrification)": "10%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {},
     "debilitation_res": {},
@@ -6814,7 +6991,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "14%",
-      "KnockdownResist": "11%"
+      "KnockdownResist": "11%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Holy": "-3%",
@@ -6848,7 +7026,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "1%",
       "StaggerResist": "12%",
-      "KnockdownResist": "10%"
+      "KnockdownResist": "10%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Fire": "1%",
@@ -6886,7 +7065,8 @@
       "StrikingResist": "0%",
       "StaggerResist": "11%",
       "KnockdownResist": "12%",
-      "ElementalResist": "-"
+      "ElementalResist": "-",
+      "Armor Type": "Legs"
     },
     "elemental_res": {},
     "debilitation_res": {
@@ -6915,7 +7095,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "5%",
-      "KnockdownResist": "3%"
+      "KnockdownResist": "3%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Fire": "-2%",
@@ -6949,7 +7130,8 @@
       "StrikingResist": "1%",
       "StaggerResist": "13%",
       "KnockdownResist": "13%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "lightning": "-2%"
@@ -6980,7 +7162,8 @@
       "StaggerResist": "4%",
       "KnockdownResist": "4%",
       "ElementalResist": "-",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Legs"
     },
     "elemental_res": {},
     "debilitation_res": {},
@@ -7008,7 +7191,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "1%",
       "StaggerResist": "16%",
-      "KnockdownResist": "14%"
+      "KnockdownResist": "14%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Fire": "2%",
@@ -7046,7 +7230,8 @@
       "StrikingResist": "0%",
       "StaggerResist": "2%",
       "KnockdownResist": "3%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Fire": "1%",
@@ -7083,7 +7268,8 @@
       "PiercingResist": "2%",
       "StrikingResist": "0%",
       "StaggerResist": "11%",
-      "KnockdownResist": "13%"
+      "KnockdownResist": "13%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Ice": "1%",
@@ -7122,7 +7308,8 @@
       "StrikingResist": "1%",
       "StaggerResist": "12%",
       "KnockdownResist": "12%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Fire": "-3%",
@@ -7156,7 +7343,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "1%",
       "StaggerResist": "17%",
-      "KnockdownResist": "16%"
+      "KnockdownResist": "16%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Fire": "1%",
@@ -7191,7 +7379,8 @@
       "StaggerResist": "0%",
       "KnockdownResist": "0%",
       "ElementalResist": "-",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Legs"
     },
     "elemental_res": {},
     "debilitation_res": {},
@@ -7224,7 +7413,8 @@
       "PiercingResist": "2%",
       "StrikingResist": "1%",
       "StaggerResist": "20%",
-      "KnockdownResist": "19%"
+      "KnockdownResist": "19%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Fire": "2%",
@@ -7258,7 +7448,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "13%",
-      "KnockdownResist": "16%"
+      "KnockdownResist": "16%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Fire": "1%",
@@ -7297,7 +7488,8 @@
       "StrikingResist": "0%",
       "StaggerResist": "8%",
       "KnockdownResist": "10%",
-      "ElementalResist": "-"
+      "ElementalResist": "-",
+      "Armor Type": "Legs"
     },
     "elemental_res": {},
     "debilitation_res": {
@@ -7331,7 +7523,8 @@
       "PiercingResist": "3%",
       "StrikingResist": "-2%",
       "StaggerResist": "14%",
-      "KnockdownResist": "21%"
+      "KnockdownResist": "21%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Fire": "1%"
@@ -7363,7 +7556,8 @@
       "StrikingResist": "0%",
       "StaggerResist": "3%",
       "KnockdownResist": "4%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Dark": "1%"
@@ -7399,7 +7593,8 @@
       "StrikingResist": "0%",
       "StaggerResist": "13%",
       "KnockdownResist": "13%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Fire": "-3%",
@@ -7437,7 +7632,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "1%",
       "StaggerResist": "13%",
-      "KnockdownResist": "15%"
+      "KnockdownResist": "15%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Holy": "2%",
@@ -7476,7 +7672,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "12%",
-      "KnockdownResist": "14%"
+      "KnockdownResist": "14%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Fire": "1%"
@@ -7513,7 +7710,8 @@
       "PiercingResist": "-1%",
       "StrikingResist": "-2%",
       "StaggerResist": "8%",
-      "KnockdownResist": "6%"
+      "KnockdownResist": "6%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Fire": "6%",
@@ -7553,7 +7751,8 @@
       "StrikingResist": "0%",
       "StaggerResist": "6%",
       "KnockdownResist": "8%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Ice": "1%"
@@ -7585,7 +7784,8 @@
       "StaggerResist": "6%",
       "KnockdownResist": "5%",
       "ElementalResist": "-",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Legs"
     },
     "elemental_res": {},
     "debilitation_res": {},
@@ -7616,7 +7816,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "0%",
       "StaggerResist": "6%",
-      "KnockdownResist": "7%"
+      "KnockdownResist": "7%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Dark": "2%"
@@ -7654,7 +7855,8 @@
       "PiercingResist": "-1%",
       "StrikingResist": "1%",
       "StaggerResist": "17%",
-      "KnockdownResist": "16%"
+      "KnockdownResist": "16%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Ice": "1%",
@@ -7679,7 +7881,7 @@
     ],
     "id": 219
   },
-   {
+  {
     "wiki_link": "https://dragonsdogma.fandom.com/wiki/Gryphic_Greaves",
     "name": "Gryphic Greaves",
     "description": "Exquisite silver greaves and cuisses wrought in the form of the noble griffin.",
@@ -7702,7 +7904,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "1%",
       "StaggerResist": "14%",
-      "KnockdownResist": "17%"
+      "KnockdownResist": "17%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Fire": "-3%",
@@ -7733,7 +7936,8 @@
       "StrikingResist": "0%",
       "StaggerResist": "8%",
       "KnockdownResist": "11%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Fire": "5%",
@@ -7773,7 +7977,8 @@
       "StrikingResist": "0%",
       "StaggerResist": "13%",
       "KnockdownResist": "11%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Fire": "-3%",
@@ -7812,7 +8017,8 @@
       "PiercingResist": "-1%",
       "StrikingResist": "0%",
       "StaggerResist": "15%",
-      "KnockdownResist": "15%"
+      "KnockdownResist": "15%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Holy": "5%",
@@ -7850,7 +8056,8 @@
       "StaggerResist": "9%",
       "KnockdownResist": "11%",
       "ElementalResist": "-",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Legs"
     },
     "elemental_res": {},
     "debilitation_res": {},
@@ -7879,7 +8086,8 @@
       "PiercingResist": "%",
       "StrikingResist": "%",
       "StaggerResist": "%",
-      "KnockdownResist": "%"
+      "KnockdownResist": "%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {},
     "debilitation_res": {},
@@ -7913,7 +8121,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "-1%",
       "StaggerResist": "5%",
-      "KnockdownResist": "10%"
+      "KnockdownResist": "10%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {},
     "debilitation_res": {
@@ -7945,7 +8154,8 @@
       "StaggerResist": "3%",
       "KnockdownResist": "2%",
       "ElementalResist": "-",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Legs"
     },
     "elemental_res": {},
     "debilitation_res": {},
@@ -7974,7 +8184,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "0%",
       "StaggerResist": "15%",
-      "KnockdownResist": "14%"
+      "KnockdownResist": "14%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Fire": "1%"
@@ -8011,7 +8222,8 @@
       "StaggerResist": "1%",
       "KnockdownResist": "2%",
       "ElementalResist": "-",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Legs"
     },
     "elemental_res": {},
     "debilitation_res": {},
@@ -8044,7 +8256,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "0%",
       "StaggerResist": "5%",
-      "KnockdownResist": "6%"
+      "KnockdownResist": "6%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Fire": "1%",
@@ -8083,7 +8296,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "2%",
       "StaggerResist": "18%",
-      "KnockdownResist": "17%"
+      "KnockdownResist": "17%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Fire": "1%"
@@ -8122,7 +8336,8 @@
       "StaggerResist": "7%",
       "KnockdownResist": "8%",
       "ElementalResist": "-",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Legs"
     },
     "elemental_res": {},
     "debilitation_res": {},
@@ -8150,7 +8365,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "-1%",
       "StaggerResist": "14%",
-      "KnockdownResist": "18%"
+      "KnockdownResist": "18%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Fire": "3%",
@@ -8189,7 +8405,8 @@
       "StrikingResist": "0%",
       "StaggerResist": "10%",
       "KnockdownResist": "13%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Fire": "-3%",
@@ -8223,7 +8440,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "1%",
       "StaggerResist": "13%",
-      "KnockdownResist": "14%"
+      "KnockdownResist": "14%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "lightning": "1%"
@@ -8257,7 +8475,8 @@
       "StaggerResist": "7%",
       "KnockdownResist": "6%",
       "ElementalResist": "-",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Legs"
     },
     "elemental_res": {},
     "debilitation_res": {},
@@ -8290,7 +8509,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "10%",
-      "KnockdownResist": "11%"
+      "KnockdownResist": "11%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Ice": "1%"
@@ -8328,7 +8548,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "11%",
-      "KnockdownResist": "8%"
+      "KnockdownResist": "8%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Fire": "-2%",
@@ -8364,7 +8585,8 @@
       "PiercingResist": "-1%",
       "StrikingResist": "0%",
       "StaggerResist": "12%",
-      "KnockdownResist": "12%"
+      "KnockdownResist": "12%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "lightning": "2%"
@@ -8399,7 +8621,8 @@
       "StrikingResist": "2%",
       "StaggerResist": "10%",
       "KnockdownResist": "9%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Fire": "1%"
@@ -8429,7 +8652,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "9%",
-      "KnockdownResist": "7%"
+      "KnockdownResist": "7%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Fire": "3%",
@@ -8462,7 +8686,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "12%",
-      "KnockdownResist": "15%"
+      "KnockdownResist": "15%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Fire": "2%"
@@ -8500,7 +8725,8 @@
       "StrikingResist": "1%",
       "StaggerResist": "7%",
       "KnockdownResist": "7%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "lightning": "1%"
@@ -8534,7 +8760,8 @@
       "PiercingResist": "-1%",
       "StrikingResist": "0%",
       "StaggerResist": "13%",
-      "KnockdownResist": "13%"
+      "KnockdownResist": "13%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Fire": "2%"
@@ -8570,7 +8797,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "10%",
-      "KnockdownResist": "10%"
+      "KnockdownResist": "10%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Fire": "-2%",
@@ -8608,7 +8836,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "0%",
       "StaggerResist": "3%",
-      "KnockdownResist": "2%"
+      "KnockdownResist": "2%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Fire": "1%"
@@ -8645,7 +8874,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "1%",
       "StaggerResist": "16%",
-      "KnockdownResist": "20%"
+      "KnockdownResist": "20%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Holy": "-5%",
@@ -8687,7 +8917,8 @@
       "StaggerResist": "17%",
       "KnockdownResist": "19%",
       "ElementalResist": "-",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Legs"
     },
     "elemental_res": {},
     "debilitation_res": {},
@@ -8715,7 +8946,8 @@
       "StrikingResist": "0%",
       "StaggerResist": "9%",
       "KnockdownResist": "7%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Fire": "1%"
@@ -8749,7 +8981,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "0%",
       "StaggerResist": "14%",
-      "KnockdownResist": "10%"
+      "KnockdownResist": "10%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "lightning": "1%"
@@ -8786,7 +9019,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "1%",
       "StaggerResist": "16%",
-      "KnockdownResist": "16%"
+      "KnockdownResist": "16%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Holy": "1%"
@@ -8818,7 +9052,8 @@
       "PiercingResist": "2%",
       "StrikingResist": "1%",
       "StaggerResist": "17%",
-      "KnockdownResist": "16%"
+      "KnockdownResist": "16%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Holy": "-3%",
@@ -8855,7 +9090,8 @@
       "StrikingResist": "0%",
       "StaggerResist": "13%",
       "KnockdownResist": "15%",
-      "DebilitationResist": "1.42"
+      "DebilitationResist": "1.42",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Ice": "2%"
@@ -8888,7 +9124,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "-1%",
       "StaggerResist": "15%",
-      "KnockdownResist": "17%"
+      "KnockdownResist": "17%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Holy": "-3%",
@@ -8920,7 +9157,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "2%",
       "StaggerResist": "15%",
-      "KnockdownResist": "15%"
+      "KnockdownResist": "15%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Holy": "2%",
@@ -8953,7 +9191,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "0%",
       "StaggerResist": "7%",
-      "KnockdownResist": "8%"
+      "KnockdownResist": "8%",
+      "Armor Type": "Legs"
     },
     "elemental_res": {
       "Fire": "2%",
@@ -8992,7 +9231,8 @@
       "PiercingResist": "7%",
       "StrikingResist": "7%",
       "StaggerResist": "42%",
-      "KnockdownResist": "42%"
+      "KnockdownResist": "42%",
+      "Armor Type": "Outfits"
     },
     "elemental_res": {
       "Holy": "4%",
@@ -9030,7 +9270,8 @@
       "PiercingResist": "7%",
       "StrikingResist": "7%",
       "StaggerResist": "32%",
-      "KnockdownResist": "32%"
+      "KnockdownResist": "32%",
+      "Armor Type": "Outfits"
     },
     "elemental_res": {
       "Fire": "5%",
@@ -9071,7 +9312,8 @@
       "PiercingResist": "8%",
       "StrikingResist": "7%",
       "StaggerResist": "48%",
-      "KnockdownResist": "49%"
+      "KnockdownResist": "49%",
+      "Armor Type": "Outfits"
     },
     "elemental_res": {
       "Dark": "6%"
@@ -9108,7 +9350,8 @@
       "PiercingResist": "9%",
       "StrikingResist": "9%",
       "StaggerResist": "65%",
-      "KnockdownResist": "65%"
+      "KnockdownResist": "65%",
+      "Armor Type": "Outfits"
     },
     "elemental_res": {
       "Holy": "5%",
@@ -9149,7 +9392,8 @@
       "PiercingResist": "12%",
       "StrikingResist": "10%",
       "StaggerResist": "55%",
-      "KnockdownResist": "55%"
+      "KnockdownResist": "55%",
+      "Armor Type": "Outfits"
     },
     "elemental_res": {
       "Holy": "30%",
@@ -9193,7 +9437,8 @@
       "PiercingResist": "4%",
       "StrikingResist": "3%",
       "StaggerResist": "17%",
-      "KnockdownResist": "15%"
+      "KnockdownResist": "15%",
+      "Armor Type": "Outfits"
     },
     "elemental_res": {
       "Ice": "4%"
@@ -9232,7 +9477,8 @@
       "StaggerResist": "13%",
       "KnockdownResist": "12%",
       "ElementalResist": "-",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Outfits"
     },
     "elemental_res": {},
     "debilitation_res": {},
@@ -9265,7 +9511,8 @@
       "PiercingResist": "3%",
       "StrikingResist": "4%",
       "StaggerResist": "28%",
-      "KnockdownResist": "27%"
+      "KnockdownResist": "27%",
+      "Armor Type": "Outfits"
     },
     "elemental_res": {
       "Fire": "5%",
@@ -9305,7 +9552,8 @@
       "StrikingResist": "2%",
       "StaggerResist": "37%",
       "KnockdownResist": "32%",
-      "ElementalResist": "-"
+      "ElementalResist": "-",
+      "Armor Type": "Outfits"
     },
     "elemental_res": {},
     "debilitation_res": {
@@ -9341,7 +9589,8 @@
       "PiercingResist": "6%",
       "StrikingResist": "4%",
       "StaggerResist": "11%",
-      "KnockdownResist": "11%"
+      "KnockdownResist": "11%",
+      "Armor Type": "Outfits"
     },
     "elemental_res": {
       "lightning": "2%"
@@ -9378,7 +9627,8 @@
       "PiercingResist": "11%",
       "StrikingResist": "8%",
       "StaggerResist": "52%",
-      "KnockdownResist": "56%"
+      "KnockdownResist": "56%",
+      "Armor Type": "Outfits"
     },
     "elemental_res": {
       "Fire": "3%"
@@ -9417,7 +9667,8 @@
       "PiercingResist": "7%",
       "StrikingResist": "2%",
       "StaggerResist": "33%",
-      "KnockdownResist": "25%"
+      "KnockdownResist": "25%",
+      "Armor Type": "Outfits"
     },
     "elemental_res": {
       "Holy": "-14%",
@@ -9457,7 +9708,8 @@
       "StrikingResist": "1%",
       "StaggerResist": "33%",
       "KnockdownResist": "29%",
-      "ElementalResist": "-"
+      "ElementalResist": "-",
+      "Armor Type": "Outfits"
     },
     "elemental_res": {},
     "debilitation_res": {
@@ -9494,7 +9746,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "1%",
       "StaggerResist": "1%",
-      "KnockdownResist": "0%"
+      "KnockdownResist": "0%",
+      "Armor Type": "Cloak"
     },
     "elemental_res": {
       "Ice": "3%"
@@ -9532,7 +9785,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "1%",
       "StaggerResist": "1%",
-      "KnockdownResist": "0%"
+      "KnockdownResist": "0%",
+      "Armor Type": "Cloak"
     },
     "elemental_res": {
       "Fire": "3%"
@@ -9569,7 +9823,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "0%",
-      "KnockdownResist": "0%"
+      "KnockdownResist": "0%",
+      "Armor Type": "Cloak"
     },
     "elemental_res": {
       "Dark": "5%"
@@ -9608,7 +9863,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "1%",
       "StaggerResist": "1%",
-      "KnockdownResist": "0%"
+      "KnockdownResist": "0%",
+      "Armor Type": "Cloak"
     },
     "elemental_res": {
       "Fire": "1%",
@@ -9649,7 +9905,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "1%",
       "StaggerResist": "1%",
-      "KnockdownResist": "0%"
+      "KnockdownResist": "0%",
+      "Armor Type": "Cloak"
     },
     "elemental_res": {
       "Holy": "2%",
@@ -9690,7 +9947,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "0%",
-      "KnockdownResist": "0%"
+      "KnockdownResist": "0%",
+      "Armor Type": "Cloak"
     },
     "elemental_res": {
       "Holy": "3%"
@@ -9728,7 +9986,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "1%",
       "StaggerResist": "0%",
-      "KnockdownResist": "0%"
+      "KnockdownResist": "0%",
+      "Armor Type": "Cloak"
     },
     "elemental_res": {
       "Ice": "3%"
@@ -9765,7 +10024,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "1%",
       "StaggerResist": "1%",
-      "KnockdownResist": "0%"
+      "KnockdownResist": "0%",
+      "Armor Type": "Cloak"
     },
     "elemental_res": {
       "Fire": "5%"
@@ -9803,7 +10063,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "0%",
-      "KnockdownResist": "0%"
+      "KnockdownResist": "0%",
+      "Armor Type": "Cloak"
     },
     "elemental_res": {
       "Dark": "3%"
@@ -9841,7 +10102,8 @@
       "StrikingResist": "0%",
       "StaggerResist": "0%",
       "KnockdownResist": "0%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Cloak"
     },
     "elemental_res": {
       "Fire": "1%"
@@ -9876,7 +10138,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "0%",
-      "KnockdownResist": "0%"
+      "KnockdownResist": "0%",
+      "Armor Type": "Cloak"
     },
     "elemental_res": {
       "lightning": "3%"
@@ -9914,7 +10177,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "1%",
       "StaggerResist": "0%",
-      "KnockdownResist": "0%"
+      "KnockdownResist": "0%",
+      "Armor Type": "Cloak"
     },
     "elemental_res": {
       "Fire": "3%"
@@ -9952,7 +10216,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "1%",
       "StaggerResist": "1%",
-      "KnockdownResist": "0%"
+      "KnockdownResist": "0%",
+      "Armor Type": "Cloak"
     },
     "elemental_res": {
       "lightning": "3%"
@@ -9990,7 +10255,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "1%",
       "StaggerResist": "1%",
-      "KnockdownResist": "0%"
+      "KnockdownResist": "0%",
+      "Armor Type": "Cloak"
     },
     "elemental_res": {
       "Ice": "3%"
@@ -10028,7 +10294,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "0%",
-      "KnockdownResist": "0%"
+      "KnockdownResist": "0%",
+      "Armor Type": "Cloak"
     },
     "elemental_res": {
       "Fire": "3%"
@@ -10066,7 +10333,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "1%",
       "StaggerResist": "1%",
-      "KnockdownResist": "0%"
+      "KnockdownResist": "0%",
+      "Armor Type": "Cloak"
     },
     "elemental_res": {
       "Holy": "3%"
@@ -10106,7 +10374,8 @@
       "StrikingResist": "1%",
       "StaggerResist": "0%",
       "KnockdownResist": "0%",
-      "ElementalResist": "-"
+      "ElementalResist": "-",
+      "Armor Type": "Cloak"
     },
     "elemental_res": {},
     "debilitation_res": {
@@ -10145,7 +10414,8 @@
       "StaggerResist": "0%",
       "KnockdownResist": "0%",
       "ElementalResist": "-",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Cloak"
     },
     "elemental_res": {},
     "debilitation_res": {},
@@ -10178,7 +10448,8 @@
       "PiercingResist": "0%",
       "StrikingResist": "2%",
       "StaggerResist": "1%",
-      "KnockdownResist": "0%"
+      "KnockdownResist": "0%",
+      "Armor Type": "Cloak"
     },
     "elemental_res": {
       "Holy": "5%"
@@ -10218,7 +10489,8 @@
       "StaggerResist": "0%",
       "KnockdownResist": "0%",
       "ElementalResist": "-",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Cloak"
     },
     "elemental_res": {},
     "debilitation_res": {},
@@ -10252,7 +10524,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "0%",
-      "KnockdownResist": "0%"
+      "KnockdownResist": "0%",
+      "Armor Type": "Cloak"
     },
     "elemental_res": {
       "Fire": "3%"
@@ -10289,7 +10562,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "0%",
-      "KnockdownResist": "0%"
+      "KnockdownResist": "0%",
+      "Armor Type": "Cloak"
     },
     "elemental_res": {
       "Dark": "3%"
@@ -10327,7 +10601,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "0%",
-      "KnockdownResist": "0%"
+      "KnockdownResist": "0%",
+      "Armor Type": "Cloak"
     },
     "elemental_res": {
       "Fire": "2%",
@@ -10366,7 +10641,8 @@
       "PiercingResist": "2%",
       "StrikingResist": "0%",
       "StaggerResist": "1%",
-      "KnockdownResist": "0%"
+      "KnockdownResist": "0%",
+      "Armor Type": "Cloak"
     },
     "elemental_res": {
       "Holy": "4%"
@@ -10405,7 +10681,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "1%",
       "StaggerResist": "0%",
-      "KnockdownResist": "0%"
+      "KnockdownResist": "0%",
+      "Armor Type": "Cloak"
     },
     "elemental_res": {
       "Ice": "3%"
@@ -10443,7 +10720,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "0%",
-      "KnockdownResist": "0%"
+      "KnockdownResist": "0%",
+      "Armor Type": "Cloak"
     },
     "elemental_res": {
       "Fire": "3%"
@@ -10481,7 +10759,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "0%",
-      "KnockdownResist": "0%"
+      "KnockdownResist": "0%",
+      "Armor Type": "Cloak"
     },
     "elemental_res": {
       "Fire": "3%"
@@ -10519,7 +10798,8 @@
       "StrikingResist": "0%",
       "StaggerResist": "0%",
       "KnockdownResist": "0%",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Cloak"
     },
     "elemental_res": {
       "Fire": "1%"
@@ -10557,7 +10837,8 @@
       "StaggerResist": "0%",
       "KnockdownResist": "0%",
       "ElementalResist": "-",
-      "DebilitationResist": "-"
+      "DebilitationResist": "-",
+      "Armor Type": "Cloak"
     },
     "elemental_res": {},
     "debilitation_res": {},
@@ -10598,7 +10879,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "0%",
-      "KnockdownResist": "0%"
+      "KnockdownResist": "0%",
+      "Armor Type": "Cloak"
     },
     "elemental_res": {
       "Ice": "1%"
@@ -10633,7 +10915,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "1%",
       "StaggerResist": "1%",
-      "KnockdownResist": "0%"
+      "KnockdownResist": "0%",
+      "Armor Type": "Cloak"
     },
     "elemental_res": {
       "Dark": "2%"
@@ -10672,7 +10955,8 @@
       "PiercingResist": "-1%",
       "StrikingResist": "-1%",
       "StaggerResist": "1%",
-      "KnockdownResist": "0%"
+      "KnockdownResist": "0%",
+      "Armor Type": "Cloak"
     },
     "elemental_res": {
       "Fire": "-2%",
@@ -10720,7 +11004,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "0%",
       "StaggerResist": "0%",
-      "KnockdownResist": "0%"
+      "KnockdownResist": "0%",
+      "Armor Type": "Cloak"
     },
     "elemental_res": {
       "lightning": "3%"
@@ -10757,7 +11042,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "1%",
       "StaggerResist": "1%",
-      "KnockdownResist": "0%"
+      "KnockdownResist": "0%",
+      "Armor Type": "Cloak"
     },
     "elemental_res": {
       "Holy": "2%"
@@ -10795,7 +11081,8 @@
       "PiercingResist": "1%",
       "StrikingResist": "1%",
       "StaggerResist": "1%",
-      "KnockdownResist": "0%"
+      "KnockdownResist": "0%",
+      "Armor Type": "Cloak"
     },
     "elemental_res": {
       "Fire": "2%",

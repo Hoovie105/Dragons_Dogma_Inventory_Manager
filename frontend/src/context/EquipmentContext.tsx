@@ -23,13 +23,13 @@ export function EquipmentProvider({ children }: { children: React.ReactNode }) {
       if (isArmor(item)) {
         const armorType = item.stats?.["Armor Type"];
         switch (armorType) {
-          case "Head Armor":
+          case "Head":
             return { ...prev, head: item };
-          case "Torso Armor":
+          case "Torso":
             return { ...prev, torso: item };
-          case "Arm Armor":
+          case "Arms":
             return { ...prev, arms: item };
-          case "Leg Armor":
+          case "Legs":
             return { ...prev, legs: item };
           case "Cloak":
             return { ...prev, cloak: item };
