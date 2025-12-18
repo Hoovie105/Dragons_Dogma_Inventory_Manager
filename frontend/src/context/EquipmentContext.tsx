@@ -27,6 +27,8 @@ export function EquipmentProvider({ children }: { children: React.ReactNode }) {
             return { ...prev, head: item };
           case "Torso":
             return { ...prev, torso: item };
+          case "Outfits":
+            return { ...prev, torso: item };
           case "Arms":
             return { ...prev, arms: item };
           case "Legs":

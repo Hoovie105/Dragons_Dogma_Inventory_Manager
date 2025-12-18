@@ -1,1 +1,1 @@
-might order armor types my id to serve to front end to address item equip issue
+might order armor types by id to serve to frontend and address item equip issue (DONE!)

@@ -60,19 +60,19 @@ export function ItemDetailPanel() {
         <div className="grid grid-cols-2 gap-3">
           {isWeapon(selectedItem) ? (
             <>
-              <StatRow label="Strength" value={selectedItem.stats?.Strength || '0'} />
-              <StatRow label="Magick" value={selectedItem.stats?.Magick || '0'} />
-              <StatRow label="Stagger Power" value={selectedItem.stats?.["Stagger Power"] || '0'} />
-              <StatRow label="Knockdown" value={selectedItem.stats?.["Knockdown Power"] || '0'} />
-              <StatRow label="Weight" value={selectedItem.stats?.Weight || '0'} />
-              <StatRow label="Value" value={selectedItem.stats?.Value || '0'} />
+              <StatRow label="Strength: " value={selectedItem.stats?.Strength || '0'} />
+              <StatRow label="Magick: " value={selectedItem.stats?.Magick || '0'} />
+              <StatRow label="Stagger Power: " value={selectedItem.stats?.["Stagger Power"] || '0'} />
+              <StatRow label="Knockdown: " value={selectedItem.stats?.["Knockdown Power"] || '0'} />
+              <StatRow label="Weight: " value={selectedItem.stats?.Weight || '0'} />
+              <StatRow label="Value: " value={selectedItem.stats?.Value || '0'} />
             </>
           ) : (
             <>
-              <StatRow label="Defense" value={selectedItem.stats?.Defense || '0'} />
-              <StatRow label="Magick Defense" value={selectedItem.stats?.["Magick Defense"] || '0'} />
-              <StatRow label="Weight" value={selectedItem.stats?.Weight || '0'} />
-              <StatRow label="Value" value={selectedItem.stats?.Value || '0'} />
+              <StatRow label="Defense: " value={selectedItem.stats?.Defense || '0'} />
+              <StatRow label="Magick Defense: " value={selectedItem.stats?.["Magick Defense"] || '0'} />
+              <StatRow label="Weight: " value={selectedItem.stats?.Weight || '0'} />
+              <StatRow label="Value: " value={selectedItem.stats?.Value || '0'} />
             </>
           )}
         </div>
@@ -130,9 +130,11 @@ export function ItemDetailPanel() {
           </h3>
           <div className="grid grid-cols-2 gap-2">
             {Object.entries(selectedItem.debilitation_res).map(([debilitation, value]) => (
-              <div key={debilitation} className="flex items-center justify-between">
-                <span className="text-sm text-muted-foreground">{debilitation}:</span>
-                <span className="text-sm text-green-400">{value}</span>
+              <div key={debilitation}>
+                <span className="text-sm text-muted-foreground mr-1">{debilitation}:</span>
+                <span className="text-sm text-green-400">
+                  {typeof value === 'string' ? value.replace(/,$/, '') : value}
+                </span>
               </div>
             ))}
           </div>
@@ -192,7 +194,7 @@ export function ItemDetailPanel() {
 
 function StatRow({ label, value }: { label: string; value: string }) {
   return (
-    <div className="flex justify-between items-center">
+    <div>
       <span className="text-sm text-muted-foreground">{label}</span>
       <span className="text-sm text-parchment font-medium">{value || '-'}</span>
     </div>
