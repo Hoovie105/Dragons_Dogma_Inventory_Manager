@@ -1,1 +1,5 @@
 might order armor types by id to serve to frontend and address item equip issue (DONE!)
+Implement stat bassed sorting and armor type based sorting. (nvm too much clutter)
+make locations for equip tab display all locations for all selected weapons. (DONE!)
+add images to items, elements, debilitations.
+see if caching is any good "likely will be client side.

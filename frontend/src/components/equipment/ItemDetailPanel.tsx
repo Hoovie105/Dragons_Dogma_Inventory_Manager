@@ -27,8 +27,8 @@ export function ItemDetailPanel() {
     );
   }
 
-  const handleEquip = () => {
-    equipItem(selectedItem);
+   const handleEquip = (slot?: 'weapon' | 'secondaryWeapon') => {
+    equipItem(selectedItem, slot);
   };
 
   return (
@@ -177,10 +177,23 @@ export function ItemDetailPanel() {
 
       {/* Actions */}
       <div className="flex gap-3 pt-4 border-t border-border">
-        <Button onClick={handleEquip} className="flex-1">
-          <Plus className="w-4 h-4 mr-2" />
-          Equip
-        </Button>
+        {isWeapon(selectedItem) ? (
+          <>
+            <Button onClick={() => handleEquip('weapon')} className="flex-1" size="sm">
+              <Plus className="w-4 h-4 mr-1" />
+              Primary
+            </Button>
+            <Button onClick={() => handleEquip('secondaryWeapon')} variant="secondary" className="flex-1" size="sm">
+              <Plus className="w-4 h-4 mr-1" />
+              Secondary
+            </Button>
+          </>
+        ) : (
+          <Button onClick={() => handleEquip()} className="flex-1">
+            <Plus className="w-4 h-4 mr-2" />
+            Equip
+          </Button>
+        )}
         <Button variant="outline" asChild>
           <a href={selectedItem.wiki_link} target="_blank" rel="noopener noreferrer">
             <ExternalLink className="w-4 h-4 mr-2" />

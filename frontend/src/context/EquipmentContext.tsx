@@ -1,11 +1,12 @@
 import React, { createContext, useContext, useState } from 'react';
+import { toast } from 'sonner';
 import { EquipmentItem, EquippedLoadout, ArmorItem, WeaponItem, isWeapon, isArmor } from '@/types/equipment';
 
 interface EquipmentContextType {
   selectedItem: EquipmentItem | null;
   setSelectedItem: (item: EquipmentItem | null) => void;
   equippedLoadout: EquippedLoadout;
-  equipItem: (item: EquipmentItem) => void;
+  equipItem: (item: EquipmentItem, slot?: 'weapon' | 'secondaryWeapon') => void;
   unequipItem: (slot: keyof EquippedLoadout) => void;
 }
 
@@ -15,10 +16,12 @@ export function EquipmentProvider({ children }: { children: React.ReactNode }) {
   const [selectedItem, setSelectedItem] = useState<EquipmentItem | null>(null);
   const [equippedLoadout, setEquippedLoadout] = useState<EquippedLoadout>({});
 
-  const equipItem = (item: EquipmentItem) => {
+  const equipItem = (item: EquipmentItem, slot?: 'weapon' | 'secondaryWeapon') => {
     setEquippedLoadout((prev) => {
       if (isWeapon(item)) {
-        return { ...prev, weapon: item };
+        // If slot is specified, use it; otherwise default to weapon, or secondaryWeapon if weapon is filled
+        const targetSlot = slot || (prev.weapon ? 'secondaryWeapon' : 'weapon');
+        return { ...prev, [targetSlot]: item };
       }
       if (isArmor(item)) {
         const armorType = item.stats?.["Armor Type"];

@@ -86,11 +86,11 @@
     "description": "A hat lined with a material that can repel magick. Quite difficult to craft, as evidence by its high value.",
     "image_path": "scraped_armor_images\\Archwizards_Helm.png",
     "locations": [
-      "Caxton in Caxton's Armory in Gran Soren for\u00c2\u00a0 148,600 G (Post-Game)",
-      "Mathias at The Greatwall Encampment for\u00c2\u00a0148,600 G",
-      "Jayce in Devilfire Grove for\u00c2\u00a0148,600 G (Post-Game)",
+      "Caxton in Caxton's Armory in Gran Soren for  148,600 G (Post-Game)",
+      "Mathias at The Greatwall Encampment for 148,600 G",
+      "Jayce in Devilfire Grove for 148,600 G (Post-Game)",
       "Alon in The Ancient Quarry for 148,600 G",
-      "Barroch on Bitterblack Isle for\u00c2\u00a0148,600 G"
+      "Barroch on Bitterblack Isle for 148,600 G"
     ],
     "stats": {
       "Weight": ".89",
@@ -324,7 +324,7 @@
       "Weight": ".07",
       "Defense": "12",
       "Magick Defense": "32",
-      "Value": "2,000\u00c2\u00a0G",
+      "Value": "2,000 G",
       "Armor Type": "Head"
     },
     "elemental_res": {
@@ -353,7 +353,7 @@
     "description": "A bronze sallet that protects the entire head. Popular due to its stellar price performance.",
     "image_path": "scraped_armor_images\\Bronze_Sallet.png",
     "locations": [
-      "Can be purchased by Alon for\u00c2\u00a015,200 G",
+      "Can be purchased by Alon for 15,200 G",
       "May be able to find in some chests in The Catacombs or The Ancient Quarry"
     ],
     "stats": {
@@ -444,8 +444,8 @@
     "description": "A metal helm that calls to mind the mighty chimera.",
     "image_path": "scraped_armor_images\\Chimeric_Armet.png",
     "locations": [
-      "Caxton in Caxton's Armory in Gran Soren for\u00c2\u00a059,000 G",
-      "Mathias at The Greatwall Encampment for\u00c2\u00a059,000 G",
+      "Caxton in Caxton's Armory in Gran Soren for 59,000 G",
+      "Mathias at The Greatwall Encampment for 59,000 G",
       "Jayce in the Devilfire Grove for 59,000 G",
       "Alon in The Ancient Quarry for 59,000 G",
       "Barroch on Bitterblack Isle for 59,000 G"
@@ -479,8 +479,8 @@
     "description": "A metal headpiece donned by magick users to focus their mental energies on the arcane.",
     "image_path": "scraped_armor_images\\Circlet.png",
     "locations": [
-      "Caxton from Caxton's Armory in Gran Soren for\u00c2\u00a014,200 G",
-      "Madeleine for\u00c2\u00a014,200 G"
+      "Caxton from Caxton's Armory in Gran Soren for 14,200 G",
+      "Madeleine for 14,200 G"
     ],
     "stats": {
       "Weight": ".12",
@@ -516,11 +516,11 @@
     "description": "A half-helm favored by those who serve the Maker. Despite its elaborate design, it is suitable for everyday use.",
     "image_path": "scraped_armor_images\\Clerical_Cap.png",
     "locations": [
-      "Caxton from Caxton's Armory in Gran Soren for\u00c2\u00a053,000 G",
+      "Caxton from Caxton's Armory in Gran Soren for 53,000 G",
       "Mathias at the Greatwall Encampment for 53,000 G",
-      "Madeleine from Madeleine's Shop in Gran Soren for\u00c2\u00a053,000 G",
-      "Jayce in Devilfire Grove for\u00c2\u00a053,000 G",
-      "Barroch on Bitterblack Isle for\u00c2\u00a053,000 G"
+      "Madeleine from Madeleine's Shop in Gran Soren for 53,000 G",
+      "Jayce in Devilfire Grove for 53,000 G",
+      "Barroch on Bitterblack Isle for 53,000 G"
     ],
     "stats": {
       "Weight": ".54",
@@ -554,10 +554,10 @@
     "description": "A hood fastened with a guard of sturdy alloy. Crafted from two separate materials, paired for added toughness",
     "image_path": "scraped_armor_images\\Coupled_Headgear.png",
     "locations": [
-      "Caxton from Caxton's Armor in Gran Soren for\u00c2\u00a0140,800 G",
-      "Jayce in Devilfire Grove for\u00c2\u00a0140,800 G",
+      "Caxton from Caxton's Armor in Gran Soren for 140,800 G",
+      "Jayce in Devilfire Grove for 140,800 G",
       "Alon in The Ancient Quarry for 140,800 G",
-      "Mathias in the Greatwall Encampment for\u00c2\u00a0140,800 G",
+      "Mathias in the Greatwall Encampment for 140,800 G",
       "Barroch on Bitterblack Isle for 140,800 G"
     ],
     "stats": {
@@ -4804,7 +4804,7 @@
     "description": "Armor of thick layers of steel plate. Its protection is first rate, yet still offers ample maneuverability.",
     "image_path": "scraped_armor_images\\Swordsmans_Plate.png",
     "locations": [
-      "Sold by Alon .\u00c2\u00a0(not available on PC version)"
+      "Sold by Alon . (not available on PC version)"
     ],
     "stats": {
       "Weight": "3.46",
@@ -6674,7 +6674,7 @@
     "description": "Armored gauntlets protecting both upper and forearm. They are light enough that one's weapon arm can move freely.",
     "image_path": "scraped_armor_images\\Swordsmans_Bracers.png",
     "locations": [
-      "Sold by Alon .\u00c2\u00a0(not available on PC version)"
+      "Sold by Alon . (not available on PC version)"
     ],
     "stats": {
       "Weight": "1.97",

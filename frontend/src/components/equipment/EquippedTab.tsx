@@ -3,6 +3,7 @@ import { EquipmentSlot, getSlotIcon } from './EquipmentSlot';
 
 const EQUIPMENT_SLOTS = [
   { key: 'weapon', name: 'Primary Weapon' },
+  { key: 'secondaryWeapon', name: 'Secondary Weapon' },
   { key: 'head', name: 'Head' },
   { key: 'torso', name: 'Torso' },
   { key: 'arms', name: 'Arms' },
@@ -66,18 +67,28 @@ export function EquippedTab() {
         </div>
       </div>
 
-      {/* Location Info for Selected Item */}
-      {selectedItem && selectedItem.locations && selectedItem.locations.length > 0 && (
+      {/* Location Info for All Equipped Items */}
+      {Object.entries(equippedLoadout).some(([_, item]) => item?.locations?.length) && (
         <div className="medieval-border bg-card p-4 rounded-sm animate-fade-in">
           <h3 className="font-display text-lg gold-text mb-3">Where to Find</h3>
-          <ul className="space-y-2">
-            {selectedItem.locations.map((location, index) => (
-              <li key={index} className="text-sm text-parchment flex items-start gap-2">
-                <span className="text-primary mt-1">•</span>
-                <span>{location}</span>
-              </li>
-            ))}
-          </ul>
+          <div className="space-y-4">
+            {Object.entries(equippedLoadout).map(([slot, item]) => {
+              if (!item?.locations?.length) return null;
+              return (
+                <div key={slot}>
+                  <p className="text-sm font-display text-primary mb-2">{item.name}</p>
+                  <ul className="space-y-1">
+                    {item.locations.map((location, index) => (
+                      <li key={index} className="text-sm text-parchment flex items-start gap-2">
+                        <span className="text-primary mt-1">•</span>
+                        <span>{location}</span>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              );
+            })}
+          </div>
         </div>
       )}
     </div>
