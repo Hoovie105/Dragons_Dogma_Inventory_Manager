@@ -35,6 +35,16 @@ function getElementFromItem(item: EquipmentItem): string | null {
   return null;
 }
 
+function getImageSrc(path?: string) {
+  if (!path) return '';
+  
+  // Clean the path: replace backslashes and remove leading slashes
+  const cleanPath = path.replace(/\\/g, '/').replace(/^\/+/, '');
+  
+  // Use Vite's BASE_URL to ensure it works in dev and production
+  return `${import.meta.env.BASE_URL}${cleanPath}`;
+}
+
 export function ItemCard({ item }: ItemCardProps) {
   const { selectedItem, setSelectedItem } = useEquipment();
   const isSelected = selectedItem?.id === item.id && selectedItem?.name === item.name;
@@ -65,12 +75,19 @@ export function ItemCard({ item }: ItemCardProps) {
       <div className="flex gap-3">
         {/* Item Image */}
         <div className="w-16 h-16 bg-secondary/50 rounded-sm flex items-center justify-center flex-shrink-0 overflow-hidden">
-          {isWeapon(item) ? (
+        {item.image_path ? (
+          <img
+            src={getImageSrc(item.image_path)}
+            alt={item.name}
+            className="w-full h-full object-contain"
+            loading="lazy"
+          />
+        ) : isWeapon(item) && !item.stats["Weapon Type"]?.toLowerCase().includes('shield') ? (
             <Sword className="w-8 h-8 text-muted-foreground" />
           ) : (
             <Shield className="w-8 h-8 text-muted-foreground" />
           )}
-        </div>
+      </div>
 
         {/* Item Info */}
         <div className="flex-1 min-w-0">

@@ -3,7 +3,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Ancient+Circlet",
     "name": "Ancient Circlet",
     "description": "A crown worn by an ancient sorcerer who wielded a forbidden magic now lost to time.",
-    "image_path": "scraped_armor_images\\Ancient_Circlet.png",
+    "image_path": "/assets/armor/Ancient_Circlet.png",
     "locations": [
       "Sold by Mountebank at The Black Cat in Gran Soren for 111,900 G."
     ],
@@ -48,7 +48,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Apollo+Mask",
     "name": "Apollo Mask",
     "description": "A mask named for a hero from beyond the rift. Wearing it bestows the user with holy protection.",
-    "image_path": "scraped_armor_images\\Apollo_Mask.png",
+    "image_path": "/assets/armor/Apollo_Mask.png",
     "locations": [
       "A Random reward to players upon slaying the online Ur-Dragon ."
     ],
@@ -84,7 +84,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Archwizard%27s+Helm",
     "name": "Archwizard's Helm",
     "description": "A hat lined with a material that can repel magick. Quite difficult to craft, as evidence by its high value.",
-    "image_path": "scraped_armor_images\\Archwizards_Helm.png",
+    "image_path": "/assets/armor/Archwizards_Helm.png",
     "locations": [
       "Caxton in Caxton's Armory in Gran Soren for  148,600 G (Post-Game)",
       "Mathias at The Greatwall Encampment for 148,600 G",
@@ -117,7 +117,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Assassin%27s+Mask",
     "name": "Assassin's Mask",
     "description": "A mask black as pitch that you might see worn by trained cutthroats - should you see them at all.",
-    "image_path": "scraped_armor_images\\Assassins_Mask.png",
+    "image_path": "/assets/armor/Assassins_Mask.png",
     "locations": [
       "Bandit's Den in Pastona Cavern",
       "Bluemoon Tower"
@@ -149,7 +149,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Autumn+Hood",
     "name": "Autumn Hood",
     "description": "A red hood woven from magickal fibers, favored by seasoned sorcerers.",
-    "image_path": "scraped_armor_images\\Autumn_Hood.png",
+    "image_path": "/assets/armor/Autumn_Hood.png",
     "locations": [
       "The Tainted Mountain Temple",
       "Chamber of Tragedy",
@@ -182,7 +182,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Bandit%27s+Mask",
     "name": "Bandit's Mask",
     "description": "A mask favored by bandits and miscreants who would keep their identities hidden.",
-    "image_path": "scraped_armor_images\\Bandits_Mask.png",
+    "image_path": "/assets/armor/Bandits_Mask.png",
     "locations": [
       "The Ruins of Aernst Caste",
       "Abandoned Campsite in Northface Forest"
@@ -218,7 +218,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Barbarian+Chief%27s+Helm",
     "name": "Barbarian Chief's Helm",
     "description": "The skull of some creature, proudly worn as a helm by a leader of savages native to the untamed lands.",
-    "image_path": "scraped_armor_images\\Barbarian_Chiefs_Helm.png",
+    "image_path": "/assets/armor/Barbarian_Chiefs_Helm.png",
     "locations": [
       "Chamber of Hope",
       "Chamber of Estrangement",
@@ -250,7 +250,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Barreled+Helm",
     "name": "Barreled Helm",
     "description": "A stout helm made of many iron plates. Sturdy, but heavy on the head and often stiflingly hot when closed.",
-    "image_path": "scraped_armor_images\\Barreled_Helm.png",
+    "image_path": "/assets/armor/Barreled_Helm.png",
     "locations": [
       "Caxton at Caxton's Armory in Gran Soren",
       "Jayce in Devilfire Grove",
@@ -280,7 +280,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Beowulf+Mask",
     "name": "Beowulf Mask",
     "description": "A mask named for a hero from beyond the rift. Wearing it bestows the user with holy protection.",
-    "image_path": "scraped_armor_images\\Beowulf_Mask.png",
+    "image_path": "/assets/armor/Beowulf_Mask.png",
     "locations": [
       "This is a random reward to players upon defeating the online Ur-Dragon ."
     ],
@@ -316,7 +316,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Black+Eyeglasses",
     "name": "Black Eyeglasses",
     "description": "A simple pair of black glasses.",
-    "image_path": "scraped_armor_images\\Black_Eyeglasses.png",
+    "image_path": "/assets/armor/Black_Eyeglasses.png",
     "locations": [
       "Can be purchased from Johnathan from his Rift Shop in The Encampment for 2,000 G"
     ],
@@ -351,7 +351,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Bronze+Sallet",
     "name": "Bronze Sallet",
     "description": "A bronze sallet that protects the entire head. Popular due to its stellar price performance.",
-    "image_path": "scraped_armor_images\\Bronze_Sallet.png",
+    "image_path": "/assets/armor/Bronze_Sallet.png",
     "locations": [
       "Can be purchased by Alon for 15,200 G",
       "May be able to find in some chests in The Catacombs or The Ancient Quarry"
@@ -380,7 +380,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Chain+Coif",
     "name": "Chain Coif",
     "description": "Chainmail that covers the skull, providing strong head and neck protection.",
-    "image_path": "scraped_armor_images\\Chain_Coif.png",
+    "image_path": "/assets/armor/Chain_Coif.png",
     "locations": [
       "Sold by Mountebank at The Black Cat in Gran Soren for 111,900 G."
     ],
@@ -409,7 +409,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Chaos+Helm",
     "name": "Chaos Helm",
     "description": "A crown worn by an ancient sorcerer who wielded a forbidden magic now lost to time.",
-    "image_path": "scraped_armor_images\\Chaos_Helm.png",
+    "image_path": "/assets/armor/Chaos_Helm.png",
     "locations": [
       "Players can obtain this from the Armor Pack: Demon's Protection and can be purchased from Montebank at The Black Cat"
     ],
@@ -442,7 +442,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Chimeric+Armet",
     "name": "Chimeric Armet",
     "description": "A metal helm that calls to mind the mighty chimera.",
-    "image_path": "scraped_armor_images\\Chimeric_Armet.png",
+    "image_path": "/assets/armor/Chimeric_Armet.png",
     "locations": [
       "Caxton in Caxton's Armory in Gran Soren for 59,000 G",
       "Mathias at The Greatwall Encampment for 59,000 G",
@@ -477,7 +477,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Circlet",
     "name": "Circlet",
     "description": "A metal headpiece donned by magick users to focus their mental energies on the arcane.",
-    "image_path": "scraped_armor_images\\Circlet.png",
+    "image_path": "/assets/armor/Circlet.png",
     "locations": [
       "Caxton from Caxton's Armory in Gran Soren for 14,200 G",
       "Madeleine for 14,200 G"
@@ -514,7 +514,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Clerical+Cap",
     "name": "Clerical Cap",
     "description": "A half-helm favored by those who serve the Maker. Despite its elaborate design, it is suitable for everyday use.",
-    "image_path": "scraped_armor_images\\Clerical_Cap.png",
+    "image_path": "/assets/armor/Clerical_Cap.png",
     "locations": [
       "Caxton from Caxton's Armory in Gran Soren for 53,000 G",
       "Mathias at the Greatwall Encampment for 53,000 G",
@@ -552,7 +552,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Coupled+Headgear",
     "name": "Coupled Headgear",
     "description": "A hood fastened with a guard of sturdy alloy. Crafted from two separate materials, paired for added toughness",
-    "image_path": "scraped_armor_images\\Coupled_Headgear.png",
+    "image_path": "/assets/armor/Coupled_Headgear.png",
     "locations": [
       "Caxton from Caxton's Armor in Gran Soren for 140,800 G",
       "Jayce in Devilfire Grove for 140,800 G",
@@ -584,7 +584,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Crimson+Armet",
     "name": "Crimson Armet",
     "description": "A horned helm of a deep, burning red that seems not of this world.",
-    "image_path": "scraped_armor_images\\Crimson_Armet.png",
+    "image_path": "/assets/armor/Crimson_Armet.png",
     "locations": [
       "Can be found in chests in The Everfall during Post-Game:",
       "Chamber of Remorse",
@@ -621,7 +621,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Crowned+Hood",
     "name": "Crowned Hood",
     "description": "A hood affixed with a magickal crown. Quilted with griffin feathers that lend extra resilience to attack.",
-    "image_path": "scraped_armor_images\\Crowned_Hood.png",
+    "image_path": "/assets/armor/Crowned_Hood.png",
     "locations": [
       "Sold by Caxton",
       "Found in chests in Leapers Ledge inside Soulflayer Canyon and The Greatwall ."
@@ -655,7 +655,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Cyclops+Veil",
     "name": "Cyclops Veil",
     "description": "A bronze helm wrought in the visage of a cyclops. Built to withstand frontal assaults.",
-    "image_path": "scraped_armor_images\\Cyclops_Veil.png",
+    "image_path": "/assets/armor/Cyclops_Veil.png",
     "locations": [
       "Sold by Mathias",
       "May be found in a chest at the Shadow Fort ."
@@ -690,7 +690,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Diadem",
     "name": "Diadem",
     "description": "A metallic crown festooned with curving spikes, the symbol of a lord from beyond the rift.",
-    "image_path": "scraped_armor_images\\Diadem.png",
+    "image_path": "/assets/armor/Diadem.png",
     "locations": [
       "Can be purchased from Joye"
     ],
@@ -725,7 +725,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Direwolf+Veil",
     "name": "Direwolf Veil",
     "description": "A fetching hood fashioned from the pelt of a majestic direwolf.",
-    "image_path": "scraped_armor_images\\Direwolf_Veil.png",
+    "image_path": "/assets/armor/Direwolf_Veil.png",
     "locations": [
       "Can be bought at the Rest Camp sold by Jayce"
     ],
@@ -761,7 +761,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Dragon+Band",
     "name": "Dragon Band",
     "description": "An iron band that protects the front of the head. According to lore, it possesses the wisdom of the dragon.",
-    "image_path": "scraped_armor_images\\Dragon_Band.png",
+    "image_path": "/assets/armor/Dragon_Band.png",
     "locations": [
       "Reward for the quest The Heart's Compass"
     ],
@@ -802,7 +802,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Dragon+Knight%27s+Helm",
     "name": "Dragon Knight's Helm",
     "description": "A helmet modeled after a wyrm in flight. Said to have been standard equipment for the dragon knights of old.",
-    "image_path": "scraped_armor_images\\Dragon_Knights_Helm.png",
+    "image_path": "/assets/armor/Dragon_Knights_Helm.png",
     "locations": [
       "Random reward for slaying the online Ur-Dragon ."
     ],
@@ -837,7 +837,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Dragonroar",
     "name": "Dragonroar",
     "description": "A mask named for a hero from beyond the rift. Wearing it bestows the user with holy protection.",
-    "image_path": "scraped_armor_images\\Dragonroar.png",
+    "image_path": "/assets/armor/Dragonroar.png",
     "locations": [
       "Can be found in chests in the Everfall during Post-Game."
     ],
@@ -875,7 +875,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Dragonseye+Band",
     "name": "Dragonseye Band",
     "description": "An eyepatch modeled after a one-eyed dragon of legend. It is said that wearing such patches was common at ceremonies meant to appease the beast's wrath.",
-    "image_path": "scraped_armor_images\\Dragonseye_Band.png",
+    "image_path": "/assets/armor/Dragonseye_Band.png",
     "locations": [
       "Purchase the Armor Pack: Motley Crew DLC"
     ],
@@ -913,7 +913,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Dragonspulse+Circlet",
     "name": "Dragonspulse Circlet",
     "description": "A crown worn of the queen of a long-fallen land, carved from the heart of a dragon. Even today, a pulse echoes from within.",
-    "image_path": "scraped_armor_images\\Dragonspulse_Circlet.png",
+    "image_path": "/assets/armor/Dragonspulse_Circlet.png",
     "locations": [
       "Purchase the Armor Pack: Motley Crew"
     ],
@@ -951,7 +951,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Emissary+Hood",
     "name": "Emissary Hood",
     "description": "A hood worn by the duke's elite personal guard.",
-    "image_path": "scraped_armor_images\\Emissary_Hood.png",
+    "image_path": "/assets/armor/Emissary_Hood.png",
     "locations": [
       "Purchased the Armor Pack: Divine Protection"
     ],
@@ -992,7 +992,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Faerie+Hood",
     "name": "Faerie Hood",
     "description": "A hood popular among magick practitioners. Simple of make, but good enough for the job.",
-    "image_path": "scraped_armor_images\\Faerie_Hood.png",
+    "image_path": "/assets/armor/Faerie_Hood.png",
     "locations": [
       "Sold by Madeleine ."
     ],
@@ -1024,7 +1024,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Farewell+Hood",
     "name": "Farewell Hood",
     "description": "A cloth hood that offers full coverage. Its goose-down lining serves well on cold nights and winter travels.",
-    "image_path": "scraped_armor_images\\Farewell_Hood.png",
+    "image_path": "/assets/armor/Farewell_Hood.png",
     "locations": [
       "Sold by Iola"
     ],
@@ -1061,7 +1061,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Feather+Hood",
     "name": "Feather Hood",
     "description": "A cloth hood that offers full coverage. Its goose-down lining serves well on cold nights and winter travels.",
-    "image_path": "scraped_armor_images\\Feather_Hood.png",
+    "image_path": "/assets/armor/Feather_Hood.png",
     "locations": [
       "Sold by Caxton ."
     ],
@@ -1093,7 +1093,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Gold+Eyeglasses",
     "name": "Gold Eyeglasses",
     "description": "A simple pair of gold eyeglasses.",
-    "image_path": "scraped_armor_images\\Gold_Eyeglasses.png",
+    "image_path": "/assets/armor/Gold_Eyeglasses.png",
     "locations": [
       "Random reward for slaying the online Ur-Dragon ."
     ],
@@ -1130,7 +1130,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Golden+Lion+Helm",
     "name": "Golden Lion Helm",
     "description": "A majestic golden helmet wrought to resemble the king of beasts. Worn only by those who earned it in battle.",
-    "image_path": "scraped_armor_images\\Golden_Lion_Helm.png",
+    "image_path": "/assets/armor/Golden_Lion_Helm.png",
     "locations": [
       "Sold by Delec in the Chamber of Estrangement .",
       "Found in chests in Bitterblack Isle and The Everfall"
@@ -1166,7 +1166,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Gossips%27s+Mask",
     "name": "Gossips's Mask",
     "description": "A mask painted with the frightening image of open jaws. meant to strike fear into one's foes.",
-    "image_path": "scraped_armor_images\\Gossipss_Mask.png",
+    "image_path": "/assets/armor/Gossipss_Mask.png",
     "locations": [
       "Find in chests in Abandoned Campsite and Witchwood"
     ],
@@ -1204,7 +1204,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Grisly+Skull",
     "name": "Grisly Skull",
     "description": "A menacing helm crafted from the skull of a creature from beyond the rift. Far more durable than ordinary bone.",
-    "image_path": "scraped_armor_images\\Grisly_Skull.png",
+    "image_path": "/assets/armor/Grisly_Skull.png",
     "locations": [
       "Can be found in chests in Garden of Ignominy and The Everfall"
     ],
@@ -1240,7 +1240,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Gryphic+Helm",
     "name": "Gryphic Helm",
     "description": "A silver great helm wrought in the form of the noble Griffin.",
-    "image_path": "scraped_armor_images\\Gryphic_Helm.png",
+    "image_path": "/assets/armor/Gryphic_Helm.png",
     "locations": [
       "Can be purchased from Caxton . Mathias . Jayce . Alon ."
     ],
@@ -1272,7 +1272,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Guardian%27s+Hood",
     "name": "Guardian's Hood",
     "description": "A cloth hood that covers the entire head. Stoutly made, it can absorb the impact of some attacks.",
-    "image_path": "scraped_armor_images\\Guardians_Hood.png",
+    "image_path": "/assets/armor/Guardians_Hood.png",
     "locations": [
       "Sold by Jayce",
       "May be found in chests at Hillfigure Knoll at the Northface Forest and Smugglers' Pass"
@@ -1312,7 +1312,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Heresy+Hood",
     "name": "Heresy Hood",
     "description": "A hood once worn by a cadre of sorcerers persecuted as heretics to the Faith.",
-    "image_path": "scraped_armor_images\\Heresy_Hood.png",
+    "image_path": "/assets/armor/Heresy_Hood.png",
     "locations": [
       "Purchase the Armor Pack: Demon's Protection"
     ],
@@ -1348,7 +1348,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Hero%27s+Hood",
     "name": "Hero's Hood",
     "description": "A hood worn by a great hero of lore as he set off to slay a dragon.",
-    "image_path": "scraped_armor_images\\Heros_Hood.png",
+    "image_path": "/assets/armor/Heros_Hood.png",
     "locations": [
       "Purchase the Armor Pack: Divine Protection"
     ],
@@ -1382,7 +1382,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Horned+Helm",
     "name": "Horned Helm",
     "description": "A sturdy helmet sprouting fearsome horns.",
-    "image_path": "scraped_armor_images\\Horned_Helm.png",
+    "image_path": "/assets/armor/Horned_Helm.png",
     "locations": [
       "Sold by Caxton and Jayce ."
     ],
@@ -1413,7 +1413,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Incognito+Mask",
     "name": "Incognito Mask",
     "description": "A cloth mask that veils the entire head. Designed to conceal the wearer's identity, not offer protection.",
-    "image_path": "scraped_armor_images\\Incognito_Mask.png",
+    "image_path": "/assets/armor/Incognito_Mask.png",
     "locations": [
       "May be found in a chest in The Ruins of Aernst Castle ."
     ],
@@ -1452,7 +1452,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Iron+Headgear",
     "name": "Iron Headgear",
     "description": "A hood fixed with a plate of iron at the forehead, preserving easy movement while offering protection where it is needed.",
-    "image_path": "scraped_armor_images\\Iron_Headgear.png",
+    "image_path": "/assets/armor/Iron_Headgear.png",
     "locations": [
       "Can be purchased from Caxton . Mathias . Jayce . Alon ."
     ],
@@ -1484,7 +1484,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Iron+Helm",
     "name": "Iron Helm",
     "description": "An iron helm that protects the face down to eye level, with an avantail to guard the neck.",
-    "image_path": "scraped_armor_images\\Iron_Helm.png",
+    "image_path": "/assets/armor/Iron_Helm.png",
     "locations": [
       "Can be purchased from Caxton . Mathias . Jayce . Alon .",
       "Can be found in chests in the Ancient Quarry"
@@ -1515,7 +1515,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Laurel+Circlet",
     "name": "Laurel Circlet",
     "description": "A golden crown modeled after a fabled magickal tree.",
-    "image_path": "scraped_armor_images\\Laurel_Circlet.png",
+    "image_path": "/assets/armor/Laurel_Circlet.png",
     "locations": [
       "Sold by Madeleine",
       "Can be found in chests in The Tainted Mountain Temple , Chamber of Absence , Chamber of Sorrow ."
@@ -1559,7 +1559,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Leather+Cap",
     "name": "Leather Cap",
     "description": "A sturdy feathered cap fashioned from especially hardened red leather.",
-    "image_path": "scraped_armor_images\\Leather_Cap.png",
+    "image_path": "/assets/armor/Leather_Cap.png",
     "locations": [
       "Can be purchased from Aestella , Reynard , Jayce .",
       "Can be found in a chest in Dripstone Cave"
@@ -1596,7 +1596,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Leather+Circlet",
     "name": "Leather Circlet",
     "description": "A crown of layered tanned hide. Light, sturdy, and highly resistant to magickal attacks.",
-    "image_path": "scraped_armor_images\\Leather_Circlet.png",
+    "image_path": "/assets/armor/Leather_Circlet.png",
     "locations": [
       "Can be purchased from [Madeleine]], Jayce , Barroch ."
     ],
@@ -1636,7 +1636,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Leather+Hood",
     "name": "Leather Hood",
     "description": "A leather hood that protects the ears and neck.",
-    "image_path": "scraped_armor_images\\Leather_Hood.png",
+    "image_path": "/assets/armor/Leather_Hood.png",
     "locations": [
       "Can be purchased from Caxton , Jayce ."
     ],
@@ -1672,7 +1672,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Lion-Lord%27s+Helm",
     "name": "Lion-Lord's Helm",
     "description": "A majestic bronze helmet wrought to resemble the king of beasts. Offers protection down to the back of the neck.",
-    "image_path": "scraped_armor_images\\Lion-Lords_Helm.png",
+    "image_path": "/assets/armor/Lion-Lords_Helm.png",
     "locations": [
       "Sold by Caxton .",
       "Can be found in chests in Bluemoon Tower , Smugglers' Pass , The Greatwall ."
@@ -1707,7 +1707,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Lupine+Veil",
     "name": "Lupine Veil",
     "description": "Beastly head protection fashioned from the pelt of a wolf.",
-    "image_path": "scraped_armor_images\\Lupine_Veil.png",
+    "image_path": "/assets/armor/Lupine_Veil.png",
     "locations": [
       "Can be found in The Shadow Fort",
       "Sold by Jayce"
@@ -1748,7 +1748,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Meloirean+Cyclops+Veil",
     "name": "Meloirean Cyclops Veil",
     "description": "0",
-    "image_path": "scraped_armor_images\\Meloirean_Cyclops_Veil.png",
+    "image_path": "/assets/armor/Meloirean_Cyclops_Veil.png",
     "locations": [
       "Can be bought from Mathias .",
       "Can be found in chests in Frontier Caverns and The Ruins of Heavenspeak Fort ."
@@ -1783,7 +1783,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Meloirean+Helm",
     "name": "Meloirean Helm",
     "description": "A helmet wrought from durable meloirean steel. Its dull sheen catches the eye.",
-    "image_path": "scraped_armor_images\\Meloirean_Helm.png",
+    "image_path": "/assets/armor/Meloirean_Helm.png",
     "locations": [
       "Can be found in chests in The Tainted Mountain Temple : Grand Hall , Windbluff Tower",
       "Can be purchased from Caxton , Alon in Post-game."
@@ -1816,7 +1816,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Monomi+Mask",
     "name": "Monomi Mask",
     "description": "A hood unique to the Assassins of a foreign land. Dyed black as night to help conceal those who wear it.",
-    "image_path": "scraped_armor_images\\Monomi_Mask.png",
+    "image_path": "/assets/armor/Monomi_Mask.png",
     "locations": [
       "Obtained from the Armor Pack DLC: Demon's Protection"
     ],
@@ -1852,7 +1852,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Red+Eyeglasses",
     "name": "Red Eyeglasses",
     "description": "A simple pair of red eyeglasses.",
-    "image_path": "scraped_armor_images\\Red_Eyeglasses.png",
+    "image_path": "/assets/armor/Red_Eyeglasses.png",
     "locations": [
       "Sold by Johnathan"
     ],
@@ -1889,7 +1889,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Red+Leather+Cap",
     "name": "Red Leather Cap",
     "description": "A sturdy feathered cap fashioned from especially hardened red leather.",
-    "image_path": "scraped_armor_images\\Red_Leather_Cap.png",
+    "image_path": "/assets/armor/Red_Leather_Cap.png",
     "locations": [
       "Sold by Aestella , Jayce , Reynard ."
     ],
@@ -1926,7 +1926,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Red+Leather+Hood",
     "name": "Red Leather Hood",
     "description": "A sturdy hood stitched from especially hardened red leather.",
-    "image_path": "scraped_armor_images\\Red_Leather_Hood.png",
+    "image_path": "/assets/armor/Red_Leather_Hood.png",
     "locations": [
       "Can be purchased from Caxton , Jayce , Alon after presenting with a Silver or Gold Idol in the Quest Idol Worship ."
     ],
@@ -1963,7 +1963,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Sage%27s+Hood",
     "name": "Sage's Hood",
     "description": "A mask named for a hero from beyond the rift. Wearing it bestows the user with holy protection.",
-    "image_path": "scraped_armor_images\\Sages_Hood.png",
+    "image_path": "/assets/armor/Sages_Hood.png",
     "locations": [
       "Random reward for slaying the online Ur-Dragon ."
     ],
@@ -1998,7 +1998,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Saint+George+Mask",
     "name": "Saint George Mask",
     "description": "A mask named for a hero from beyond the rift. Wearing it bestows the user with holy protection.",
-    "image_path": "scraped_armor_images\\Saint_George_Mask.png",
+    "image_path": "/assets/armor/Saint_George_Mask.png",
     "locations": [
       "Random reward for slaying the online Ur-Dragon ."
     ],
@@ -2037,7 +2037,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Siegfried+Mask",
     "name": "Siegfried Mask",
     "description": "A mask named for a hero from beyond the rift. Wearing it bestows the user with holy protection.",
-    "image_path": "scraped_armor_images\\Siegfried_Mask.png",
+    "image_path": "/assets/armor/Siegfried_Mask.png",
     "locations": [
       "Random reward for slaying the online Ur-Dragon ."
     ],
@@ -2076,7 +2076,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Silver+Eyeglasses",
     "name": "Silver Eyeglasses",
     "description": "A simple pair of silver eyeglasses.",
-    "image_path": "scraped_armor_images\\Silver_Eyeglasses.png",
+    "image_path": "/assets/armor/Silver_Eyeglasses.png",
     "locations": [
       "Sold by Johnathan ."
     ],
@@ -2113,7 +2113,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Skulker%27s+Mask",
     "name": "Skulker's Mask",
     "description": "A cloth mask that fully covers the head. Well-ventilated and ideal for situations that require stealth.",
-    "image_path": "scraped_armor_images\\Skulkers_Mask.png",
+    "image_path": "/assets/armor/Skulkers_Mask.png",
     "locations": [
       "Sold by Caxton",
       "Can be found in chests in chambers in The Everfall ."
@@ -2146,7 +2146,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Steel+Sallet",
     "name": "Steel Sallet",
     "description": "A steel helmet crafted by a master smithy, offering protection for the entire head.",
-    "image_path": "scraped_armor_images\\Steel_Sallet.png",
+    "image_path": "/assets/armor/Steel_Sallet.png",
     "locations": [
       "Sold by Alon ."
     ],
@@ -2176,7 +2176,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Sultry+Cowl",
     "name": "Sultry Cowl",
     "description": "A woman's hood dyed a deep red. Its design comes from an ancient culture lost to time.",
-    "image_path": "scraped_armor_images\\Sultry_Cowl.png",
+    "image_path": "/assets/armor/Sultry_Cowl.png",
     "locations": [
       "Random reward for slaying the online Ur-Dragon ."
     ],
@@ -2216,7 +2216,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Summery+Cowl",
     "name": "Summery Cowl",
     "description": "A woman's protective hood, well durable and suited for the road.",
-    "image_path": "scraped_armor_images\\Summery_Cowl.png",
+    "image_path": "/assets/armor/Summery_Cowl.png",
     "locations": [
       "Sold by Madeleine ."
     ],
@@ -2256,7 +2256,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Twilight+Hood",
     "name": "Twilight Hood",
     "description": "A jet-black hood, crafted to keep the enemy from recognizing one's face.",
-    "image_path": "scraped_armor_images\\Twilight_Hood.png",
+    "image_path": "/assets/armor/Twilight_Hood.png",
     "locations": [
       "Can be purchased from Caxton , Mathias , Madeleine , Alon ."
     ],
@@ -2289,7 +2289,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Twilight+Mask",
     "name": "Twilight Mask",
     "description": "A mask as dark as a moonless night, worn by those who lurk in the shadows of history.",
-    "image_path": "scraped_armor_images\\Twilight_Mask.png",
+    "image_path": "/assets/armor/Twilight_Mask.png",
     "locations": [
       "Can be found in chests in chambers in The Everfall , Chamber of Absence , Chamber of Distress , Chamber of Sorrow , Chamber of Hope ."
     ],
@@ -2322,7 +2322,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Verdant+Hood",
     "name": "Verdant Hood",
     "description": "A green hood woven from magickal fibers. Popular across the land for its understated style.",
-    "image_path": "scraped_armor_images\\Verdant_Hood.png",
+    "image_path": "/assets/armor/Verdant_Hood.png",
     "locations": [
       "Sold by Madeleine .",
       "Found in chest in Dripstone Cave"
@@ -2357,7 +2357,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/White+Cap",
     "name": "White Cap",
     "description": "A hood with a thin plate of lead to protect the crown of the head from unexpected blows.",
-    "image_path": "scraped_armor_images\\White_Cap.png",
+    "image_path": "/assets/armor/White_Cap.png",
     "locations": [
       "Can be purchased from Caxton , Madeleine , Jayce , Aestella ."
     ],
@@ -2394,7 +2394,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/White+Hawk+Sallet",
     "name": "White Hawk Sallet",
     "description": "A helm evoking the image of a hawk in flight. Its sleek form allows for the evasion of most damage.",
-    "image_path": "scraped_armor_images\\White_Hawk_Sallet.png",
+    "image_path": "/assets/armor/White_Hawk_Sallet.png",
     "locations": [
       "Sold by Alon . (PS3 and XBOX 360 only, not available in PS4, XBOX ONE and PC)"
     ],
@@ -2428,7 +2428,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Wizard%27s+Helm",
     "name": "Wizard's Helm",
     "description": "A fine hat sewn of magickal fabrics. Popular more for its form than its function.",
-    "image_path": "scraped_armor_images\\Wizards_Helm.png",
+    "image_path": "/assets/armor/Wizards_Helm.png",
     "locations": [
       "Can be found in a chest in the Witchwood",
       ""
@@ -2464,7 +2464,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Wyrmfyre+Vizard",
     "name": "Wyrmfyre Vizard",
     "description": "A striking mask shaped like a ferocious dragon. Its overpowering aura is on par with that of a real one.",
-    "image_path": "scraped_armor_images\\Wyrmfyre_Vizard.png",
+    "image_path": "/assets/armor/Wyrmfyre_Vizard.png",
     "locations": [
       "Obtained from the Armor Pack: Motley Crew ."
     ],
@@ -2502,7 +2502,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Abyssinal+Coat",
     "name": "Abyssinal Coat",
     "description": "Mythical armor that emits a dull glow. Only those who plumb the world's depths might obtain it.",
-    "image_path": "scraped_armor_images\\Abyssinal_Coat.png",
+    "image_path": "/assets/armor/Abyssinal_Coat.png",
     "locations": [
       "Random reward for slaying the online Ur-Dragon ."
     ],
@@ -2542,7 +2542,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Ancient+Robe",
     "name": "Ancient Robe",
     "description": "A robe once worn by an ancient practitioner of forbidden magick now lost to time.",
-    "image_path": "scraped_armor_images\\Ancient_Robe.png",
+    "image_path": "/assets/armor/Ancient_Robe.png",
     "locations": [
       "Obtain from the Armor Pack: Divine Protection"
     ],
@@ -2584,7 +2584,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Animistic+Robe",
     "name": "Animistic Robe",
     "description": "A simple robe worn by shamans who commune with nature.",
-    "image_path": "scraped_armor_images\\Animistic_Robe.png",
+    "image_path": "/assets/armor/Animistic_Robe.png",
     "locations": [
       "Can be purchased from Madeleine after presenting with a Bronze, Silver or Gold Idol in the Quest Idol Worship .",
       "Can be found in chests in chambers in Leaper's Ledge , The Greatwall , Barta Crags ."
@@ -2625,7 +2625,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Archer%27s+Culottes",
     "name": "Archer's Culottes",
     "description": "Light, flexible archer's armor which protects the body's most vulnerable areas.",
-    "image_path": "scraped_armor_images\\Archers_Culottes.png",
+    "image_path": "/assets/armor/Archers_Culottes.png",
     "locations": [
       "Sold by Jayce .",
       "Can be found in chests in chambers in The Tainted Mountain Temple , The Forgotten Hall ."
@@ -2659,7 +2659,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Asura+Armor",
     "name": "Asura Armor",
     "description": "Light armor that permits greater damage and increases stamina consumption, but boosts the amount of discipline earned.",
-    "image_path": "scraped_armor_images\\Asura_Armor.png",
+    "image_path": "/assets/armor/Asura_Armor.png",
     "locations": [
       "Reward for completing the Quest Keepers of the Ancient Flame ."
     ],
@@ -2701,7 +2701,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Berserkin",
     "name": "Berserkin",
     "description": "Women's light armor infused with magick enough to drive anyone to a frenzy. None can confirm its otherworldly origin.",
-    "image_path": "scraped_armor_images\\Berserkin.png",
+    "image_path": "/assets/armor/Berserkin.png",
     "locations": [
       "Can be found in chests in chambers in The Everfall , Chamber of Absence , Chamber of Distress , Chamber of Sorrow , Chamber of Hope ."
     ],
@@ -2735,7 +2735,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Bone+Armor",
     "name": "Bone Armor",
     "description": "Well-balanced armor fashioned from sturdy bones of various beasts.",
-    "image_path": "scraped_armor_images\\Bone_Armor.png",
+    "image_path": "/assets/armor/Bone_Armor.png",
     "locations": [
       "Sold by Reynard ."
     ],
@@ -2773,7 +2773,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Bone+Plate+Armor",
     "name": "Bone Plate Armor",
     "description": "Armor fashioned from sturdy bones of various beasts.",
-    "image_path": "scraped_armor_images\\Bone_Plate_Armor.png",
+    "image_path": "/assets/armor/Bone_Plate_Armor.png",
     "locations": [
       "Sold by Reynard ."
     ],
@@ -2811,7 +2811,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Bronze+Cuirass",
     "name": "Bronze Cuirass",
     "description": "Bronze armor that protects the entire body. Stellar performance for the price, hence its great popularity.",
-    "image_path": "scraped_armor_images\\Bronze_Cuirass.png",
+    "image_path": "/assets/armor/Bronze_Cuirass.png",
     "locations": [
       "Can be bought from Alon"
     ],
@@ -2842,7 +2842,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Bronze+Lorica",
     "name": "Bronze Lorica",
     "description": "Light bronze armor that preserves mobility while protecting the most vulnerable parts of the upper body.",
-    "image_path": "scraped_armor_images\\Bronze_Lorica.png",
+    "image_path": "/assets/armor/Bronze_Lorica.png",
     "locations": [
       "Sold by Aestella and Caxton"
     ],
@@ -2875,7 +2875,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Cardinal+Surcoat",
     "name": "Cardinal Surcoat",
     "description": "A coat dyed red and donned by the most adept sorcerers.",
-    "image_path": "scraped_armor_images\\Cardinal_Surcoat.png",
+    "image_path": "/assets/armor/Cardinal_Surcoat.png",
     "locations": [
       "Sold by Caxton and Jayce ."
     ],
@@ -2914,7 +2914,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Chaos+Armor",
     "name": "Chaos Armor",
     "description": "Sinister armor plagued by an unknown curse. Some say it is not worn by any owner so much as it wears them...",
-    "image_path": "scraped_armor_images\\Chaos_Armor.png",
+    "image_path": "/assets/armor/Chaos_Armor.png",
     "locations": [
       "Obtained from the Armor Pack: Demon's Protection"
     ],
@@ -2955,7 +2955,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Chestguard",
     "name": "Chestguard",
     "description": "A bronze chestpiece designed for archers, offering protection while not hindering their bow work.",
-    "image_path": "scraped_armor_images\\Chestguard.png",
+    "image_path": "/assets/armor/Chestguard.png",
     "locations": [
       "Can be purchased from Reynard , Madeleine , Aestella ."
     ],
@@ -2989,7 +2989,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Chimeric+Half+Plate",
     "name": "Chimeric Half Plate",
     "description": "Metal armor that brings to mind the mighty chimera.",
-    "image_path": "scraped_armor_images\\Chimeric_Half_Plate.png",
+    "image_path": "/assets/armor/Chimeric_Half_Plate.png",
     "locations": [
       "Random reward for slaying the online Ur-Dragon ."
     ],
@@ -3023,7 +3023,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Crimson+Plate",
     "name": "Crimson Plate",
     "description": "Chest armor decorated a bright, burning red that seems not of this world.",
-    "image_path": "scraped_armor_images\\Crimson_Plate.png",
+    "image_path": "/assets/armor/Crimson_Plate.png",
     "locations": [
       "Can be purchased from Joye .",
       "Can be found in chests in chambers in The Everfall , Chamber of Absence , Chamber of Distress , Chamber of Sorrow , Chamber of Hope ."
@@ -3057,7 +3057,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Crimson+Robe",
     "name": "Crimson Robe",
     "description": "A robe of deepest red that some claim was dyed by the dragon's own blood.",
-    "image_path": "scraped_armor_images\\Crimson_Robe.png",
+    "image_path": "/assets/armor/Crimson_Robe.png",
     "locations": [
       "Sold by Madeleine ."
     ],
@@ -3090,7 +3090,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Dalmatica",
     "name": "Dalmatica",
     "description": "A mask named for a hero from beyond the rift. Wearing it bestows the user with holy protection.",
-    "image_path": "scraped_armor_images\\Dalmatica.png",
+    "image_path": "/assets/armor/Dalmatica.png",
     "locations": [
       "Can be purchased from Caxton , Mathias ."
     ],
@@ -3123,7 +3123,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Dark+Lorica",
     "name": "Dark Lorica",
     "description": "Armor as dark as a moonless night, worn by those who lurk in the shadows of history.",
-    "image_path": "scraped_armor_images\\Dark_Lorica.png",
+    "image_path": "/assets/armor/Dark_Lorica.png",
     "locations": [
       "Can be found in chests in chambers in The Everfall , Chamber of Hesitation , Chamber of Fate , Chamber of Sorrow , Chamber of Hope ."
     ],
@@ -3156,7 +3156,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Divine+Surcoat",
     "name": "Divine Surcoat",
     "description": "A surcoat worn by crusading holy warriors, blessed with the prayers of the Faith.",
-    "image_path": "scraped_armor_images\\Divine_Surcoat.png",
+    "image_path": "/assets/armor/Divine_Surcoat.png",
     "locations": [
       "Sold by Mathias in post-game.",
       "Can be found in chests in chambers in The Everfall , Chamber of Estrangement , Chamber of Hope ."
@@ -3190,7 +3190,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Emissary+Armor",
     "name": "Emissary Armor",
     "description": "Light armor worn by the duke's elite personal guard.",
-    "image_path": "scraped_armor_images\\Emissary_Armor.png",
+    "image_path": "/assets/armor/Emissary_Armor.png",
     "locations": [
       "Obtained from DLC Armor Pack: Divine Protection"
     ],
@@ -3226,7 +3226,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Flutter+Padding",
     "name": "Flutter Padding",
     "description": "Light undergarb for the lower body that doesn't restrict the wearer's movement.",
-    "image_path": "scraped_armor_images\\Flutter_Padding.png",
+    "image_path": "/assets/armor/Flutter_Padding.png",
     "locations": [
       "Can be purchased from Madeleine , Reynard , Alon .",
       "Can be found in chests in Healing Spring."
@@ -3260,7 +3260,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Frame+Plate",
     "name": "Frame Plate",
     "description": "Women's leather armor, so light and pliable it was originally worn beneath other garb.",
-    "image_path": "scraped_armor_images\\Frame_Plate.png",
+    "image_path": "/assets/armor/Frame_Plate.png",
     "locations": [
       "Sold by Madeleine",
       "Can be found in chests in The Catacomb , Bloodwater Beach , Conqueror's Sanctuary ."
@@ -3301,7 +3301,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Golden+Belt",
     "name": "Golden Belt",
     "description": "A magnificent gilded belt worn only by those who achieve wide renown",
-    "image_path": "scraped_armor_images\\Golden_Belt.png",
+    "image_path": "/assets/armor/Golden_Belt.png",
     "locations": [
       "Sold by Caxton .",
       "Can be found in chests in Chamber of Distress , The Tainted Mountain ."
@@ -3343,7 +3343,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Golden+Lion+Padding",
     "name": "Golden Lion Padding",
     "description": "Light armor modeled after the king of beasts. Only a chosen few may wear it.",
-    "image_path": "scraped_armor_images\\Golden_Lion_Padding.png",
+    "image_path": "/assets/armor/Golden_Lion_Padding.png",
     "locations": [
       "Can be found in chests in chambers in The Everfall , Chamber of Tragedy , Chamber of Fate , Chamber of Resolution , Chamber of Hope ."
     ],
@@ -3378,7 +3378,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Grand+Surcoat",
     "name": "Grand Surcoat",
     "description": "Squires and newly minted men-at-arms dare not don this surcoat, reserved for veteran knights only.",
-    "image_path": "scraped_armor_images\\Grand_Surcoat.png",
+    "image_path": "/assets/armor/Grand_Surcoat.png",
     "locations": [
       "Can be found in the Castle Treasury and the Bluemoon Tower",
       "Can be bought from Caxton"
@@ -3411,7 +3411,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Grisly+Bone+Armor",
     "name": "Grisly Bone Armor",
     "description": "Menacing armor fashioned from the bones of creatures from beyond the rift. Far more durable than ordinary bone.",
-    "image_path": "scraped_armor_images\\Grisly_Bone_Armor.png",
+    "image_path": "/assets/armor/Grisly_Bone_Armor.png",
     "locations": [
       "Can be found in chests in chambers in The Everfall , Chamber of Absence , Chamber of Woe , Chamber of Sorrow , Chamber of Hope ."
     ],
@@ -3447,7 +3447,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Gryphic+Armor",
     "name": "Gryphic Armor",
     "description": "Exquisite silver armor wrought in the form of the noble griffin.",
-    "image_path": "scraped_armor_images\\Gryphic_Armor.png",
+    "image_path": "/assets/armor/Gryphic_Armor.png",
     "locations": [
       "Can be purchased from Caxton , Mathias , Reynard , Alon .",
       "Can be found In a chest at Bluemoon Tower ."
@@ -3480,7 +3480,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Healer%27s+Robe",
     "name": "Healer's Robe",
     "description": "A humble cloth robe common among practitioners of curative magick.",
-    "image_path": "scraped_armor_images\\Healers_Robe.png",
+    "image_path": "/assets/armor/Healers_Robe.png",
     "locations": [
       "Can be purchased from Reynard , Aestella ."
     ],
@@ -3514,7 +3514,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Heresy+Armor",
     "name": "Heresy Armor",
     "description": "A robe once worn by a cadre of sorcerers persecuted as heretics to the Faith.",
-    "image_path": "scraped_armor_images\\Heresy_Armor.png",
+    "image_path": "/assets/armor/Heresy_Armor.png",
     "locations": [
       "Obtained from DLC Armor Pack: Demon's Protection ."
     ],
@@ -3550,7 +3550,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Hero%27s+Surcoat",
     "name": "Hero's Surcoat",
     "description": "A surcoat worn by a great hero of lore as he set off to slay a dragon.",
-    "image_path": "scraped_armor_images\\Heros_Surcoat.png",
+    "image_path": "/assets/armor/Heros_Surcoat.png",
     "locations": [
       "Obtained from DLC Armor Pack: Divine Protection"
     ],
@@ -3585,7 +3585,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Hide+Armor",
     "name": "Hide Armor",
     "description": "A simple wrapping of hides, stitched together for enhanced durability.",
-    "image_path": "scraped_armor_images\\Hide_Armor.png",
+    "image_path": "/assets/armor/Hide_Armor.png",
     "locations": [
       "Can be purchased from Caxton , Jayce .",
       "Can be found in chests in the Unusual Beach , Moonshower Cliffs ."
@@ -3618,7 +3618,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Hunter%27s+Jacket",
     "name": "Hunter's Jacket",
     "description": "Lightweight armor designed to allow the wearer to remain quick on their feet.",
-    "image_path": "scraped_armor_images\\Hunters_Jacket.png",
+    "image_path": "/assets/armor/Hunters_Jacket.png",
     "locations": [
       "Can be purchased from Caxton , Mathias , Jayce , Alon after presenting with a Silver or Gold Idol in the Quest Idol Worship .",
       "Can be found in chests on the Bloodwater Beach ."
@@ -3652,7 +3652,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Iron+Lorica",
     "name": "Iron Lorica",
     "description": "A set of leather belts worn around the chest. Protects the torso's most vulnerable regions.",
-    "image_path": "scraped_armor_images\\Iron_Lorica.png",
+    "image_path": "/assets/armor/Iron_Lorica.png",
     "locations": [
       "Can be purchased from Caxton , Mathias , Jayce , Alon , Barroch , Aestella .",
       "Can be found in chests in Ancient Quarry ."
@@ -3685,7 +3685,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Lamellar+Jacket",
     "name": "Lamellar Jacket",
     "description": "Light armor of overlapping metal scales, preventing any blows from piercing through.",
-    "image_path": "scraped_armor_images\\Lamellar_Jacket.png",
+    "image_path": "/assets/armor/Lamellar_Jacket.png",
     "locations": [
       "Can be purchased from Caxton , Mathias , Alon ."
     ],
@@ -3720,7 +3720,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Leather+Belts",
     "name": "Leather Belts",
     "description": "A set of leather belts worn around the chest. Protects the torso's most vulnerable regions.",
-    "image_path": "scraped_armor_images\\Leather_Belts.png",
+    "image_path": "/assets/armor/Leather_Belts.png",
     "locations": [
       "Can be purchased from Reynard , Aestella , Jayce ."
     ],
@@ -3754,7 +3754,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Leather+Jacket",
     "name": "Leather Jacket",
     "description": "An orderly patchwork of iron plating riveted atop a woven leather jerkin.",
-    "image_path": "scraped_armor_images\\Leather_Jacket.png",
+    "image_path": "/assets/armor/Leather_Jacket.png",
     "locations": [
       "Can be purchased from Aestella , Jayce ."
     ],
@@ -3788,7 +3788,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Leather+Protector",
     "name": "Leather Protector",
     "description": "Light armor fashioned from high-quality leather and other sturdy materials.",
-    "image_path": "scraped_armor_images\\Leather_Protector.png",
+    "image_path": "/assets/armor/Leather_Protector.png",
     "locations": [
       "Can be purchased from Caxton , Barroch , Jayce , Aestella ."
     ],
@@ -3821,7 +3821,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Leather+Waistwrap",
     "name": "Leather Waistwrap",
     "description": "Light armor composed of iron plates set atop leather bands. Gives ample protection for the waist.",
-    "image_path": "scraped_armor_images\\Leather_Waistwrap.png",
+    "image_path": "/assets/armor/Leather_Waistwrap.png",
     "locations": [
       "Sold by Caxton and Jayce ."
     ],
@@ -3853,7 +3853,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Magician%27s+Surcoat",
     "name": "Magician's Surcoat",
     "description": "A cloth coat donned by sorcerers once their training is complete.",
-    "image_path": "scraped_armor_images\\Magicians_Surcoat.png",
+    "image_path": "/assets/armor/Magicians_Surcoat.png",
     "locations": [
       "Can be purchased from Caxton , Mathias , Jayce ."
     ],
@@ -3887,7 +3887,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Maiden%27s+Petticoat",
     "name": "Maiden's Petticoat",
     "description": "Women's waist protection woven with steel fibers, making it quite durable.",
-    "image_path": "scraped_armor_images\\Maidens_Petticoat.png",
+    "image_path": "/assets/armor/Maidens_Petticoat.png",
     "locations": [
       "Sold by Madeleine ."
     ],
@@ -3925,7 +3925,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Matte+Robe",
     "name": "Matte Robe",
     "description": "A robe worn only by master sorcerers.",
-    "image_path": "scraped_armor_images\\Matte_Robe.png",
+    "image_path": "/assets/armor/Matte_Robe.png",
     "locations": [
       "Can be found in chests in chambers in The Everfall , Chamber of Tragedy , Chamber of Estrangement , Chamber of Sorrow , Chamber of Resolution ."
     ],
@@ -3958,7 +3958,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Meloirean+Plate",
     "name": "Meloirean Plate",
     "description": "Armor wrought from durable Meloirean steel. Its dull sheen catches the eye.",
-    "image_path": "scraped_armor_images\\Meloirean_Plate.png",
+    "image_path": "/assets/armor/Meloirean_Plate.png",
     "locations": [
       "Can be purchased from Caxton , Alon",
       "Can be found in chests in chambers in The Everfall , Chamber of Anxiety , Chamber of Hope ."
@@ -3991,7 +3991,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Missionary%27s+Robe",
     "name": "Missionary's Robe",
     "description": "A robe made familiar by servants of the Faith as they spread their gospel far and wide.",
-    "image_path": "scraped_armor_images\\Missionarys_Robe.png",
+    "image_path": "/assets/armor/Missionarys_Robe.png",
     "locations": [
       "Can be purchased from Caxton , Jayce , Alon ."
     ],
@@ -4023,7 +4023,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Monomi+Coat",
     "name": "Monomi Coat",
     "description": "Lightweight Armor unique to Assassins of a Foreign land, They say its wearer is as one with the shadows.",
-    "image_path": "scraped_armor_images\\Monomi_Coat.png",
+    "image_path": "/assets/armor/Monomi_Coat.png",
     "locations": [
       "Obtained from DLC Armor Pack: Demon's Protection"
     ],
@@ -4059,7 +4059,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Mummer%27s+Wear",
     "name": "Mummer's Wear",
     "description": "A cloth wrap common to wandering minstrels and other entertainers.",
-    "image_path": "scraped_armor_images\\Mummers_Wear.png",
+    "image_path": "/assets/armor/Mummers_Wear.png",
     "locations": [
       "Sold by Reynard after his Search Party quest."
     ],
@@ -4098,7 +4098,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Padded+Armor",
     "name": "Padded Armor",
     "description": "Armor sewn from layer upon layer of cloth. Well protective for its light weight.",
-    "image_path": "scraped_armor_images\\Padded_Armor.png",
+    "image_path": "/assets/armor/Padded_Armor.png",
     "locations": [
       "Can be purchased from Madeleine , Reynard .",
       "Can be found in chests in chambers in Conqueror's Sanctuary ."
@@ -4131,7 +4131,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Philosopher%27s+Robe",
     "name": "Philosopher's Robe",
     "description": "A holy robe of purest white. Once worn by a mighty sage who saved the world from a great calamity.",
-    "image_path": "scraped_armor_images\\Philosophers_Robe.png",
+    "image_path": "/assets/armor/Philosophers_Robe.png",
     "locations": [
       "Can be purchased from Delec .",
       "Can be found in chests in chambers in The Everfall , Chamber of Anxiety , Chamber of Sorrow , Chamber of Hope ."
@@ -4166,7 +4166,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Plebian+Shirt",
     "name": "Plebian Shirt",
     "description": "A shirt of common style and inexpensive fabric. Offers protection against the cold but little else.",
-    "image_path": "scraped_armor_images\\Plebian_Shirt.png",
+    "image_path": "/assets/armor/Plebian_Shirt.png",
     "locations": [
       "Can be purchased from Camellia , Reynard , Iola .",
       "Drop from Wargs"
@@ -4203,7 +4203,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Recluse%27s+Robe",
     "name": "Recluse's Robe",
     "description": "A cloth robe that leaves little to the imagination. Seductive and comfortable, if not very practical.",
-    "image_path": "scraped_armor_images\\Recluses_Robe.png",
+    "image_path": "/assets/armor/Recluses_Robe.png",
     "locations": [
       "Can be found in chests in Blighted Manse , Duskmoon Tower ."
     ],
@@ -4247,7 +4247,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Red+Dragon+Scale",
     "name": "Red Dragon Scale",
     "description": "Armor fashioned from the scales of a dragon. The material's rarity ensures its premium value.",
-    "image_path": "scraped_armor_images\\Red_Dragon_Scale.png",
+    "image_path": "/assets/armor/Red_Dragon_Scale.png",
     "locations": [
       "Can be found in chests in chambers in The Everfall , Chamber of Absence , Chamber of Insipration , Chamber of Rememberance , Chamber of Fate ."
     ],
@@ -4281,7 +4281,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Red+Leather+Armor",
     "name": "Red Leather Armor",
     "description": "Lightweight armor fashioned from especially hardened red leather.",
-    "image_path": "scraped_armor_images\\Red_Leather_Armor.png",
+    "image_path": "/assets/armor/Red_Leather_Armor.png",
     "locations": [
       "Can be purchased from Reynard , Jayce , Caxton ."
     ],
@@ -4314,7 +4314,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Rex+Lion+Padding",
     "name": "Rex Lion Padding",
     "description": "Light armor modeled after the king of beasts. Reinforced by a great number of linked iron rings.",
-    "image_path": "scraped_armor_images\\Rex_Lion_Padding.png",
+    "image_path": "/assets/armor/Rex_Lion_Padding.png",
     "locations": [
       "Can be purchased from Caxton , Alon .",
       "Can be found in chests in chambers in Soulflayer Canyon , Bluemoon Tower , The Greatwall ."
@@ -4354,7 +4354,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Royal+Surcoat",
     "name": "Royal Surcoat",
     "description": "A surcoat dyed red to signify a member of the royal guard.",
-    "image_path": "scraped_armor_images\\Royal_Surcoat.png",
+    "image_path": "/assets/armor/Royal_Surcoat.png",
     "locations": [
       "Can be found in The Everfall , Chamber of Fate , Chamber of Distress , The Tainted Mountain .",
       "Sold by Mathias ."
@@ -4390,7 +4390,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Sage%27s+Robe",
     "name": "Sage's Robe",
     "description": "A blessed robe said to have been worn by a sage of some renown.",
-    "image_path": "scraped_armor_images\\Sages_Robe.png",
+    "image_path": "/assets/armor/Sages_Robe.png",
     "locations": [
       "Sold by Caxton ."
     ],
@@ -4424,7 +4424,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Scale+Coat",
     "name": "Scale Coat",
     "description": "Armor fashioned from hydra scales. Rare and extremely valuable.",
-    "image_path": "scraped_armor_images\\Scale_Coat.png",
+    "image_path": "/assets/armor/Scale_Coat.png",
     "locations": [
       "Maybe found In a chest in The Shadow Fort ."
     ],
@@ -4458,7 +4458,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Scholar%27s+Coat",
     "name": "Scholar's Coat",
     "description": "Cloth raiment oft worn by apprentices and pupils of magick.",
-    "image_path": "scraped_armor_images\\Scholars_Coat.png",
+    "image_path": "/assets/armor/Scholars_Coat.png",
     "locations": [
       "Can be purchased from Caxton , Aestella , Jayce ."
     ],
@@ -4490,7 +4490,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Sectional+Armor",
     "name": "Sectional Armor",
     "description": "Armor of iron plates crafted to protect the lower torso.",
-    "image_path": "scraped_armor_images\\Sectional_Armor.png",
+    "image_path": "/assets/armor/Sectional_Armor.png",
     "locations": [
       "Sold by Reynard ."
     ],
@@ -4520,7 +4520,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Sectional+Iron+Plate",
     "name": "Sectional Iron Plate",
     "description": "Iron plate armor with Gran Soren's seal etched on the shoulder.",
-    "image_path": "scraped_armor_images\\Sectional_Iron_Plate.png",
+    "image_path": "/assets/armor/Sectional_Iron_Plate.png",
     "locations": [
       "Can be purchased from Caxton , Mathias , Jayce .",
       "Can be found in chests in The Bluemoon Tower ."
@@ -4551,7 +4551,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Shabby+Robe",
     "name": "Shabby Robe",
     "description": "A simple robe fashioned of sturdy cotton fabric.",
-    "image_path": "scraped_armor_images\\Shabby_Robe.png",
+    "image_path": "/assets/armor/Shabby_Robe.png",
     "locations": [
       "Sold by Aestella ."
     ],
@@ -4583,7 +4583,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Skull+Belts",
     "name": "Skull Belts",
     "description": "A set of belts festooned with skeletal designs.",
-    "image_path": "scraped_armor_images\\Skull_Belts.png",
+    "image_path": "/assets/armor/Skull_Belts.png",
     "locations": [
       "Sold by Aestella ."
     ],
@@ -4617,7 +4617,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Solar+Armor",
     "name": "Solar Armor",
     "description": "0",
-    "image_path": "scraped_armor_images\\Solar_Armor.png",
+    "image_path": "/assets/armor/Solar_Armor.png",
     "locations": [
       "Reward for the quest Bury the Dead ."
     ],
@@ -4647,7 +4647,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Steel+Cuirass",
     "name": "Steel Cuirass",
     "description": "Steel armor crafted by a master smithy. Provides protection for the entire body.",
-    "image_path": "scraped_armor_images\\Steel_Cuirass.png",
+    "image_path": "/assets/armor/Steel_Cuirass.png",
     "locations": [
       "Sold by Alon .",
       "Can be found in chests in The Everfall , The Greatwall ."
@@ -4678,7 +4678,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Sultry+Pareo",
     "name": "Sultry Pareo",
     "description": "Women's waist protection woven from fine silk.",
-    "image_path": "scraped_armor_images\\Sultry_Pareo.png",
+    "image_path": "/assets/armor/Sultry_Pareo.png",
     "locations": [
       "Sold by Madeleine .",
       "Can be found in chests in chambers in The Tainted Mountain Temple , Chamber of Tragedy .",
@@ -4720,7 +4720,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Summery+Pareo",
     "name": "Summery Pareo",
     "description": "Women's waist protection. Fashionable as well as practical.",
-    "image_path": "scraped_armor_images\\Summery_Pareo.png",
+    "image_path": "/assets/armor/Summery_Pareo.png",
     "locations": [
       "Random reward for slaying the online Ur-Dragon ."
     ],
@@ -4760,7 +4760,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Surcoat",
     "name": "Surcoat",
     "description": "A cover worn over armor for protection from the elements.",
-    "image_path": "scraped_armor_images\\Surcoat.png",
+    "image_path": "/assets/armor/Surcoat.png",
     "locations": [
       "Can be purchased from Caxton , Mathias , Jayce ."
     ],
@@ -4802,7 +4802,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Swordsman%27s+Plate",
     "name": "Swordsman's Plate",
     "description": "Armor of thick layers of steel plate. Its protection is first rate, yet still offers ample maneuverability.",
-    "image_path": "scraped_armor_images\\Swordsmans_Plate.png",
+    "image_path": "/assets/armor/Swordsmans_Plate.png",
     "locations": [
       "Sold by Alon . (not available on PC version)"
     ],
@@ -4842,7 +4842,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Weak+Guard",
     "name": "Weak Guard",
     "description": "An iron chestpiece designed for archers, offering protection while not hindering their bow work.",
-    "image_path": "scraped_armor_images\\Weak_Guard.png",
+    "image_path": "/assets/armor/Weak_Guard.png",
     "locations": [
       "Can be purchased from Madeleine , Jayce ."
     ],
@@ -4878,7 +4878,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/White+Hawk+Half-Plate",
     "name": "White Hawk Half-Plate",
     "description": "0",
-    "image_path": "scraped_armor_images\\White_Hawk_Half-Plate.png",
+    "image_path": "/assets/armor/White_Hawk_Half-Plate.png",
     "locations": [
       "Sold by Alon ."
     ],
@@ -4912,7 +4912,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Abyssinal+Bracers",
     "name": "Abyssinal Bracers",
     "description": "Mythical bracers that emit a dull glow. Only those who plumb the world's depths might obtain it.",
-    "image_path": "scraped_armor_images\\Abyssinal_Bracers.png",
+    "image_path": "/assets/armor/Abyssinal_Bracers.png",
     "locations": [
       "Random reward for slaying the online Ur-Dragon ."
     ],
@@ -4952,7 +4952,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Alchemickal+Bangles",
     "name": "Alchemickal Bangles",
     "description": "Bracelets wrought from unnatural alchemick metal.",
-    "image_path": "scraped_armor_images\\Alchemickal_Bangles.png",
+    "image_path": "/assets/armor/Alchemickal_Bangles.png",
     "locations": [
       "Sold by Madeleine .",
       "Can be found in chests in chambers in The Greatwall , The Tainted Mountain Temple ."
@@ -4991,7 +4991,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Ancient+Bangles",
     "name": "Ancient Bangles",
     "description": "Bangles once worn by an ancient practitioner of a forbidden magick now lost to time.",
-    "image_path": "scraped_armor_images\\Ancient_Bangles.png",
+    "image_path": "/assets/armor/Ancient_Bangles.png",
     "locations": [
       "Obtained from the DLC Armor Pack: Divine Protection"
     ],
@@ -5038,7 +5038,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Arm+Crest",
     "name": "Arm Crest",
     "description": "Innovative arm protection that incorporates a heraldic emblem.",
-    "image_path": "scraped_armor_images\\Arm_Crest.png",
+    "image_path": "/assets/armor/Arm_Crest.png",
     "locations": [
       "Sold by Madeleine and Reynard .",
       "Can be found in cheats in Soulflayer Canyon ."
@@ -5076,7 +5076,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Assailant's+Bracers",
     "name": "Assailant's Bracers",
     "description": "Sturdy bracers designed not to hinder arm movement.",
-    "image_path": "scraped_armor_images\\Assailants_Bracers.png",
+    "image_path": "/assets/armor/Assailants_Bracers.png",
     "locations": [
       "Sold by Reynard .",
       "Can be found in The Bluemoon Tower ."
@@ -5114,7 +5114,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Assassin's+Armguards",
     "name": "Assassin's Armguards",
     "description": "Bracers black as midnight, worn by trained cutthroats who ply their trade in the shadows.",
-    "image_path": "scraped_armor_images\\Assassins_Armguards.png",
+    "image_path": "/assets/armor/Assassins_Armguards.png",
     "locations": [
       "Sold by Alon .",
       "Can be found in The Tainted Mountain Temple ."
@@ -5152,7 +5152,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Assembled+Sleeves",
     "name": "Assembled Sleeves",
     "description": "Thick sleeves fashioned from the tanned hide of a giant for enhanced durability.",
-    "image_path": "scraped_armor_images\\Assembled_Sleeves.png",
+    "image_path": "/assets/armor/Assembled_Sleeves.png",
     "locations": [
       "Can be purchased from Caxton , Mathias , Jayce ."
     ],
@@ -5187,7 +5187,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Bandit's+Glove",
     "name": "Bandit's Glove",
     "description": "A leather glove that keeps the dominant hand free. Favored by bandits and other unsavory types.",
-    "image_path": "scraped_armor_images\\Bandits_Glove.png",
+    "image_path": "/assets/armor/Bandits_Glove.png",
     "locations": [
       "Can be found at The Ruins of Aernst Castle ."
     ],
@@ -5223,7 +5223,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Black+Leather+Gloves",
     "name": "Black Leather Gloves",
     "description": "A single glove of strong leather, black as a moonless night.",
-    "image_path": "scraped_armor_images\\Black_Leather_Gloves.png",
+    "image_path": "/assets/armor/Black_Leather_Gloves.png",
     "locations": [
       "Sold by Jayce .",
       "Can be found in The Tainted Mountain Temple ."
@@ -5262,7 +5262,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Bronze+Bangles",
     "name": "Bronze Bangles",
     "description": "Wristguards wrought of bronze.",
-    "image_path": "scraped_armor_images\\Bronze_Bangles.png",
+    "image_path": "/assets/armor/Bronze_Bangles.png",
     "locations": [
       "Can be purchased from Caxton , Madeleine , Aestella , Alon .",
       "Can be found in chests in The Everfall ."
@@ -5301,7 +5301,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Bronze+Gauntlets",
     "name": "Bronze Gauntlets",
     "description": "Bronze gauntlets that protect the lower arms. Stellar performance for the price, hence their great popularity.",
-    "image_path": "scraped_armor_images\\Bronze_Gauntlets.png",
+    "image_path": "/assets/armor/Bronze_Gauntlets.png",
     "locations": [
       "Sold by Alon ."
     ],
@@ -5332,7 +5332,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Burnished+Bracers",
     "name": "Burnished Bracers",
     "description": "Thin metal bracers that shine like the summer sun. Stronger than typical fare despite their light weight.",
-    "image_path": "scraped_armor_images\\Burnished_Bracers.png",
+    "image_path": "/assets/armor/Burnished_Bracers.png",
     "locations": [
       "Can be found in chests in chambers in The Everfall , Chamber of Anxiety , Chamber of Estrangement , Chamber of Sorrow , Chamber of Hope ."
     ],
@@ -5368,7 +5368,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Champion's+Bangles",
     "name": "Champion's Bangles",
     "description": "Bracelets that instill a warrior's courage in the wearer's heart. Once worn by a hero of legend.",
-    "image_path": "scraped_armor_images\\Champions_Bangles.png",
+    "image_path": "/assets/armor/Champions_Bangles.png",
     "locations": [
       "Random reward for slaying the online Ur-Dragon ."
     ],
@@ -5408,7 +5408,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Chaos+Gauntlets",
     "name": "Chaos Gauntlets",
     "description": "Sinister gauntlets plagued by an unknown curse. Possessed of such power that they warp the very air.",
-    "image_path": "scraped_armor_images\\Chaos_Gauntlets.png",
+    "image_path": "/assets/armor/Chaos_Gauntlets.png",
     "locations": [
       "Obtained from the Armor Pack: Demon's Protection."
     ],
@@ -5443,7 +5443,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Chimeric+Gauntlets",
     "name": "Chimeric Gauntlets",
     "description": "Metal gauntlets that bring to mind the mighty chimera.",
-    "image_path": "scraped_armor_images\\Chimeric_Gauntlets.png",
+    "image_path": "/assets/armor/Chimeric_Gauntlets.png",
     "locations": [
       "Can be purchased from Caxton , Mathias , Jayce , Alon .",
       "Can be found in chest in Soulflayer Canyon , The Greatwall ."
@@ -5478,7 +5478,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Crimson+Gauntlets",
     "name": "Crimson Gauntlets",
     "description": "Rugged gauntlets of a deep, burning red that seems not of this world.",
-    "image_path": "scraped_armor_images\\Crimson_Gauntlets.png",
+    "image_path": "/assets/armor/Crimson_Gauntlets.png",
     "locations": [
       "Can be found in chests in chambers in The Everfall , Chamber of Tragedy , Chamber of Resolution , Chamber of Estrangement ."
     ],
@@ -5511,7 +5511,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Darkened+Gloves",
     "name": "Darkened Gloves",
     "description": "Leather gloves hardened with a strong",
-    "image_path": "scraped_armor_images\\Darkened_Gloves.png",
+    "image_path": "/assets/armor/Darkened_Gloves.png",
     "locations": [
       "Can be purchased from Caxton , Mathias , Alon .",
       "Can be found in chests in The Tainted Mountain Temple , Frontier Caverns ."
@@ -5548,7 +5548,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Dragon+Hide+Bracers",
     "name": "Dragon Hide Bracers",
     "description": "Sleeves of extremely valuable dragon hide.",
-    "image_path": "scraped_armor_images\\Dragon_Hide_Bracers.png",
+    "image_path": "/assets/armor/Dragon_Hide_Bracers.png",
     "locations": [
       "Sold by Jayce .",
       "Can be found in chests in chambers in The Everfall , Chamber of Confusion , Chamber of Tragedy ."
@@ -5582,7 +5582,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Dragonscale+Arm",
     "name": "Dragonscale Arm",
     "description": "A single bracer fashioned from the scales of a dragon. The material's rarity ensures its premium value.",
-    "image_path": "scraped_armor_images\\Dragonscale_Arm.png",
+    "image_path": "/assets/armor/Dragonscale_Arm.png",
     "locations": [
       "Can be found in chests in chambers in The Everfall , Chamber of Tragedy , Chamber of Distress , Chamber of Sorrow , Chamber of Hope .",
       "Can be purchased from Delec ."
@@ -5617,7 +5617,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Emissary+Bracers",
     "name": "Emissary Bracers",
     "description": "Bracers worn by the duke's elite personal guard.",
-    "image_path": "scraped_armor_images\\Emissary_Bracers.png",
+    "image_path": "/assets/armor/Emissary_Bracers.png",
     "locations": [
       "Obtained from Armor Pack: Divine Protection ."
     ],
@@ -5656,7 +5656,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Farewell+Gloves",
     "name": "Farewell Gloves",
     "description": "New gloves, painstakingly fashioned. Traditionally gifted to Cassardi natives to invite good luck on their travels.",
-    "image_path": "scraped_armor_images\\Farewell_Gloves.png",
+    "image_path": "/assets/armor/Farewell_Gloves.png",
     "locations": [
       "Sold by Iola ."
     ],
@@ -5693,7 +5693,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Funnybone+Guards",
     "name": "Funnybone Guards",
     "description": "Lightweight padding for the elbows that safeguard against accidental injury.",
-    "image_path": "scraped_armor_images\\Funnybone_Guards.png",
+    "image_path": "/assets/armor/Funnybone_Guards.png",
     "locations": [
       "Can be purchased from Caxton , Mathias , Jayce , Alon after presenting with a Silver or Gold Idol in the Quest Idol Worship ."
     ],
@@ -5730,7 +5730,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Gleaming+Bangles",
     "name": "Gleaming Bangles",
     "description": "Bracelets that glitter like gold. Adorned with a magickal jewel that grants the wearer extra protection.",
-    "image_path": "scraped_armor_images\\Gleaming_Bangles.png",
+    "image_path": "/assets/armor/Gleaming_Bangles.png",
     "locations": [
       "Can be found in chests in The Bloodless Stockade , Rotwood Depository , The Everfall : Chamber of Tragedy , Chamber of Estrangement , Chamber of Sorrow , Chamber of Hope ."
     ],
@@ -5770,7 +5770,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Gloves+of+Might",
     "name": "Gloves of Might",
     "description": "Gauntlets fashioned from purple crystal, they raise the wearer's speed while clinging to any object.",
-    "image_path": "scraped_armor_images\\Gloves_of_Might.png",
+    "image_path": "/assets/armor/Gloves_of_Might.png",
     "locations": [
       "Can be purchased from Jonathan ."
     ],
@@ -5807,7 +5807,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Golden+Wristbands",
     "name": "Golden Wristbands",
     "description": "Gold bracelets queer to the touch. Some claim them to be tools of unknown rituals from beyond the rift.",
-    "image_path": "scraped_armor_images\\Golden_Wristbands.png",
+    "image_path": "/assets/armor/Golden_Wristbands.png",
     "locations": [
       "Random reward for slaying the online Ur-Dragon ."
     ],
@@ -5847,7 +5847,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Grisly+Bracers",
     "name": "Grisly Bracers",
     "description": "Menacing gauntlets forged from the hide of a creature from beyond the rift. The material is stronger than steel.",
-    "image_path": "scraped_armor_images\\Grisly_Bracers.png",
+    "image_path": "/assets/armor/Grisly_Bracers.png",
     "locations": [
       "Can be found in chests in The Everfall , Chamber of Resolution , Chamber of Distress , Chamber of Sorrow , Chamber of Fate ."
     ],
@@ -5886,7 +5886,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Gryphic+Gauntlets",
     "name": "Gryphic Gauntlets",
     "description": "Exquisite silver gauntlets wrought in the form of the noble griffin.",
-    "image_path": "scraped_armor_images\\Gryphic_Gauntlets.png",
+    "image_path": "/assets/armor/Gryphic_Gauntlets.png",
     "locations": [
       "Can be purchased from Caxton , Mathias , Jayce , Alon",
       "Can be found in chests at the Bluemoon Tower ."
@@ -5919,7 +5919,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Hand+Covers",
     "name": "Hand Covers",
     "description": "Simple leather gloves that protect the hands.",
-    "image_path": "scraped_armor_images\\Hand_Covers.png",
+    "image_path": "/assets/armor/Hand_Covers.png",
     "locations": [
       "Can be purchased from Caxton , Aestella .",
       "Can be found in a chest in Dripstone Cave ."
@@ -5954,7 +5954,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Heresy+Armguards",
     "name": "Heresy Armguards",
     "description": "Bracers once worn by a cadre of sorcerers persecuted as heretics to the Faith.",
-    "image_path": "scraped_armor_images\\Heresy_Armguards.png",
+    "image_path": "/assets/armor/Heresy_Armguards.png",
     "locations": [
       "Obtained from the DLC Armor Pack: Demon's Protection"
     ],
@@ -5995,7 +5995,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Hero's+Gauntlets",
     "name": "Hero's Gauntlets",
     "description": "Gauntlets worn by a great hero of lore as he set off to slay a dragon.",
-    "image_path": "scraped_armor_images\\Heros_Gauntlets.png",
+    "image_path": "/assets/armor/Heros_Gauntlets.png",
     "locations": [
       "Obtained from Armor Pack: Divine Protection"
     ],
@@ -6030,7 +6030,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Iron+Armguard",
     "name": "Iron Armguard",
     "description": "A single bracer of iron for the dominant arm.",
-    "image_path": "scraped_armor_images\\Iron_Armguard.png",
+    "image_path": "/assets/armor/Iron_Armguard.png",
     "locations": [
       "Can be purchased from Caxton , Mathias , Jayce , Alon .",
       "Can be found in the Catacombs."
@@ -6061,7 +6061,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Iron+Bracers",
     "name": "Iron Bracers",
     "description": "Bracers of a thin iron plating that protect the lower arms.",
-    "image_path": "scraped_armor_images\\Iron_Bracers.png",
+    "image_path": "/assets/armor/Iron_Bracers.png",
     "locations": [
       "Can be purchased from Caxton , Jayce , Alon ."
     ],
@@ -6095,7 +6095,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Iron+Manicae",
     "name": "Iron Manicae",
     "description": "Lightweight bracers reinforced with iron plating.",
-    "image_path": "scraped_armor_images\\Iron_Manicae.png",
+    "image_path": "/assets/armor/Iron_Manicae.png",
     "locations": [
       "Can be purchased from Caxton , Mathias , Jayce , Alon after presenting with a Silver or Gold Idol in the Quest Idol Worship .",
       "Can be found in the Ancient Quarry."
@@ -6131,7 +6131,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Jade+Bangles",
     "name": "Jade Bangles",
     "description": "Valuable bracelets of fine jade stone, well pleasing to the eye.",
-    "image_path": "scraped_armor_images\\Jade_Bangles.png",
+    "image_path": "/assets/armor/Jade_Bangles.png",
     "locations": [
       "Random reward for slaying the online Ur-Dragon ."
     ],
@@ -6169,7 +6169,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Leather+Gloves",
     "name": "Leather Gloves",
     "description": "Gloves fashioned from sturdy leather.",
-    "image_path": "scraped_armor_images\\Leather_Gloves.png",
+    "image_path": "/assets/armor/Leather_Gloves.png",
     "locations": [
       "Can be purchased from Caxton , Reynard , Jayce , Aestella ."
     ],
@@ -6204,7 +6204,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Master's+Bracers",
     "name": "Master's Bracers",
     "description": "Gloves of quality leather trusted by many seasoned adventurer.",
-    "image_path": "scraped_armor_images\\Masters_Bracers.png",
+    "image_path": "/assets/armor/Masters_Bracers.png",
     "locations": [
       "Can be purchased from Caxton , Mathias , Jayce , Alon after presenting with a Silver or Gold Idol in the Quest Idol Worship .",
       "Can be found in chests in The Greatwall ."
@@ -6242,7 +6242,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Meloirean+Armguard",
     "name": "Meloirean Armguard",
     "description": "A guard wrought from durable Meloirean steel. Its dull sheen catches the eye.",
-    "image_path": "scraped_armor_images\\Meloirean_Armguard.png",
+    "image_path": "/assets/armor/Meloirean_Armguard.png",
     "locations": [
       "Can be purchased from Caxton , Alon .",
       "Can be found in chests in The Everfall , Chamber of Absence , Chamber of Distress , The Greatwall ."
@@ -6275,7 +6275,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Monomi+Bracers",
     "name": "Monomi Bracers",
     "description": "Bracers unique to the assassins of a foreign land. Lightweight for the nimble work of a professional killer.",
-    "image_path": "scraped_armor_images\\Monomi_Bracers.png",
+    "image_path": "/assets/armor/Monomi_Bracers.png",
     "locations": [
       "Obtained form the DLC Armor Pack: Demon's Protection"
     ],
@@ -6310,7 +6310,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Navy+Leather+Gloves",
     "name": "Navy Leather Gloves",
     "description": "Dark blue gloves made from the finest leather.",
-    "image_path": "scraped_armor_images\\Navy_Leather_Gloves.png",
+    "image_path": "/assets/armor/Navy_Leather_Gloves.png",
     "locations": [
       "Can be purchased from Reynard , Jayce ."
     ],
@@ -6346,7 +6346,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Novice's+Bracers",
     "name": "Novice's Bracers",
     "description": "Bracers of layered cloth, designed for neophyte adventurers.",
-    "image_path": "scraped_armor_images\\Novices_Bracers.png",
+    "image_path": "/assets/armor/Novices_Bracers.png",
     "locations": [
       "Can be purchased from Aestella , Reynard ."
     ],
@@ -6380,7 +6380,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Red+Leather+Glove",
     "name": "Red Leather Glove",
     "description": "Simple leather gloves that protect the hands.",
-    "image_path": "scraped_armor_images\\Red_Leather_Glove.png",
+    "image_path": "/assets/armor/Red_Leather_Glove.png",
     "locations": [
       "Can be purchased from Caxton , Jayce ."
     ],
@@ -6415,7 +6415,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Runic+Bangles",
     "name": "Runic Bangles",
     "description": "Metal bracelets etched with incantations that ward against calamity.",
-    "image_path": "scraped_armor_images\\Runic_Bangles.png",
+    "image_path": "/assets/armor/Runic_Bangles.png",
     "locations": [
       "Random reward for slaying the online Ur-Dragon ."
     ],
@@ -6453,7 +6453,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Scale+Armguard",
     "name": "Scale Armguard",
     "description": "A bracer fashioned from Hydra scales. Rare and extremely valuable.",
-    "image_path": "scraped_armor_images\\Scale_Armguard.png",
+    "image_path": "/assets/armor/Scale_Armguard.png",
     "locations": [
       "Sold by Reynard .",
       "Can be found in The Everfall"
@@ -6492,7 +6492,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Scarlet+Hand+Covers",
     "name": "Scarlet Hand Covers",
     "description": "Gloves dyed red and believed to ward against monsters.",
-    "image_path": "scraped_armor_images\\Scarlet_Hand_Covers.png",
+    "image_path": "/assets/armor/Scarlet_Hand_Covers.png",
     "locations": [
       "Sold by Caxton .",
       "Can be found in chests inside The Greatwall ."
@@ -6529,7 +6529,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Scholar's+Bangle",
     "name": "Scholar's Bangle",
     "description": "Metal bracelets oft worn by apprentices and other pupils of magick.",
-    "image_path": "scraped_armor_images\\Scholars_Bangle.png",
+    "image_path": "/assets/armor/Scholars_Bangle.png",
     "locations": [
       "Can be purchased from Caxton , Aestella , Reynard after presenting with a Silver or Gold Idol in the Quest Idol Worship .",
       "Can be found in a chest in Dripstone Cave."
@@ -6568,7 +6568,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Shadow+Gauntlets",
     "name": "Shadow Gauntlets",
     "description": "Gauntlets possessed of an ominous quality. Some claim they are wrought of material from beyond the rift.",
-    "image_path": "scraped_armor_images\\Shadow_Gauntlets.png",
+    "image_path": "/assets/armor/Shadow_Gauntlets.png",
     "locations": [
       "Can be found in chests in The Everfall , Chamber of Absence , Chamber of Fate , Chamber of Sorrow ."
     ],
@@ -6602,7 +6602,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Silver+Bands",
     "name": "Silver Bands",
     "description": "Bracelets coated in fine silver.",
-    "image_path": "scraped_armor_images\\Silver_Bands.png",
+    "image_path": "/assets/armor/Silver_Bands.png",
     "locations": [
       "Sold by Caxton , Jayce ."
     ],
@@ -6642,7 +6642,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Steel+Gauntlets",
     "name": "Steel Gauntlets",
     "description": "Steel gauntlets crafted by a master smithy. Offers protection for both arms.",
-    "image_path": "scraped_armor_images\\Steel_Gauntlets.png",
+    "image_path": "/assets/armor/Steel_Gauntlets.png",
     "locations": [
       "Sold by Alon ."
     ],
@@ -6672,7 +6672,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Swordsman's+Bracers",
     "name": "Swordsman's Bracers",
     "description": "Armored gauntlets protecting both upper and forearm. They are light enough that one's weapon arm can move freely.",
-    "image_path": "scraped_armor_images\\Swordsmans_Bracers.png",
+    "image_path": "/assets/armor/Swordsmans_Bracers.png",
     "locations": [
       "Sold by Alon . (not available on PC version)"
     ],
@@ -6709,7 +6709,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Talismanic+Beads",
     "name": "Talismanic Beads",
     "description": "Rosary bracelets worn as protective charms. A traditional Cassardi accessory.",
-    "image_path": "scraped_armor_images\\Talismanic_Beads.png",
+    "image_path": "/assets/armor/Talismanic_Beads.png",
     "locations": [
       "Sold by Aestella .",
       "May be found in Cassardis ."
@@ -6747,7 +6747,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Tiger+Bangle",
     "name": "Tiger Bangle",
     "description": "Fetching metal rings that guard the wrists.",
-    "image_path": "scraped_armor_images\\Tiger_Bangle.png",
+    "image_path": "/assets/armor/Tiger_Bangle.png",
     "locations": [
       "Can be purchased from Madeleine , Jayce ."
     ],
@@ -6785,7 +6785,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Twilight+Manicae",
     "name": "Twilight Manicae",
     "description": "Bracers as dark as a moonless night, worn by those who lurk in the shadows of history.",
-    "image_path": "scraped_armor_images\\Twilight_Manicae.png",
+    "image_path": "/assets/armor/Twilight_Manicae.png",
     "locations": [
       "Sold by Joye .",
       "Can be found in chests in The Everfall , Chamber of Hesitation , Chamber of Distress , Chamber of Sorrow , Chamber of Resolution , Gutter of Misery , Duskmoon Tower"
@@ -6819,7 +6819,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/White+Hawk+Gauntlets",
     "name": "White Hawk Gauntlets",
     "description": "Stylish gloves that don't skimp on protection. The combination of form and function makes these truly classic.",
-    "image_path": "scraped_armor_images\\White_Hawk_Gauntlets.png",
+    "image_path": "/assets/armor/White_Hawk_Gauntlets.png",
     "locations": [
       "Sold by Alon ."
     ],
@@ -6853,7 +6853,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Wooden+Bands",
     "name": "Wooden Bands",
     "description": "Oaken bracelets that deflect light blows to the wrists. A traditional Cassardi accessory.",
-    "image_path": "scraped_armor_images\\Wooden_Bands.png",
+    "image_path": "/assets/armor/Wooden_Bands.png",
     "locations": [
       "Sold by Aestella ."
     ],
@@ -6891,7 +6891,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Abyssinal+Greaves",
     "name": "Abyssinal Greaves",
     "description": "Mythical greaves that emit a dull glow. Only those who plumb the world's depths might obtain it.",
-    "image_path": "scraped_armor_images\\Abyssinal_Greaves.png",
+    "image_path": "/assets/armor/Abyssinal_Greaves.png",
     "locations": [
       "Random reward for slaying the online Ur-Dragon ."
     ],
@@ -6931,7 +6931,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Ancient+Greaves",
     "name": "Ancient Greaves",
     "description": "Greaves once worn by an ancient practitioner of a forbidden magick now lost to time.",
-    "image_path": "scraped_armor_images\\Ancient_Greaves.png",
+    "image_path": "/assets/armor/Ancient_Greaves.png",
     "locations": [
       "Obtained from the DLC Armor Pack: Divine Protection"
     ],
@@ -6978,7 +6978,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Assassin's+Breeches",
     "name": "Assassin's Breeches",
     "description": "Breeches black as midnight, worn by trained cutthroats who ply their trade in the shadows.",
-    "image_path": "scraped_armor_images\\Assassins_Breeches.png",
+    "image_path": "/assets/armor/Assassins_Breeches.png",
     "locations": [
       "Sold by Alon .",
       "Can be found in chests in chambers in The Bluemoon Tower , The Greatwall ."
@@ -7013,7 +7013,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Assembled+Breeches",
     "name": "Assembled Breeches",
     "description": "Thick breeches fashioned from the tanned hide of a giant for enhanced durability.",
-    "image_path": "scraped_armor_images\\Assembled_Breeches.png",
+    "image_path": "/assets/armor/Assembled_Breeches.png",
     "locations": [
       "Can be purchased from Caxton , Mathias , Jayce .",
       "Can be found in chests in Proving Grounds ."
@@ -7052,7 +7052,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Battle+Greaves",
     "name": "Battle Greaves",
     "description": "A pair of common warrior's greaves.",
-    "image_path": "scraped_armor_images\\Battle_Greaves.png",
+    "image_path": "/assets/armor/Battle_Greaves.png",
     "locations": [
       "Sold by Caxton , Jayce ."
     ],
@@ -7083,7 +7083,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Blue+Longkilt",
     "name": "Blue Longkilt",
     "description": "A skirt of deep blue, sewn from fabric infused with magick.",
-    "image_path": "scraped_armor_images\\Blue_Longkilt.png",
+    "image_path": "/assets/armor/Blue_Longkilt.png",
     "locations": [
       "Sold by Madeleine ."
     ],
@@ -7116,7 +7116,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Bronze+Sabatons",
     "name": "Bronze Sabatons",
     "description": "Bronze boots that protect the feet. Stellar performance for the price, hence their great popularity.",
-    "image_path": "scraped_armor_images\\Bronze_Sabatons.png",
+    "image_path": "/assets/armor/Bronze_Sabatons.png",
     "locations": [
       "Can be purchased from Alon .",
       "Can be found in The Shadow Fort"
@@ -7148,7 +7148,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Budget+Greaves",
     "name": "Budget Greaves",
     "description": "Inexpensive greaves made from a smithy's scraps.",
-    "image_path": "scraped_armor_images\\Budget_Greaves.png",
+    "image_path": "/assets/armor/Budget_Greaves.png",
     "locations": [
       "Sold by Aestella ."
     ],
@@ -7179,7 +7179,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Carmine+Breeches",
     "name": "Carmine Breeches",
     "description": "Breeches dyed a red so deep, some claim it was tainted with the dragon's own blood.",
-    "image_path": "scraped_armor_images\\Carmine_Breeches.png",
+    "image_path": "/assets/armor/Carmine_Breeches.png",
     "locations": [
       "Can be found in chests in chambers in The Everfall , Chamber of Estrangement , Chamber of Fate , Chamber of Sorrow , Chamber of Hope ."
     ],
@@ -7217,7 +7217,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Cassardi+Greaves",
     "name": "Cassardi Greaves",
     "description": "Breeches favored by Cassardi Fishermen. Woven tight to protect the wearer against dousing with water.",
-    "image_path": "scraped_armor_images\\Cassardi_Greaves.png",
+    "image_path": "/assets/armor/Cassardi_Greaves.png",
     "locations": [
       "Sold by Lola ."
     ],
@@ -7256,7 +7256,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Chainmail+Skirt",
     "name": "Chainmail Skirt",
     "description": "A skirt of chainmail made to protect the legs.",
-    "image_path": "scraped_armor_images\\Chainmail_Skirt.png",
+    "image_path": "/assets/armor/Chainmail_Skirt.png",
     "locations": [
       "Can be purchased from Caxton , Mathias , Aestella , Alon ."
     ],
@@ -7295,7 +7295,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Chaos+Greaves",
     "name": "Chaos Greaves",
     "description": "Sinister graves plagued by an unknown curse. They say any who don them exude a miasma most foul.",
-    "image_path": "scraped_armor_images\\Chaos_Greaves.png",
+    "image_path": "/assets/armor/Chaos_Greaves.png",
     "locations": [
       "Obtained from the Armor Pack : Demon's Protection"
     ],
@@ -7330,7 +7330,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Chimeric+Sabatons",
     "name": "Chimeric Sabatons",
     "description": "Metal boots that call to mind the mighty chimera.",
-    "image_path": "scraped_armor_images\\Chimeric_Sabatons.png",
+    "image_path": "/assets/armor/Chimeric_Sabatons.png",
     "locations": [
       "Sold by Caxton",
       "Can be found in chests in chambers in The Bluemoon Tower , The Greatwall ."
@@ -7365,7 +7365,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Cloth+Greaves",
     "name": "Cloth Greaves",
     "description": "A mask named for a hero from beyond the rift. Wearing it bestows the user with holy protection.",
-    "image_path": "scraped_armor_images\\Cloth_Greaves.png",
+    "image_path": "/assets/armor/Cloth_Greaves.png",
     "locations": [
       "Random reward for slaying the online Ur-Dragon ."
     ],
@@ -7401,7 +7401,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Crimson+Sabatons",
     "name": "Crimson Sabatons",
     "description": "Boots of a deep, burning red that seems not of this world.",
-    "image_path": "scraped_armor_images\\Crimson_Sabatons.png",
+    "image_path": "/assets/armor/Crimson_Sabatons.png",
     "locations": [
       "Can be found in chests in chambers in The Everfall , Chamber of Absence , Chamber of Resolution , Chamber of Sorrow , Chamber of Fate ."
     ],
@@ -7435,7 +7435,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Dark+Over-Knee+Boots",
     "name": "Dark Over-Knee Boots",
     "description": "Long leather boots hardened with a strong enamel.",
-    "image_path": "scraped_armor_images\\Dark_Over-Knee_Boots.png",
+    "image_path": "/assets/armor/Dark_Over-Knee_Boots.png",
     "locations": [
       "Can be purchased from Caxton , Madeleine , Jayce , Alon , Mathias after presenting with a Silver or Gold Idol in the Quest Idol Worship .",
       "Can be found in chests in chambers in Frontier Caverns ."
@@ -7475,7 +7475,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Downcuffs+&+Cuisses",
     "name": "Downcuffs & Cuisses",
     "description": "\"Downcuffed boots paired with iron plated cuisses.\"",
-    "image_path": "scraped_armor_images\\Downcuffs__Cuisses.png",
+    "image_path": "/assets/armor/Downcuffs__Cuisses.png",
     "locations": [
       "Sold by Caxton . Jayce ."
     ],
@@ -7511,7 +7511,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Dragonbeards",
     "name": "Dragonbeards",
     "description": "Greaves of uncommonly great sturdiness, reinforced with a wrapping of layered dragon whiskers.",
-    "image_path": "scraped_armor_images\\Dragonbeards.png",
+    "image_path": "/assets/armor/Dragonbeards.png",
     "locations": [
       "Can be found in chests in chambers in The Everfall , Chamber of Absence , Chamber of Distress , Chamber of Sorrow , Chamber of Hope ."
     ],
@@ -7543,7 +7543,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Dusk+Shoes",
     "name": "Dusk Shoes",
     "description": "Jet-black boots that melt into the evening darkness.",
-    "image_path": "scraped_armor_images\\Dusk_Shoes.png",
+    "image_path": "/assets/armor/Dusk_Shoes.png",
     "locations": [
       "Sold by Madeleine , Jayce"
     ],
@@ -7580,7 +7580,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Emissary+Greaves",
     "name": "Emissary Greaves",
     "description": "Breeches fit for dirty jobs. Favor by members of a shadowy organization rumored to have direct ties to the duke.",
-    "image_path": "scraped_armor_images\\Emissary_Greaves.png",
+    "image_path": "/assets/armor/Emissary_Greaves.png",
     "locations": [
       "Obtained in the DLC Armor Pack: Divine Protection"
     ],
@@ -7619,7 +7619,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Exotic+High+Boots",
     "name": "Exotic High Boots",
     "description": "Boots bearing curious markings. More protective than their appearance might suggest.",
-    "image_path": "scraped_armor_images\\Exotic_High_Boots.png",
+    "image_path": "/assets/armor/Exotic_High_Boots.png",
     "locations": [
       "Sold by Delec .",
       "Can be found in chests in chambers in The Everfall , Chamber of Confusion , Chamber of Remose , Chamber of Sorrow , Chamber of Hope , Chamber of Distress ."
@@ -7660,7 +7660,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Fine+Over-Knee+Boots",
     "name": "Fine Over-Knee Boots",
     "description": "Long leather boots that offer protection from the thighs down.",
-    "image_path": "scraped_armor_images\\Fine_Over-Knee_Boots.png",
+    "image_path": "/assets/armor/Fine_Over-Knee_Boots.png",
     "locations": [
       "Sold by Madeleine , Mathias ."
     ],
@@ -7698,7 +7698,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Flame+Skirt",
     "name": "Flame Skirt",
     "description": "A woman's skirt dyed deep red. Some claim it to be a remnant of the dragon-worship rituals of a bygone age.",
-    "image_path": "scraped_armor_images\\Flame_Skirt.png",
+    "image_path": "/assets/armor/Flame_Skirt.png",
     "locations": [
       "Sold by Madeleine ."
     ],
@@ -7738,7 +7738,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Fur+&+Cuisses",
     "name": "Fur & Cuisses",
     "description": "A pair of fur greaves, modified to bolster defense.",
-    "image_path": "scraped_armor_images\\Fur__Cuisses.png",
+    "image_path": "/assets/armor/Fur__Cuisses.png",
     "locations": [
       "Sold by Caxton ."
     ],
@@ -7770,7 +7770,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Fur+Greaves",
     "name": "Fur Greaves",
     "description": "Leather greaves wrapped in thick animal hide for protection.",
-    "image_path": "scraped_armor_images\\Fur_Greaves.png",
+    "image_path": "/assets/armor/Fur_Greaves.png",
     "locations": [
       "Sold by Aestella and Reynard"
     ],
@@ -7804,7 +7804,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Gloaming+Shoes",
     "name": "Gloaming Shoes",
     "description": "Jet-black shoes that melt into the night. Lightweight, for dancing through the shadows.",
-    "image_path": "scraped_armor_images\\Gloaming_Shoes.png",
+    "image_path": "/assets/armor/Gloaming_Shoes.png",
     "locations": [
       "Can be purchased from Madeleine , Mathias , Alon ."
     ],
@@ -7842,7 +7842,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Grisly+Greaves",
     "name": "Grisly Greaves",
     "description": "Menacing greaves forged from the hide of a creature from beyond the rift. The material is stronger than steel.",
-    "image_path": "scraped_armor_images\\Grisly_Greaves.png",
+    "image_path": "/assets/armor/Grisly_Greaves.png",
     "locations": [
       "Sold by Joyce .",
       "Can be found in chests in chambers in The Everfall , Chamber of Estrangement , Chamber of Sorrow , Chamber of Hope ."
@@ -7885,7 +7885,7 @@
     "wiki_link": "https://dragonsdogma.fandom.com/wiki/Gryphic_Greaves",
     "name": "Gryphic Greaves",
     "description": "Exquisite silver greaves and cuisses wrought in the form of the noble griffin.",
-    "image_path": "scraped_armor_images\\gryphic_greaves.png",
+    "image_path": "/assets/armor/gryphic_greaves.png",
     "locations": [
       "Sold by:",
       "Caxton at Caxton's Armory in Gran Soren.",
@@ -7923,7 +7923,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Heresy+Greaves",
     "name": "Heresy Greaves",
     "description": "Greaves once worn by a cadre of sorcerers persecuted as heretics to the Faith.",
-    "image_path": "scraped_armor_images\\Heresy_Greaves.png",
+    "image_path": "/assets/armor/Heresy_Greaves.png",
     "locations": [
       "Obtained the DLC Armor Pack: Demon's Protection"
     ],
@@ -7964,7 +7964,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Hero's+Cuisses",
     "name": "Hero's Cuisses",
     "description": "Cuisses worn by a great hero of lore as he set off to slay a dragon.",
-    "image_path": "scraped_armor_images\\Heros_Cuisses.png",
+    "image_path": "/assets/armor/Heros_Cuisses.png",
     "locations": [
       "Obtained from the DLC Armor Pack: Divine Protection ."
     ],
@@ -8005,7 +8005,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Holy+Cuisses",
     "name": "Holy Cuisses",
     "description": "Cuisses modeled after a sacred bird from beyond the rift.",
-    "image_path": "scraped_armor_images\\Holy_Cuisses.png",
+    "image_path": "/assets/armor/Holy_Cuisses.png",
     "locations": [
       "Can be found in chests in chambers in The Everfall , Chamber of Tragedy , Chamber of Estrangement , Chamber of Sorrow , Chamber of Hope ."
     ],
@@ -8042,7 +8042,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Iron+Boots",
     "name": "Iron Boots",
     "description": "Boots wrought of thin iron plating.",
-    "image_path": "scraped_armor_images\\Iron_Boots.png",
+    "image_path": "/assets/armor/Iron_Boots.png",
     "locations": [
       "Can be purchased from Caxton , Barroch , Jayce , Alon ."
     ],
@@ -8078,7 +8078,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Iron+Cuisses",
     "name": "Iron Cuisses",
     "description": "Durable cuisses wrought of thick iron plate.",
-    "image_path": "scraped_armor_images\\Iron_Cuisses.png",
+    "image_path": "/assets/armor/Iron_Cuisses.png",
     "locations": [
       "Can be purchased from Caxton, Mathias, Jayce, Alon."
     ],
@@ -8108,7 +8108,7 @@
     "wiki_link": "https://dragonsdogma.fandom.com/wiki/Iron_Leg_Guards",
     "name": "Iron Leg Guards",
     "description": "Protection for the knees and shins.",
-    "image_path": "scraped_armor_images\\iron_leg_guards.png",
+    "image_path": "/assets/armor/iron_leg_guards.png",
     "locations": [
       "Sold By: Reynard (Stage 2+) Alon (Stage 1+)",
       "May be found in chests in Moonsbit Pass and the Estan Plains."
@@ -8140,7 +8140,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Leather+Cuisses",
     "name": "Leather Cuisses",
     "description": "Leather cuisses strengthened with plates of copper.",
-    "image_path": "scraped_armor_images\\Leather_Cuisses.png",
+    "image_path": "/assets/armor/Leather_Cuisses.png",
     "locations": [
       "Can be purchased from Jayce , Aestella ."
     ],
@@ -8171,7 +8171,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Leather+Ocreae",
     "name": "Leather Ocreae",
     "description": "Sturdy thigh-length boots fashioned from the finest leather.",
-    "image_path": "scraped_armor_images\\Leather_Ocreae.png",
+    "image_path": "/assets/armor/Leather_Ocreae.png",
     "locations": [
       "Can be purchased from Caxton , Mathias , Alon .",
       "Can be found in chests in chambers in The Greatwall , The Tainted Mountain Temple ."
@@ -8208,7 +8208,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Leather+Shoes",
     "name": "Leather Shoes",
     "description": "Boots stitched from discarded scraps of leather.",
-    "image_path": "scraped_armor_images\\Leather_Shoes.png",
+    "image_path": "/assets/armor/Leather_Shoes.png",
     "locations": [
       "Can be purchased from Aestella , Reynard , Jayce ."
     ],
@@ -8244,7 +8244,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Mage's+Shoes",
     "name": "Mage's Shoes",
     "description": "Shoes oft worn by sorcerers both young and aged.",
-    "image_path": "scraped_armor_images\\Mages_Shoes.png",
+    "image_path": "/assets/armor/Mages_Shoes.png",
     "locations": [
       "Sold by Caxton , Jayce ."
     ],
@@ -8284,7 +8284,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Meloirean+Greaves",
     "name": "Meloirean Greaves",
     "description": "Greaves wrought of durable Meloirean steel. Its dull sheen catches the eye.",
-    "image_path": "scraped_armor_images\\Meloirean_Greaves.png",
+    "image_path": "/assets/armor/Meloirean_Greaves.png",
     "locations": [
       "Random reward for slaying the online Ur-Dragon ."
     ],
@@ -8322,7 +8322,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Metal+Greaves",
     "name": "Metal Greaves",
     "description": "Metal greaves of simple make.",
-    "image_path": "scraped_armor_images\\Metal_Greaves.png",
+    "image_path": "/assets/armor/Metal_Greaves.png",
     "locations": [
       "Sold by Reynard ."
     ],
@@ -8352,7 +8352,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Molten+Boots",
     "name": "Molten Boots",
     "description": "Foot protection fashioned from a unique alloy able to withstand tremendous heat.",
-    "image_path": "scraped_armor_images\\Molten_Boots.png",
+    "image_path": "/assets/armor/Molten_Boots.png",
     "locations": [
       "Sold by Alon .",
       "Can be found in chests in chambers in The Everfall , Chamber of Estrangement , Chamber of Fate ."
@@ -8392,7 +8392,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Monomi+Greaves",
     "name": "Monomi Greaves",
     "description": "Leg protection unique to the assassins of a foreign land. Lacking in Defense, but gifted in speed and mobility.",
-    "image_path": "scraped_armor_images\\Monomi_Greaves.png",
+    "image_path": "/assets/armor/Monomi_Greaves.png",
     "locations": [
       "Obtained from the DLC Armor Pack: Demon's Protection"
     ],
@@ -8428,7 +8428,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Nimble+Cuisses",
     "name": "Nimble Cuisses",
     "description": "Leg armor designed to accommodate quick and unpredictable movement.",
-    "image_path": "scraped_armor_images\\Nimble_Cuisses.png",
+    "image_path": "/assets/armor/Nimble_Cuisses.png",
     "locations": [
       "Sold by Caxton ."
     ],
@@ -8461,7 +8461,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Novice+Breeches",
     "name": "Novice Breeches",
     "description": "Breeches meant for neophyte adventurers, outfitted with extra knee protection.",
-    "image_path": "scraped_armor_images\\Novice_Breeches.png",
+    "image_path": "/assets/armor/Novice_Breeches.png",
     "locations": [
       "Only sold by Reynard ."
     ],
@@ -8497,7 +8497,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Over-Knee+Boots",
     "name": "Over-Knee Boots",
     "description": "Long boots of leather that protect to the thigh.",
-    "image_path": "scraped_armor_images\\Over-Knee_Boots.png",
+    "image_path": "/assets/armor/Over-Knee_Boots.png",
     "locations": [
       "Sold by Madeleine ."
     ],
@@ -8535,7 +8535,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Purple+Longkilt",
     "name": "Purple Longkilt",
     "description": "A violet skirt fashioned from fabric infused with magick.",
-    "image_path": "scraped_armor_images\\Purple_Longkilt.png",
+    "image_path": "/assets/armor/Purple_Longkilt.png",
     "locations": [
       "Sold by Madeleine .",
       "Can be found in chests in The Gutter of Misery , The Tainted Mountain Temple ."
@@ -8572,7 +8572,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Raptor+Cuisses",
     "name": "Raptor Cuisses",
     "description": "Armor inspired by birds of prey and specially designed to allow maximum range of movement.",
-    "image_path": "scraped_armor_images\\Raptor_Cuisses.png",
+    "image_path": "/assets/armor/Raptor_Cuisses.png",
     "locations": [
       "Can be purchased from Madeleine after presenting with a Silver or Gold Idol in the Quest Idol Worship .",
       "Can be found in chests in chambers in The Soulflayer Canyon , The Blighted Manse ."
@@ -8608,7 +8608,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Red+Leather+Cuisses",
     "name": "Red Leather Cuisses",
     "description": "Lightweight leg protection fashioned from especially hardened red leather.",
-    "image_path": "scraped_armor_images\\Red_Leather_Cuisses.png",
+    "image_path": "/assets/armor/Red_Leather_Cuisses.png",
     "locations": [
       "Sold by Caxton , Jayce ."
     ],
@@ -8640,7 +8640,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Red+Longkilt",
     "name": "Red Longkilt",
     "description": "A skirt of deep red, sewn from fabric infused with magick.",
-    "image_path": "scraped_armor_images\\Red_Longkilt.png",
+    "image_path": "/assets/armor/Red_Longkilt.png",
     "locations": [
       "Sold by Madeleine"
     ],
@@ -8673,7 +8673,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Red+Over-Knee+Boots",
     "name": "Red Over-Knee Boots",
     "description": "Long boots fashioned from especially hardened red leather.",
-    "image_path": "scraped_armor_images\\Red_Over-Knee_Boots.png",
+    "image_path": "/assets/armor/Red_Over-Knee_Boots.png",
     "locations": [
       "Sold by Madeleine .",
       "Can be found in chests in The Greatwall , The Ruins of Heavenspeak Fort ."
@@ -8712,7 +8712,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Riveted+Boots",
     "name": "Riveted Boots",
     "description": "A mask named for a hero from beyond the rift. Wearing it bestows the user with holy protection.",
-    "image_path": "scraped_armor_images\\Riveted_Boots.png",
+    "image_path": "/assets/armor/Riveted_Boots.png",
     "locations": [
       "Sold by Aestella , Caxton ."
     ],
@@ -8747,7 +8747,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Royal+Cuisses",
     "name": "Royal Cuisses",
     "description": "Cuisses dyed Red to signify a member of the Royal guard.",
-    "image_path": "scraped_armor_images\\Royal_Cuisses.png",
+    "image_path": "/assets/armor/Royal_Cuisses.png",
     "locations": [
       "Can be purchased from Mathias .",
       "Can be found in Chamber of Fate and The Tainted Mountain"
@@ -8784,7 +8784,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Scale+Greaves",
     "name": "Scale Greaves",
     "description": "Boots made from hydra scales. Rare and highly valuable.",
-    "image_path": "scraped_armor_images\\Scale_Greaves.png",
+    "image_path": "/assets/armor/Scale_Greaves.png",
     "locations": [
       "Sold by Reynard .",
       "Can be found in chests in the Catacombs , The Shadow Fort ."
@@ -8824,7 +8824,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Scholar's+Boots",
     "name": "Scholar's Boots",
     "description": "Boots oft worn by apprentices and other pupils of magick.",
-    "image_path": "scraped_armor_images\\Scholars_Boots.png",
+    "image_path": "/assets/armor/Scholars_Boots.png",
     "locations": [
       "Sold by Aestella , Caxton ."
     ],
@@ -8862,7 +8862,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Shadow+Greaves",
     "name": "Shadow Greaves",
     "description": "Greaves possessed of an unsettling quality. Some claim they are wrought of material not of this world.",
-    "image_path": "scraped_armor_images\\Shadow_Greaves.png",
+    "image_path": "/assets/armor/Shadow_Greaves.png",
     "locations": [
       "Can be found in chests in chambers in The Everfall , Chamber of Tragedy , Chamber of Woe , Chamber of Resolution , Chamber of Hope ."
     ],
@@ -8902,7 +8902,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Steel+Sabatons",
     "name": "Steel Sabatons",
     "description": "Steel boots crafted by a master smithy. They offer protections for the legs as well as the feet.",
-    "image_path": "scraped_armor_images\\Steel_Sabatons.png",
+    "image_path": "/assets/armor/Steel_Sabatons.png",
     "locations": [
       "Can be purchased from Alon .",
       "Can be found in chests in chambers in The Everfall , Chamber of Absence , Chamber of Tragedy , The Tainted Mountain Temple ."
@@ -8933,7 +8933,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Steel-Toed+Boots",
     "name": "Steel-Toed Boots",
     "description": "Leather boots ending in a strap of solid steel.",
-    "image_path": "scraped_armor_images\\Steel-Toed_Boots.png",
+    "image_path": "/assets/armor/Steel-Toed_Boots.png",
     "locations": [
       "Sold by Caxton ."
     ],
@@ -8968,7 +8968,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Striker's+Greaves",
     "name": "Striker's Greaves",
     "description": "Lightweight leg protection crafted from thin steel plating.",
-    "image_path": "scraped_armor_images\\Strikers_Greaves.png",
+    "image_path": "/assets/armor/Strikers_Greaves.png",
     "locations": [
       "Sold by Reynard .",
       "May be found in a chest in The Blighted Manse"
@@ -9006,7 +9006,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Superior+Cuisses",
     "name": "Superior Cuisses",
     "description": "Iron-plated leg protection designed for master archers.",
-    "image_path": "scraped_armor_images\\Superior_Cuisses.png",
+    "image_path": "/assets/armor/Superior_Cuisses.png",
     "locations": [
       "Sold by Jayce .",
       "Can be found in chests in The Tainted Mountain Temple , Chamber of Remorse ."
@@ -9040,7 +9040,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Swordsman's+Greaves",
     "name": "Swordsman's Greaves",
     "description": "Extremely durable leg-protection made of leather and steel, to lend sturdiness with a full range of movement.",
-    "image_path": "scraped_armor_images\\Swordsmans_Greaves.png",
+    "image_path": "/assets/armor/Swordsmans_Greaves.png",
     "locations": [
       "May be purchased from Alon (not available on PC version)"
     ],
@@ -9077,7 +9077,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Thick+Fur+Greaves",
     "name": "Thick Fur Greaves",
     "description": "Greaves fashioned from thick chimera fur for extra protection.",
-    "image_path": "scraped_armor_images\\Thick_Fur_Greaves.png",
+    "image_path": "/assets/armor/Thick_Fur_Greaves.png",
     "locations": [
       "Sold by Caxton ."
     ],
@@ -9112,7 +9112,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Twilight+Greaves",
     "name": "Twilight Greaves",
     "description": "Greaves as dark as a moonless night, worn by those who lurk in the shadows of history.",
-    "image_path": "scraped_armor_images\\Twilight_Greaves.png",
+    "image_path": "/assets/armor/Twilight_Greaves.png",
     "locations": [
       "Can be found in chests in chambers in The Everfall , Chamber of Resolution , Chamber of Fate , Chamber of Sorrow , Chamber of Hope and in Duskmoon Tower ."
     ],
@@ -9145,7 +9145,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/White+Hawk+Cuisses",
     "name": "White Hawk Cuisses",
     "description": "Cuisses made with a unique layered construction, lending high defense at a light weight.",
-    "image_path": "scraped_armor_images\\White_Hawk_Cuisses.png",
+    "image_path": "/assets/armor/White_Hawk_Cuisses.png",
     "locations": [
       "Sold by Alon ."
     ],
@@ -9179,7 +9179,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Wizard's+Boots",
     "name": "Wizard's Boots",
     "description": "A pair of leather boots cobbled for the most adept of sorcerers.",
-    "image_path": "scraped_armor_images\\Wizards_Boots.png",
+    "image_path": "/assets/armor/Wizards_Boots.png",
     "locations": [
       "Can be purchased from Caxton , Mathias , Jayce , Alon ."
     ],
@@ -9219,7 +9219,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Captain%27s+Armor+Set",
     "name": "Captain's Armor Set",
     "description": "Light women's armor, suited for long voyages. Its simple yet unique design coyly display the wearer's assets.",
-    "image_path": "scraped_armor_images\\Captains_Armor_Set.png",
+    "image_path": "/assets/armor/Captains_Armor_Set.png",
     "locations": [
       "Obtained from the DLC A Coiffure You Can't Refuse"
     ],
@@ -9258,7 +9258,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Forest+Tunic+Set",
     "name": "Forest Tunic Set",
     "description": "A woman's lightweight tunic made of soft, dark green silk. Its moisture-retaining properties make it a comfortable fit.",
-    "image_path": "scraped_armor_images\\Forest_Tunic_Set.png",
+    "image_path": "/assets/armor/Forest_Tunic_Set.png",
     "locations": [
       "Obtain form the DLC Challenge Pack: A Trial for Adventurers"
     ],
@@ -9300,7 +9300,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Nameless+Armor+Set",
     "name": "Nameless Armor Set",
     "description": "Shiny steel armor whose ponderous, looming design is something rarely seen in Gransys.",
-    "image_path": "scraped_armor_images\\Nameless_Armor_Set.png",
+    "image_path": "/assets/armor/Nameless_Armor_Set.png",
     "locations": [
       "Obtain form the DLC A Face of a Different Color"
     ],
@@ -9338,7 +9338,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Set+of+Caretaker%27s+Garb",
     "name": "Set of Caretaker's Garb",
     "description": "Men's modest, high-quality attire. Gives an appearance of sincerity to whoever wears it.",
-    "image_path": "scraped_armor_images\\Set_of_Caretakers_Garb.png",
+    "image_path": "/assets/armor/Set_of_Caretakers_Garb.png",
     "locations": [
       "Reward for the DLC Challenge Pack: A Trial for Adventurers"
     ],
@@ -9380,7 +9380,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Set+of+Duke%27s+Clothing",
     "name": "Set of Duke's Clothing",
     "description": "A set of clothing worn only by he who reigns over all the lands of Gransys.",
-    "image_path": "scraped_armor_images\\Set_of_Dukes_Clothing.png",
+    "image_path": "/assets/armor/Set_of_Dukes_Clothing.png",
     "locations": [
       "Obtain from Challenge Pack: A Trial for Adventurers ."
     ],
@@ -9425,7 +9425,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Set+of+Fisherman%27s+Garb",
     "name": "Set of Fisherman's Garb",
     "description": "Traditional Cassardi wear, a hallmark of Gransys culture for generations.",
-    "image_path": "scraped_armor_images\\Set_of_Fishermans_Garb.png",
+    "image_path": "/assets/armor/Set_of_Fishermans_Garb.png",
     "locations": [
       "Sold by Lola ."
     ],
@@ -9463,7 +9463,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Set+of+Fisherman%27s+Tatters",
     "name": "Set of Fisherman's Tatters",
     "description": "Traditional Cassardi wear, a hallmark of Gransys culture for generations. The chest area has been rent apart.",
-    "image_path": "scraped_armor_images\\Set_of_Fishermans_Tatters.png",
+    "image_path": "/assets/armor/Set_of_Fishermans_Tatters.png",
     "locations": [
       "Starter armor."
     ],
@@ -9499,7 +9499,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Set+of+Jester%27s+Motley",
     "name": "Set of Jester's Motley",
     "description": "The working uniform of the royal jester. Amusing in appearance, but comfortable and quite functional.",
-    "image_path": "scraped_armor_images\\Set_of_Jesters_Motley.png",
+    "image_path": "/assets/armor/Set_of_Jesters_Motley.png",
     "locations": [
       "Obtain from the DLC Armor Pack: Motley Crew ."
     ],
@@ -9539,7 +9539,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Set+of+Lady%27s+Garb",
     "name": "Set of Lady's Garb",
     "description": "The clothing of a fairly well-heeled lady. Meant for women, though men without shame might also wear it.",
-    "image_path": "scraped_armor_images\\Set_of_Ladys_Garb.png",
+    "image_path": "/assets/armor/Set_of_Ladys_Garb.png",
     "locations": [
       "Sold by Montebank ."
     ],
@@ -9577,7 +9577,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Set+of+Prisoner%27s+Rags",
     "name": "Set of Prisoner's Rags",
     "description": "Garb issued to castle prisoners when their equipment and possessions are confiscated.",
-    "image_path": "scraped_armor_images\\Set_of_Prisoners_Rags.png",
+    "image_path": "/assets/armor/Set_of_Prisoners_Rags.png",
     "locations": [
       "Automatically be equipped on being imprisoned in the Gran Soren Castle Dungeon ."
     ],
@@ -9615,7 +9615,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Set+of+Royal+Guard+Armor",
     "name": "Set of Royal Guard Armor",
     "description": "0",
-    "image_path": "scraped_armor_images\\Set_of_Royal_Guard_Armor.png",
+    "image_path": "/assets/armor/Set_of_Royal_Guard_Armor.png",
     "locations": [
       "N/A"
     ],
@@ -9654,7 +9654,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Set+of+Salvation+Robes",
     "name": "Set of Salvation Robes",
     "description": "A set of black robes such as this signifies the wearer as an adherent to the cult of Salvation. Boasts higher magic defense than physical protection.",
-    "image_path": "scraped_armor_images\\Set_of_Salvation_Robes.png",
+    "image_path": "/assets/armor/Set_of_Salvation_Robes.png",
     "locations": [
       "Can be found in a chest in the Catacombs .",
       "Available at The Black Cat ."
@@ -9695,7 +9695,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Set+of+Servant%27s+Garb",
     "name": "Set of Servant's Garb",
     "description": "A set of clothing worn by servants in the castle. Meant for a women, though men without shame might also wear it.",
-    "image_path": "scraped_armor_images\\Set_of_Servants_Garb.png",
+    "image_path": "/assets/armor/Set_of_Servants_Garb.png",
     "locations": [
       "Can be found at The Duchess's Bedchamber ."
     ],
@@ -9733,7 +9733,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Adventurer's+Cloak",
     "name": "Adventurer's Cloak",
     "description": "A traveler's cloak dyed a pure blue.",
-    "image_path": "scraped_armor_images\\Adventurers_Cloak.png",
+    "image_path": "/assets/armor/Adventurers_Cloak.png",
     "locations": [
       "Can be purchased from Caxton .",
       "Can be found in chests in Ancient Quarry , Verda Woodlands ."
@@ -9772,7 +9772,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Alchemickal+Cloak",
     "name": "Alchemickal Cloak",
     "description": "A cape woven of Magickal Fibers.",
-    "image_path": "scraped_armor_images\\Alchemickal_Cloak.png",
+    "image_path": "/assets/armor/Alchemickal_Cloak.png",
     "locations": [
       "Can be purchased from Madeleine .",
       "Can be found in chests in Witchwood , The Ruins of Heavenspeak Fort ."
@@ -9811,7 +9811,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Ancient+Cape",
     "name": "Ancient Cape",
     "description": "0",
-    "image_path": "scraped_armor_images\\Ancient_Cape.png",
+    "image_path": "/assets/armor/Ancient_Cape.png",
     "locations": [
       "Random reward for slaying the online Ur-Dragon ."
     ],
@@ -9851,7 +9851,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Beastly+Mantle",
     "name": "Beastly Mantle",
     "description": "A cape made from the pelt of a beast of old. Such monsters are only the stuff of myths, nowadays.",
-    "image_path": "scraped_armor_images\\Beastly_Mantle.png",
+    "image_path": "/assets/armor/Beastly_Mantle.png",
     "locations": [
       "Obtain from the Armor Pack: Motley Crew ."
     ],
@@ -9893,7 +9893,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Conqueror's+Mantle",
     "name": "Conqueror's Mantle",
     "description": "A cape exuding an air of solemn refinement, supposedly once worn by a famous hero of Auldring, through its authenticity is unclear.",
-    "image_path": "scraped_armor_images\\Conquerors_Mantle.png",
+    "image_path": "/assets/armor/Conquerors_Mantle.png",
     "locations": [
       "Obtain from the DLC Armor Pack: Motley Crew"
     ],
@@ -9934,7 +9934,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Dignified+Cape",
     "name": "Dignified Cape",
     "description": "A cloak signifying a pious practitioner of the Faith.",
-    "image_path": "scraped_armor_images\\Dignified_Cape.png",
+    "image_path": "/assets/armor/Dignified_Cape.png",
     "locations": [
       "Can be purchased from Caxton .",
       "Can be found in chests in The Tainted Mountain Temple , The Everfall , Chamber of Sorrow , Chamber of Hope ."
@@ -9973,7 +9973,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Direwolf+Cape",
     "name": "Direwolf Cape",
     "description": "A cape fashioned from the pelt of a majestic direwolf.",
-    "image_path": "scraped_armor_images\\Direwolf_Cape.png",
+    "image_path": "/assets/armor/Direwolf_Cape.png",
     "locations": [
       "Purchase from Jayce",
       "Can be found in chests in The Catacombs , The Witchwood , The Garden of Ignominy ."
@@ -10012,7 +10012,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Dragon+Knight's+Cloak",
     "name": "Dragon Knight's Cloak",
     "description": "A cloak worn by the dragon knights of an empire lost to time.",
-    "image_path": "scraped_armor_images\\Dragon_Knights_Cloak.png",
+    "image_path": "/assets/armor/Dragon_Knights_Cloak.png",
     "locations": [
       "Can be found in chests in The Everfall , Chamber of Absence , Chamber of Fate , Chamber of Sorrow , Chamber of Hope , The Tainted Mountain , Forsaken Cathedral ."
     ],
@@ -10051,7 +10051,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Ebon+Neck+Wrap",
     "name": "Ebon Neck Wrap",
     "description": "A black neck wrap woven with magickal fibers.",
-    "image_path": "scraped_armor_images\\Ebon_Neck_Wrap.png",
+    "image_path": "/assets/armor/Ebon_Neck_Wrap.png",
     "locations": [
       "Can be purchased from Caxton , Reynard , Jayce , Alon after presenting with a Silver or Gold Idol in the Quest Idol Worship ."
     ],
@@ -10089,7 +10089,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Farewell+Cloak",
     "name": "Farewell Cloak",
     "description": "0",
-    "image_path": "scraped_armor_images\\Farewell_Cloak.png",
+    "image_path": "/assets/armor/Farewell_Cloak.png",
     "locations": [
       "Sold by Iola"
     ],
@@ -10126,7 +10126,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Feather+Cape",
     "name": "Feather Cape",
     "description": "Known as the Harpy Cloak. is made from the feathers of brown harpies and is favored by magic users and ranger type classes.",
-    "image_path": "scraped_armor_images\\Feather_Cape.png",
+    "image_path": "/assets/armor/Feather_Cape.png",
     "locations": [
       "Sold by Caxton , Jayce ."
     ],
@@ -10164,7 +10164,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Feral+Cape",
     "name": "Feral Cape",
     "description": "A striking cape fashioned from wolf pelts.",
-    "image_path": "scraped_armor_images\\Feral_Cape.png",
+    "image_path": "/assets/armor/Feral_Cape.png",
     "locations": [
       "Sold by Jayce",
       "Can be found in chests in The Everfall , Chamber of Distress , Chamber of Hope , The Tainted Mountain"
@@ -10203,7 +10203,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Gryphic+Cloak",
     "name": "Gryphic Cloak",
     "description": "A cape fashioned from griffin feathers. It mitigates the effect of dousing by water.",
-    "image_path": "scraped_armor_images\\Gryphic_Cloak.png",
+    "image_path": "/assets/armor/Gryphic_Cloak.png",
     "locations": [
       "Sold by Mathias .",
       "Can be found in chests in The Bluemoon , Soulflater Canyon , The Greatwall , Tainted Mountain Pass ."
@@ -10242,7 +10242,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Harpy+Cloak",
     "name": "Harpy Cloak",
     "description": "A protective cape of harpy feathers. Mitigates the effect of dousing by water.",
-    "image_path": "scraped_armor_images\\Harpy_Cloak.png",
+    "image_path": "/assets/armor/Harpy_Cloak.png",
     "locations": [
       "Can be purchased from Aestella , Mathias , Reynard .",
       "Can be found in chests in The Bluemoon Tower , The Shadow Fort ."
@@ -10282,7 +10282,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Heresy+Cloak",
     "name": "Heresy Cloak",
     "description": "A cloak once worn by a group of sorcerers persecuted as heretics to the Faith.",
-    "image_path": "scraped_armor_images\\Heresy_Cloak.png",
+    "image_path": "/assets/armor/Heresy_Cloak.png",
     "locations": [
       "Obtain from the DLC Armor Pack: Demon's Protection"
     ],
@@ -10321,7 +10321,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Hero's+Cape",
     "name": "Hero's Cape",
     "description": "A cape worn by a great hero of lore as he set off the slay a dragon.",
-    "image_path": "scraped_armor_images\\Heros_Cape.png",
+    "image_path": "/assets/armor/Heros_Cape.png",
     "locations": [
       "Obtain from the DLC Armor Pack: Divine Protection"
     ],
@@ -10360,7 +10360,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Knight's+Mantle",
     "name": "Knight's Mantle",
     "description": "A mantle for knights crusading against evil.",
-    "image_path": "scraped_armor_images\\Knights_Mantle.png",
+    "image_path": "/assets/armor/Knights_Mantle.png",
     "locations": [
       "Can be purchased from Caxton , Mathias .",
       "Can be found in chests in Bandit's Den , Ancient Quarry , Bitterblack Isle ."
@@ -10399,7 +10399,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Leather+Cape",
     "name": "Leather Cape",
     "description": "A humble cloak of animal hide, well suited to the rigors of the road.",
-    "image_path": "scraped_armor_images\\Leather_Cape.png",
+    "image_path": "/assets/armor/Leather_Cape.png",
     "locations": [
       "Reward for saving Reynard .",
       "Sold by Jayce ."
@@ -10436,7 +10436,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Lordly+Cloak",
     "name": "Lordly Cloak",
     "description": "A cape worn by a great warlord.",
-    "image_path": "scraped_armor_images\\Lordly_Cloak.png",
+    "image_path": "/assets/armor/Lordly_Cloak.png",
     "locations": [
       "Can be found in chests in The Everfall , Chamber of Absence , Chamber of Woe , Chamber of Fate , Chamber of Hope , The Forgotten Hall , Forsaken Cathedral , Vault of Defiled Truth ."
     ],
@@ -10475,7 +10475,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Magnanimous+Cloak",
     "name": "Magnanimous Cloak",
     "description": "A magical cloak that shares the wearer's Health and Stamina recovery effects with other party members.",
-    "image_path": "scraped_armor_images\\Magnanimous_Cloak.png",
+    "image_path": "/assets/armor/Magnanimous_Cloak.png",
     "locations": [
       "Sold by Fournival"
     ],
@@ -10511,7 +10511,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Mahogany+Cape",
     "name": "Mahogany Cape",
     "description": "A hooded cape that covers the shoulders.",
-    "image_path": "scraped_armor_images\\Mahogany_Cape.png",
+    "image_path": "/assets/armor/Mahogany_Cape.png",
     "locations": [
       "Can be purchased from Caxton .",
       "Can be found in chests in The Abbey ."
@@ -10550,7 +10550,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Monomi+Neck+Wrap",
     "name": "Monomi Neck Wrap",
     "description": "A neck wrap unique to the assassins of a foreign land. Dyed black as night to help conceal those who wear it.",
-    "image_path": "scraped_armor_images\\Monomi_Neck_Wrap.png",
+    "image_path": "/assets/armor/Monomi_Neck_Wrap.png",
     "locations": [
       "Obtained from Armor Pack: Demon's Protection ."
     ],
@@ -10589,7 +10589,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Nebula+Cape",
     "name": "Nebula Cape",
     "description": "A cape with an otherworldly sheen. It wraps the wearer inside a great, mysterial form of consciousness.",
-    "image_path": "scraped_armor_images\\Nebula_Cape.png",
+    "image_path": "/assets/armor/Nebula_Cape.png",
     "locations": [
       "Can be found in chests in The Everfall , Chamber of Tragedy , Chamber of Distress , Chamber of Sorrow , Chamber of Hope , The Forgotten Hall ."
     ],
@@ -10629,7 +10629,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Paladin's+Mantle",
     "name": "Paladin's Mantle",
     "description": "A cape well suited to those lauded as heroes.",
-    "image_path": "scraped_armor_images\\Paladins_Mantle.png",
+    "image_path": "/assets/armor/Paladins_Mantle.png",
     "locations": [
       "Obtain from the magic chest in the Treasury in the Duke's Demesne ."
     ],
@@ -10668,7 +10668,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Pauldron",
     "name": "Pauldron",
     "description": "Armor that protects the wearer's shoulders.",
-    "image_path": "scraped_armor_images\\Pauldron.png",
+    "image_path": "/assets/armor/Pauldron.png",
     "locations": [
       "Sold by Caxton .",
       "Can be found in chests in Ward of Regret , Ophis' Domain ."
@@ -10707,7 +10707,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Royal+Mantle",
     "name": "Royal Mantle",
     "description": "A mantle worn by Gran Soren guards on campaign.",
-    "image_path": "scraped_armor_images\\Royal_Mantle.png",
+    "image_path": "/assets/armor/Royal_Mantle.png",
     "locations": [
       "Sold by Mathias .",
       "Can be found in chests in The Tainted Mountain Temple , Chamber of Estrangement , Chamber of Hope ."
@@ -10746,7 +10746,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Scarlet+Cape",
     "name": "Scarlet Cape",
     "description": "A cloak of blazing scarlet.",
-    "image_path": "scraped_armor_images\\Scarlet_Cape.png",
+    "image_path": "/assets/armor/Scarlet_Cape.png",
     "locations": [
       "Can be purchased from Caxton , Jayce .",
       "Can be found in chests in The Ruins of Heavenspeak Fort"
@@ -10785,7 +10785,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Scholar's+Cape",
     "name": "Scholar's Cape",
     "description": "A protective cloak of special fabric that heightens resistance to catching fire while boosting the wearer's Health.",
-    "image_path": "scraped_armor_images\\Scholars_Cape.png",
+    "image_path": "/assets/armor/Scholars_Cape.png",
     "locations": [
       "Can be purchased from Caxton , Aestella ."
     ],
@@ -10822,7 +10822,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Shed+Cape",
     "name": "Shed Cape",
     "description": "A cloak of cotton fabric woven tight to mitigate the effect of dousing by water or oil.",
-    "image_path": "scraped_armor_images\\Shed_Cape.png",
+    "image_path": "/assets/armor/Shed_Cape.png",
     "locations": [
       "Sold by Iola",
       "Can be found in chests in Dripstone Cave ."
@@ -10859,7 +10859,7 @@
     "wiki_link": "https://dragonsdogma.fandom.com/wiki/Shoulder_Cape",
     "name": "Shoulder Cape",
     "description": "A thick cape that heightens resistance to being frozen solid while boosting the wearer's stamina.",
-    "image_path": "scraped_armor_images\\shoulder_cape.png",
+    "image_path": "/assets/armor/shoulder_cape.png",
     "locations": [
       "Sold by at Aestella's in Cassardis. (Stage 1+ stock)",
       "Sold at Caxton's Armory in Gran Soren. (Stage 2+ stock)",
@@ -10903,7 +10903,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Swordsman's+Mantle",
     "name": "Swordsman's Mantle",
     "description": "A crimson mantle large enough to cover the entire body. The blood of your foes is nigh-invisible against it.",
-    "image_path": "scraped_armor_images\\Swordsmans_Mantle.png",
+    "image_path": "/assets/armor/Swordsmans_Mantle.png",
     "locations": [
       "Sold by Alon (not available on PC version)"
     ],
@@ -10942,7 +10942,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Tattered+Mantle",
     "name": "Tattered Mantle",
     "description": "A worn, threadbare mantle stained the color of countless battles.",
-    "image_path": "scraped_armor_images\\Tattered_Mantle.png",
+    "image_path": "/assets/armor/Tattered_Mantle.png",
     "locations": [
       "Can be found in The Tainted Mountain Temple , Rotunda of Dread .",
       "Sold by Montebank (Post-game)"
@@ -10992,7 +10992,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Violet+Neck+Wrap",
     "name": "Violet Neck Wrap",
     "description": "A purple neck wrap woven with magickal fibers.",
-    "image_path": "scraped_armor_images\\Violet_Neck_Wrap.png",
+    "image_path": "/assets/armor/Violet_Neck_Wrap.png",
     "locations": [
       "Random reward for slaying the online Ur-Dragon ."
     ],
@@ -11030,7 +11030,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/White+Hawk+Cape",
     "name": "White Hawk Cape",
     "description": "A cape marked by the contrast of deep blue and pure white. Somehow it always looks as if it is blowing in a breeze.",
-    "image_path": "scraped_armor_images\\White_Hawk_Cape.png",
+    "image_path": "/assets/armor/White_Hawk_Cape.png",
     "locations": [
       "Sold by Alon ."
     ],
@@ -11069,7 +11069,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Wyrm+Hunt+Mantle",
     "name": "Wyrm Hunt Mantle",
     "description": "The cloak of those tasked with protecting the realm from dragons. The form of a wyrm is visible in the weave.",
-    "image_path": "scraped_armor_images\\Wyrm_Hunt_Mantle.png",
+    "image_path": "/assets/armor/Wyrm_Hunt_Mantle.png",
     "locations": [
       "Obtain from the DLC Armor Pack: Motley Crew"
     ],

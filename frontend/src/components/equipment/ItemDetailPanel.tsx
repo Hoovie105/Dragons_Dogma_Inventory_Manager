@@ -12,6 +12,15 @@ function ElementalIcon({ element }: { element: string }) {
   if (lower.includes('dark')) return <Moon className="w-4 h-4 stat-dark" />;
   return null;
 }
+function getImageSrc(path?: string) {
+  if (!path) return '';
+  
+  // Clean the path: replace backslashes and remove leading slashes
+  const cleanPath = path.replace(/\\/g, '/').replace(/^\/+/, '');
+  
+  // Use Vite's BASE_URL to ensure it works in dev and production
+  return `${import.meta.env.BASE_URL}${cleanPath}`;
+}
 
 export function ItemDetailPanel() {
   const { selectedItem, equipItem } = useEquipment();
@@ -44,6 +53,17 @@ export function ItemDetailPanel() {
             : selectedItem.stats?.["Armor Type"] || 'Unknown'}
         </p>
       </div>
+      {/* Item Image */}
+      {selectedItem.image_path && (
+        <div className="medieval-border bg-secondary/30 p-4 rounded-sm flex justify-center">
+          <img
+            src={getImageSrc(selectedItem.image_path)}
+            alt={selectedItem.name}
+            className="max-h-64 object-contain"
+            loading="lazy"
+          />
+        </div>
+      )}
 
       {/* Description */}
       {selectedItem.description && (
