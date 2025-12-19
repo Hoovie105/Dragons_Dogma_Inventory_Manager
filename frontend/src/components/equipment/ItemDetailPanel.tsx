@@ -53,17 +53,7 @@ export function ItemDetailPanel() {
             : selectedItem.stats?.["Armor Type"] || 'Unknown'}
         </p>
       </div>
-      {/* Item Image */}
-      {selectedItem.image_path && (
-        <div className="medieval-border bg-secondary/30 p-4 rounded-sm flex justify-center">
-          <img
-            src={getImageSrc(selectedItem.image_path)}
-            alt={selectedItem.name}
-            className="max-h-64 object-contain"
-            loading="lazy"
-          />
-        </div>
-      )}
+    
 
       {/* Description */}
       {selectedItem.description && (

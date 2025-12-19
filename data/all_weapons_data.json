@@ -416,7 +416,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Meniscus",
     "name": "Meniscus",
     "description": "An archistaff capped with a branched end in the shape of the waning moon. Simple in design but laden with magickal power.",
-    "image_path": "/assets/weapons/Meniscus.png",
+    "image_path": "/assets/weapons/Aneled_Meniscus.png",
     "locations": [
       "Can be obtained from a chest at the Bandit's Den in Pastona Cavern.",
       "Can be obtained from the second area of Witchwood."
@@ -1302,7 +1302,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Snagdaggers",
     "name": "Snagdaggers",
     "description": "Blades of refined design but cruel purpose. Their flared tips rend flesh and bone as they exit their victim.",
-    "image_path": "/assets/weapons/Snagdaggers.png",
+    "image_path": "/assets/weapons/Snags_of_Gold.png",
     "locations": [
       "Can be purchased from Mathias at the Greatwall Encampment (Stage 1+).",
       "Can be purchased from Caxton at Caxton's Armory in Gran Soren (Stage 4+).",
@@ -1371,7 +1371,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Stilettos",
     "name": "Stilettos",
     "description": "Simple daggers crafted solely for killing. Their flat blades are designed to seek and capitalize on gaps in armor.",
-    "image_path": "/assets/weapons/Stilettos.png",
+    "image_path": "/assets/weapons/Golden_Stilettos.png",
     "locations": [
       "Can be purchased from Jayce in Devilfire Grove.",
       "Can be purchased from Barroch on Bitterblack Isle.",
@@ -2089,7 +2089,7 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Gryphic+Victory",
     "name": "Gryphic Victory",
     "description": "A nimble longsword adept both at slicing and stabbing attacks.",
-    "image_path": "/assets/weapons/Gryphic_Victory.png",
+    "image_path": "/assets/weapons/Gryphic_Gold.png",
     "locations": [
       "Reward from the quest A Parting Tribute.",
       "Can also be found in a chest on top of the Greatwall during the fight with the two Wights. It has a very low chance to appear however."
@@ -5993,16 +5993,9 @@
     "wiki_link": "https://dragonsdogma.wiki.fextralife.com/Dragon%27s+Dogma",
     "name": "Dragon's Dogma",
     "description": "An exquisite blade worthy of its namesake. It harnesses great power from within the wielder's body.",
-    "image_path": null,
+    "image_path": "/assets/weapons/dragons-dogma.png",
     "locations": [
-      "Strength: 522 (672)",
-      "Magick: 0",
-      "Slash Strength: 100%",
-      "Bludgeoning Strength: 0%",
-      "Stagger Power: 292",
-      "Knockdown Power: 292",
-      "Elemental: None",
-      "Debilitation Strength: None"
+      "Can be obtained by using it to defeat The Dragon in The Final Battle"
     ],
     "stats": {
       "Value": "218,400 G",
