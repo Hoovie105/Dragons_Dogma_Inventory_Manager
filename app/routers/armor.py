@@ -4,6 +4,8 @@ from app.database import SessionLocal
 from app.models import Armor
 from app.schemas import ArmorOut, ArmorCreate, ArmorUpdate
 import os
+from app.cache import armor_cache, armor_item_cache
+import logging
 
 router = APIRouter(prefix="/armor", tags=["Armor"])
 
@@ -24,17 +26,33 @@ def admin_required(x_admin_token: str | None = Header(None, alias="X-Admin-Token
         raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail="Admin token required")
     return True
 
+logger = logging.getLogger(__name__)
 
 @router.get("/", response_model=list[ArmorOut])
 def get_armor(db: Session = Depends(get_db)):
+    if "all" in armor_cache:
+        logger.info("Cache hit for armor list all")
+        return armor_cache["all"]
+    
+    armor = db.query(Armor).all()
+    logger.info("Cache miss for armor list all")
+    armor_cache["all"] = armor
+
     return db.query(Armor).all()
 
 
 @router.get("/{armor_id}", response_model=ArmorOut)
 def get_armor_item(armor_id: int, db: Session = Depends(get_db)):
+    if armor_id in armor_item_cache:
+        logger.info("Cache hit for armor list by id: %s", armor_id)
+        return armor_item_cache[armor_id]
+    
     armor = db.query(Armor).filter(Armor.id == armor_id).first()
     if not armor:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Armor not found")
+    
+    logger.info("Cache miss for armor list by id: %s", armor_id)
+    armor_item_cache[armor_id] = armor
     return armor
 
 
@@ -44,6 +62,10 @@ def create_armor(payload: ArmorCreate, db: Session = Depends(get_db), _admin: bo
     db.add(db_armor)
     db.commit()
     db.refresh(db_armor)
+
+    armor_cache.clear()  # Invalidate full list cache
+    armor_item_cache[db_armor.id] = db_armor
+
     return db_armor
 
 
@@ -58,6 +80,10 @@ def update_armor(armor_id: int, payload: ArmorUpdate, db: Session = Depends(get_
     db.add(armor)
     db.commit()
     db.refresh(armor)
+
+    armor_cache.clear()  # Invalidate full list cache
+    armor_item_cache[armor_id] = armor
+
     return armor
 
 
@@ -68,4 +94,8 @@ def delete_armor(armor_id: int, db: Session = Depends(get_db), _admin: bool = De
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Armor not found")
     db.delete(armor)
     db.commit()
+
+    armor_cache.clear()  # Invalidate full list cache
+    armor_item_cache.pop(armor_id, None)
+    
     return Response(status_code=status.HTTP_204_NO_CONTENT)

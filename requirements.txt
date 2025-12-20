@@ -8,3 +8,4 @@ npm
 Tailwind CSS
 shadcn-ui
 react-lucide
+cachetools

@@ -4,6 +4,8 @@ from app.database import SessionLocal
 from app.models import Weapon
 from app.schemas import WeaponOut, WeaponCreate, WeaponUpdate
 import os
+from app.cache import weapons_cache, weapon_item_cache
+import logging
 
 router = APIRouter(prefix="/weapons", tags=["Weapons"])
 
@@ -24,17 +26,32 @@ def admin_required(x_admin_token: str | None = Header(None, alias="X-Admin-Token
         raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail="Admin token required")
     return True
 
+logger = logging.getLogger(__name__)
 
 @router.get("/", response_model=list[WeaponOut])
 def get_weapons(db: Session = Depends(get_db)):
-    return db.query(Weapon).all()
+    if "all" in weapons_cache:
+        logger.info("Cache hit for weapons list all")
+        return weapons_cache["all"]
 
+    weapons = db.query(Weapon).all()
+    logger.info("Cache miss for weapons list all")
+    weapons_cache["all"] = weapons
+
+    return weapons
 
 @router.get("/{weapon_id}", response_model=WeaponOut)
 def get_weapon(weapon_id: int, db: Session = Depends(get_db)):
+    if weapon_id in weapon_item_cache:
+        logger.info("Cache hit for weapons list by id: %s", weapon_id)
+        return weapon_item_cache[weapon_id]
+
     weapon = db.query(Weapon).filter(Weapon.id == weapon_id).first()
     if not weapon:
-        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Weapon not found")
+        raise HTTPException(status_code=404, detail="Weapon not found")
+    
+    logger.info("Cache miss for weapons list by id: %s", weapon_id)
+    weapon_item_cache[weapon_id] = weapon
     return weapon
 
 
@@ -44,6 +61,10 @@ def create_weapon(payload: WeaponCreate, db: Session = Depends(get_db), _admin: 
     db.add(db_weapon)
     db.commit()
     db.refresh(db_weapon)
+
+    weapons_cache.clear()              # invalidate list
+    weapon_item_cache[db_weapon.id] = db_weapon
+
     return db_weapon
 
 
@@ -58,6 +79,10 @@ def update_weapon(weapon_id: int, payload: WeaponUpdate, db: Session = Depends(g
     db.add(weapon)
     db.commit()
     db.refresh(weapon)
+
+    weapons_cache.clear()
+    weapon_item_cache[weapon_id] = weapon
+
     return weapon
 
 
@@ -68,4 +93,8 @@ def delete_weapon(weapon_id: int, db: Session = Depends(get_db), _admin: bool = 
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Weapon not found")
     db.delete(weapon)
     db.commit()
+
+    weapons_cache.clear()
+    weapon_item_cache.pop(weapon_id, None)
+
     return Response(status_code=status.HTTP_204_NO_CONTENT)
