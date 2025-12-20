@@ -9,11 +9,11 @@ logging.basicConfig(
     format="%(asctime)s [%(levelname)s] %(name)s: %(message)s",
 )
 
-
 app = FastAPI(title="Dragon's Dogma Equipment Manager")
 
 # Configure CORS. Set the env var `CORS_ORIGINS` to a comma-separated list
 # (for example: http://localhost:5173,http://localhost:3000) to override defaults.
+
 _cors_env = os.getenv("CORS_ORIGINS")
 if _cors_env:
 	origins = [o.strip() for o in _cors_env.split(",") if o.strip()]

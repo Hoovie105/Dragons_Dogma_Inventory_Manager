@@ -4,4 +4,4 @@ make locations for equip tab display all locations for all selected weapons. (DO
 add images to items, elements, debilitations. (Items DONE!)
 some weapons lack types which renders wrong stats (DONE!)
 Some images are missing just import them manually (DONE!)
-see if caching is any good "likely will be client side "in-memory".
+see if caching is any good "likely will be client side "in-memory". (DONE!)
