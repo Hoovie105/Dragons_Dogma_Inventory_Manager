@@ -10,6 +10,16 @@ interface EquipmentSlotProps {
   icon: ReactNode;
 }
 
+function getImageSrc(path?: string) {
+  if (!path) return '';
+  
+  // Clean the path: replace backslashes and remove leading slashes
+  const cleanPath = path.replace(/\\/g, '/').replace(/^\/+/, '');
+  
+  // Use Vite's BASE_URL to ensure it works in dev and production
+  return `${import.meta.env.BASE_URL}${cleanPath}`;
+}
+
 export function EquipmentSlot({ slotName, slotKey, item, icon }: EquipmentSlotProps) {
   const { setSelectedItem, unequipItem } = useEquipment();
 
@@ -28,14 +38,23 @@ export function EquipmentSlot({ slotName, slotKey, item, icon }: EquipmentSlotPr
     <div
       onClick={handleClick}
       className={`
-        medieval-border bg-card p-4 rounded-sm cursor-pointer transition-all duration-200
+        medieval-border bg-card p-4 rounded-sm cursor-pointer transition-all duration-200 
         ${item ? 'hover:ring-1 hover:ring-primary' : 'opacity-60'}
       `}
     >
       <div className="flex items-start gap-3">
         {/* Icon */}
         <div className="w-12 h-12 bg-secondary/50 rounded-sm flex items-center justify-center flex-shrink-0">
-          {icon}
+          {item?.image_path ? (
+            <img
+              src={getImageSrc(item.image_path)}
+              alt={item.name}
+              className="w-full h-full object-contain"
+              loading="lazy"
+            />
+          ) : (
+            icon
+          )}
         </div>
 
         {/* Content */}
