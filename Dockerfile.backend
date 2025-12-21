@@ -12,6 +12,8 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY app/ ./app/
 COPY create_tables.py .
 COPY import_data.py .
+COPY data/ ./data/
+
 
 # Expose port
 EXPOSE 8000
