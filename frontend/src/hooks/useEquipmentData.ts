@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import { ArmorItem, WeaponItem } from '@/types/equipment';
+const API_URL = import.meta.env.VITE_API_URL;
 
 export function useEquipmentData() {
   const [armor, setArmor] = useState<ArmorItem[]>([]);
@@ -11,8 +12,8 @@ export function useEquipmentData() {
     async function loadData() {
       try {
         const [armorRes, weaponsRes] = await Promise.all([
-          fetch('http://localhost:8000/armor'),
-          fetch('http://localhost:8000/weapons'),
+          fetch(`${API_URL}/armor`),
+          fetch(`${API_URL}/weapons`),
         ]);
 
         if (!armorRes.ok || !weaponsRes.ok) {
