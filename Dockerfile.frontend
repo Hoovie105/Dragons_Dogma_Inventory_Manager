@@ -9,6 +9,10 @@ COPY frontend/ ./
 # Fix permission on Vite binary
 RUN chmod +x ./node_modules/.bin/vite
 
+# Pass the backend API URL at build time via ARG
+ARG VITE_API_URL
+ENV VITE_API_URL=$VITE_API_URL
+
 RUN npm run build
 
 FROM nginx:alpine

@@ -20,13 +20,13 @@ if _cors_env:
 	origins = [o.strip() for o in _cors_env.split(",") if o.strip()]
 else:
 	origins = [
-		"https://dragons-dogma-inventory-manager.onrender-1.com",
 		"http://localhost:5173",
 		"http://127.0.0.1:5173",
 		"http://localhost:8080",
 		"http://127.0.0.1:8080",
 		"http://localhost:3000",
 		"http://127.0.0.1:3000",
+		"https://dragons-dogma-inventory-manager.onrender-1.com",
 	]
 
 app.add_middleware(
