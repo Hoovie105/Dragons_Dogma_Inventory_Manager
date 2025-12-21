@@ -12,8 +12,8 @@ export function useEquipmentData() {
     async function loadData() {
       try {
         const [armorRes, weaponsRes] = await Promise.all([
-          fetch(`${API_URL}/armor`),
-          fetch(`${API_URL}/weapons`),
+          fetch(`${API_URL}/data/armor`),
+          fetch(`${API_URL}/data/weapons`),
         ]);
 
         if (!armorRes.ok || !weaponsRes.ok) {
