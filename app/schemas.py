@@ -47,3 +47,14 @@ class ArmorOut(ArmorBase):
 
     class Config:
         orm_mode = True
+
+
+class PaginatedResponse(BaseModel):
+    items: List[Any]
+    total: int
+    page: int
+    limit: int
+    pages: int
+
+    class Config:
+        orm_mode = True

@@ -1,12 +1,15 @@
-from fastapi import APIRouter, Depends, HTTPException, status, Response, Header
+from fastapi import APIRouter, Depends, HTTPException, status, Response, Header, Query
 from sqlalchemy.orm import Session
 from app.database import SessionLocal
 from app.models import Armor
-from app.schemas import ArmorOut, ArmorCreate, ArmorUpdate
+from app.schemas import ArmorOut, ArmorCreate, ArmorUpdate, PaginatedResponse
 import os
 from app.cache import armor_cache, armor_item_cache
 import logging
 from app.depends import admin_required
+import math
+
+router = APIRouter(prefix="/armor", tags=["Armor"])
 
 router = APIRouter(prefix="/armor", tags=["Armor"])
 
@@ -19,17 +22,43 @@ def get_db():
 
 logger = logging.getLogger(__name__)
 
-@router.get("/", response_model=list[ArmorOut])
-def get_armor(db: Session = Depends(get_db)):
-    if "all" in armor_cache:
-        logger.info("Cache hit for armor list all")
-        return armor_cache["all"]
-    
-    armor = db.query(Armor).all()
-    logger.info("Cache miss for armor list all")
-    armor_cache["all"] = armor
+@router.get("/", response_model=PaginatedResponse)
+def get_armor(
+    page: int = Query(1, ge=1, description="Page number"),
+    limit: int = Query(50, ge=1, le=100, description="Items per page"),
+    db: Session = Depends(get_db)
+):
+    cache_key = f"page_{page}_limit_{limit}"
+    if cache_key in armor_cache:
+        logger.info("Cache hit for armor list: %s", cache_key)
+        return armor_cache[cache_key]
 
-    return db.query(Armor).all()
+    # Get total count
+    total = db.query(Armor).count()
+    total_pages = math.ceil(total / limit)
+
+    # Validate page number
+    if page > total_pages and total > 0:
+        raise HTTPException(status_code=404, detail="Page not found")
+
+    # Calculate offset
+    offset = (page - 1) * limit
+
+    # Get paginated armor
+    armor = db.query(Armor).offset(offset).limit(limit).all()
+
+    result = PaginatedResponse(
+        items=armor,
+        total=total,
+        page=page,
+        limit=limit,
+        pages=total_pages
+    )
+
+    logger.info("Cache miss for armor list: %s", cache_key)
+    armor_cache[cache_key] = result
+
+    return result
 
 
 @router.get("/{armor_id}", response_model=ArmorOut)
