@@ -42,14 +42,6 @@ export interface WeaponItem {
 
 export type EquipmentItem = ArmorItem | WeaponItem;
 
-export interface PaginatedResponse<T> {
-  items: T[];
-  total: number;
-  page: number;
-  limit: number;
-  pages: number;
-}
-
 export interface EquippedLoadout {
   weapon?: WeaponItem;
   secondaryWeapon?: WeaponItem;

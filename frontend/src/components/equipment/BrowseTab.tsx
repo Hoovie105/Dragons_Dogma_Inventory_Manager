@@ -3,13 +3,12 @@ import { useEquipmentData } from '@/hooks/useEquipmentData';
 import { ItemCard } from './ItemCard';
 import { VocationFilter } from './VocationFilter';
 import { Vocation, EquipmentItem } from '@/types/equipment';
-import { Search, Sword, Shield, ChevronLeft, ChevronRight } from 'lucide-react';
+import { Search, Sword, Shield } from 'lucide-react';
 
 type EquipmentType = 'weapons' | 'armor' | 'all';
 
 export function BrowseTab() {
-  const [currentPage, setCurrentPage] = useState(1);
-  const { armor, weapons, loading, error } = useEquipmentData(currentPage, 50);
+  const { armor, weapons, loading, error } = useEquipmentData();
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedVocation, setSelectedVocation] = useState<Vocation | 'all'>('all');
   const [equipmentType, setEquipmentType] = useState<EquipmentType>('all');
@@ -18,10 +17,10 @@ export function BrowseTab() {
     let items: EquipmentItem[] = [];
     
     if (equipmentType === 'weapons' || equipmentType === 'all') {
-      items = [...items, ...(weapons?.items || [])];
+      items = [...items, ...weapons];
     }
     if (equipmentType === 'armor' || equipmentType === 'all') {
-      items = [...items, ...(armor?.items || [])];
+      items = [...items, ...armor];
     }
 
     if (selectedVocation !== 'all') {
@@ -37,7 +36,7 @@ export function BrowseTab() {
     }
 
     return items;
-  }, [armor?.items, weapons?.items, selectedVocation, equipmentType, searchQuery]);
+  }, [armor, weapons, selectedVocation, equipmentType, searchQuery]);
 
   if (loading) {
     return (
@@ -115,57 +114,9 @@ export function BrowseTab() {
       />
 
       {/* Results Count */}
-      <div className="flex items-center justify-between">
-        <p className="text-sm text-muted-foreground">
-          Showing <span className="gold-text font-medium">{filteredItems.length}</span> items
-          {equipmentType === 'all' && (
-            <>
-              {' '}• Total: <span className="gold-text font-medium">
-                {(armor?.total || 0) + (weapons?.total || 0)}
-              </span> items
-            </>
-          )}
-          {equipmentType === 'weapons' && weapons && (
-            <>
-              {' '}• Total: <span className="gold-text font-medium">{weapons.total}</span> weapons
-            </>
-          )}
-          {equipmentType === 'armor' && armor && (
-            <>
-              {' '}• Total: <span className="gold-text font-medium">{armor.total}</span> armor pieces
-            </>
-          )}
-        </p>
-
-        {/* Pagination Controls */}
-        <div className="flex items-center gap-2">
-          <button
-            onClick={() => setCurrentPage(prev => Math.max(1, prev - 1))}
-            disabled={currentPage === 1}
-            className="flex items-center gap-1 px-3 py-1 text-sm border border-border rounded-sm disabled:opacity-50 disabled:cursor-not-allowed hover:border-primary/50 transition-colors"
-          >
-            <ChevronLeft className="w-4 h-4" />
-            Previous
-          </button>
-          
-          <span className="text-sm text-muted-foreground px-2">
-            Page {currentPage}
-          </span>
-          
-          <button
-            onClick={() => setCurrentPage(prev => prev + 1)}
-            disabled={
-              (equipmentType === 'weapons' && weapons && currentPage >= weapons.pages) ||
-              (equipmentType === 'armor' && armor && currentPage >= armor.pages) ||
-              (equipmentType === 'all' && weapons && armor && currentPage >= Math.max(weapons.pages, armor.pages))
-            }
-            className="flex items-center gap-1 px-3 py-1 text-sm border border-border rounded-sm disabled:opacity-50 disabled:cursor-not-allowed hover:border-primary/50 transition-colors"
-          >
-            Next
-            <ChevronRight className="w-4 h-4" />
-          </button>
-        </div>
-      </div>
+      <p className="text-sm text-muted-foreground">
+        Showing <span className="gold-text font-medium">{filteredItems.length}</span> items
+      </p>
 
       {/* Item Grid */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-3 max-h-[calc(100vh-400px)] overflow-y-auto scrollbar-medieval pr-2">
