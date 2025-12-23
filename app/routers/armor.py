@@ -69,22 +69,35 @@ def create_armor(payload: ArmorCreate, db: Session = Depends(get_db)):
     return db_armor
 
 
-@router.put("/{armor_id}", response_model=ArmorOut, dependencies=[Depends(admin_required)])
+@router.patch("/{armor_id}", response_model=ArmorOut, dependencies=[Depends(admin_required)])
 def update_armor(armor_id: int, payload: ArmorUpdate, db: Session = Depends(get_db)):
-    armor = db.query(Armor).filter(Armor.id == armor_id).first()
-    if not armor:
-        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Armor not found")
-    update_data = payload.dict(exclude_unset=True)
-    for key, value in update_data.items():
-        setattr(armor, key, value)
-    db.add(armor)
+    update_data = payload.model_dump(exclude_unset=True)
+
+    if not update_data:
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail="No fields provided for update"
+        )
+
+    updated = (
+        db.query(Armor)
+        .filter(Armor.id == armor_id)
+        .update(update_data, synchronize_session="fetch")
+    )
+
+    if not updated:
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND,
+            detail="Armor not found"
+        )
+
     db.commit()
-    db.refresh(armor)
 
     armor_cache.clear()  # Invalidate full list cache
-    armor_item_cache[armor_id] = armor
+    armor_item_cache.pop(armor_id, None)
 
-    return armor
+    return db.query(Armor).get(armor_id)
+
 
 
 @router.delete("/{armor_id}", status_code=status.HTTP_204_NO_CONTENT, dependencies=[Depends(admin_required)])

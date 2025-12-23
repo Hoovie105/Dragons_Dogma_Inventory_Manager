@@ -68,22 +68,28 @@ def create_weapon(payload: WeaponCreate, db: Session = Depends(get_db)):
     return db_weapon
 
 
-@router.put("/{weapon_id}", response_model=WeaponOut, dependencies=[Depends(admin_required)])
+@router.patch("/{weapon_id}", response_model=WeaponOut, dependencies=[Depends(admin_required)])
 def update_weapon(weapon_id: int, payload: WeaponUpdate, db: Session = Depends(get_db)):
-    weapon = db.query(Weapon).filter(Weapon.id == weapon_id).first()
+    update_data = payload.model_dump(exclude_unset=True)
+
+    if not update_data:
+        raise HTTPException(status_code=400, detail="No fields provided for update")
+
+    weapon = (
+        db.query(Weapon)
+        .filter(Weapon.id == weapon_id)
+        .update(update_data, synchronize_session="fetch")
+    )
+
     if not weapon:
-        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Weapon not found")
-    update_data = payload.dict(exclude_unset=True)
-    for key, value in update_data.items():
-        setattr(weapon, key, value)
-    db.add(weapon)
+        raise HTTPException(status_code=404, detail="Weapon not found")
+
     db.commit()
-    db.refresh(weapon)
 
     weapons_cache.clear()
-    weapon_item_cache[weapon_id] = weapon
 
-    return weapon
+    return db.query(Weapon).get(weapon_id)
+
 
 
 @router.delete("/{weapon_id}", status_code=status.HTTP_204_NO_CONTENT, dependencies=[Depends(admin_required)])
