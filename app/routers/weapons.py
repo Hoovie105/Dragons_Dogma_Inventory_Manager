@@ -55,8 +55,8 @@ def get_weapon(weapon_id: int, db: Session = Depends(get_db)):
     return weapon
 
 
-@router.post("/", response_model=WeaponOut, status_code=status.HTTP_201_CREATED)
-def create_weapon(payload: WeaponCreate, db: Session = Depends(get_db), _admin: bool = Depends(admin_required)):
+@router.post("/", response_model=WeaponOut, status_code=status.HTTP_201_CREATED, dependencies=[Depends(admin_required)])
+def create_weapon(payload: WeaponCreate, db: Session = Depends(get_db)):
     db_weapon = Weapon(**payload.dict())
     db.add(db_weapon)
     db.commit()
@@ -68,8 +68,8 @@ def create_weapon(payload: WeaponCreate, db: Session = Depends(get_db), _admin: 
     return db_weapon
 
 
-@router.put("/{weapon_id}", response_model=WeaponOut)
-def update_weapon(weapon_id: int, payload: WeaponUpdate, db: Session = Depends(get_db), _admin: bool = Depends(admin_required)):
+@router.put("/{weapon_id}", response_model=WeaponOut, dependencies=[Depends(admin_required)])
+def update_weapon(weapon_id: int, payload: WeaponUpdate, db: Session = Depends(get_db)):
     weapon = db.query(Weapon).filter(Weapon.id == weapon_id).first()
     if not weapon:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Weapon not found")
@@ -86,8 +86,8 @@ def update_weapon(weapon_id: int, payload: WeaponUpdate, db: Session = Depends(g
     return weapon
 
 
-@router.delete("/{weapon_id}", status_code=status.HTTP_204_NO_CONTENT)
-def delete_weapon(weapon_id: int, db: Session = Depends(get_db), _admin: bool = Depends(admin_required)):
+@router.delete("/{weapon_id}", status_code=status.HTTP_204_NO_CONTENT, dependencies=[Depends(admin_required)])
+def delete_weapon(weapon_id: int, db: Session = Depends(get_db)):
     weapon = db.query(Weapon).filter(Weapon.id == weapon_id).first()
     if not weapon:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Weapon not found")
