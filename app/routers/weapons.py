@@ -6,6 +6,7 @@ from app.schemas import WeaponOut, WeaponCreate, WeaponUpdate
 import os
 from app.cache import weapons_cache, weapon_item_cache
 import logging
+from app.depends import admin_required
 
 router = APIRouter(prefix="/weapons", tags=["Weapons"])
 
@@ -16,15 +17,6 @@ def get_db():
         yield db
     finally:
         db.close()
-
-
-ADMIN_TOKEN = os.getenv("ADMIN_TOKEN")
-
-
-def admin_required(x_admin_token: str | None = Header(None, alias="X-Admin-Token")) -> bool:
-    if not ADMIN_TOKEN or x_admin_token != ADMIN_TOKEN:
-        raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail="Admin token required")
-    return True
 
 logger = logging.getLogger(__name__)
 
