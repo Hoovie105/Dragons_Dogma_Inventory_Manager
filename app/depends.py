@@ -1,8 +1,8 @@
-import os
+from app.config import get_settings
 from fastapi import Header, HTTPException, status
 
-ADMIN_TOKEN = os.getenv("ADMIN_TOKEN")
-
+settings = get_settings()
+ADMIN_TOKEN = settings.ADMIN_TOKEN
 
 def admin_required(
     x_admin_token: str | None = Header(None, alias="X-Admin-Token")

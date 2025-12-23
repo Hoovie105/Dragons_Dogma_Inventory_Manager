@@ -1,9 +1,26 @@
 from cachetools import TTLCache
+from app.config import get_settings
+
+settings = get_settings()
 
 # Cache for full lists
-weapons_cache = TTLCache(maxsize=1, ttl=300)  # 5 minutes
-armor_cache = TTLCache(maxsize=1, ttl=300)
+weapons_cache = TTLCache(
+    maxsize=settings.LIST_CACHE_MAXSIZE,
+    ttl=settings.CACHE_TTL_SECONDS
+)
+
+armor_cache = TTLCache(
+    maxsize=settings.LIST_CACHE_MAXSIZE,
+    ttl=settings.CACHE_TTL_SECONDS
+)
 
 # Cache for individual items
-weapon_item_cache = TTLCache(maxsize=500, ttl=300)
-armor_item_cache = TTLCache(maxsize=500, ttl=300)
+weapon_item_cache = TTLCache(
+    maxsize=settings.ITEM_CACHE_MAXSIZE,
+    ttl=settings.CACHE_TTL_SECONDS
+)
+
+armor_item_cache = TTLCache(
+    maxsize=settings.ITEM_CACHE_MAXSIZE,
+    ttl=settings.CACHE_TTL_SECONDS
+)
