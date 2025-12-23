@@ -56,8 +56,8 @@ def get_armor_item(armor_id: int, db: Session = Depends(get_db)):
     return armor
 
 
-@router.post("/", response_model=ArmorOut, status_code=status.HTTP_201_CREATED)
-def create_armor(payload: ArmorCreate, db: Session = Depends(get_db), _admin: bool = Depends(admin_required)):
+@router.post("/", response_model=ArmorOut, status_code=status.HTTP_201_CREATED, dependencies=[Depends(admin_required)])
+def create_armor(payload: ArmorCreate, db: Session = Depends(get_db)):
     db_armor = Armor(**payload.dict())
     db.add(db_armor)
     db.commit()
@@ -69,8 +69,8 @@ def create_armor(payload: ArmorCreate, db: Session = Depends(get_db), _admin: bo
     return db_armor
 
 
-@router.put("/{armor_id}", response_model=ArmorOut)
-def update_armor(armor_id: int, payload: ArmorUpdate, db: Session = Depends(get_db), _admin: bool = Depends(admin_required)):
+@router.put("/{armor_id}", response_model=ArmorOut, dependencies=[Depends(admin_required)])
+def update_armor(armor_id: int, payload: ArmorUpdate, db: Session = Depends(get_db)):
     armor = db.query(Armor).filter(Armor.id == armor_id).first()
     if not armor:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Armor not found")
@@ -87,8 +87,8 @@ def update_armor(armor_id: int, payload: ArmorUpdate, db: Session = Depends(get_
     return armor
 
 
-@router.delete("/{armor_id}", status_code=status.HTTP_204_NO_CONTENT)
-def delete_armor(armor_id: int, db: Session = Depends(get_db), _admin: bool = Depends(admin_required)):
+@router.delete("/{armor_id}", status_code=status.HTTP_204_NO_CONTENT, dependencies=[Depends(admin_required)])
+def delete_armor(armor_id: int, db: Session = Depends(get_db)):
     armor = db.query(Armor).filter(Armor.id == armor_id).first()
     if not armor:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Armor not found")
