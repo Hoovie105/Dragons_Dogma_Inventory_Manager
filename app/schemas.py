@@ -1,6 +1,17 @@
 from pydantic import BaseModel
 from typing import Any, Dict, List, Optional
 
+class PaginationParams(BaseModel):
+    page: int = 1
+    limit: int = 50
+
+class PaginatedResponse(BaseModel):
+    items: List[Any]
+    total: int
+    page: int
+    limit: int
+    pages: int
+
 class WeaponBase(BaseModel):
     name: str
     description: Optional[str] = None
@@ -20,7 +31,7 @@ class WeaponOut(WeaponBase):
     id: int
 
     class Config:
-        orm_mode = True
+        from_attributes = True
 
 
 class ArmorBase(BaseModel):
@@ -46,4 +57,4 @@ class ArmorOut(ArmorBase):
     id: int
 
     class Config:
-        orm_mode = True
+        from_attributes = True

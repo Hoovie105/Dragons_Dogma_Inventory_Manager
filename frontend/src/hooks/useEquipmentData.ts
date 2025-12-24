@@ -1,31 +1,39 @@
 import { useState, useEffect } from 'react';
 import { ArmorItem, WeaponItem, PaginatedResponse } from '@/types/equipment';
-const API_URL = import.meta.env.VITE_API_URL;
+const API_URL = import.meta.env.VITE_API_LOCAL_URL;
 
-export function useEquipmentData(page: number = 1, limit: number = 50) {
-  const [armor, setArmor] = useState<PaginatedResponse<ArmorItem> | null>(null);
-  const [weapons, setWeapons] = useState<PaginatedResponse<WeaponItem> | null>(null);
+export function useEquipmentData() {
+  const [armor, setArmor] = useState<ArmorItem[]>([]);
+  const [weapons, setWeapons] = useState<WeaponItem[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
     async function loadData() {
       try {
-        setLoading(true);
-        const [armorRes, weaponsRes] = await Promise.all([
-          fetch(`${API_URL}/armor?page=${page}&limit=${limit}`),
-          fetch(`${API_URL}/weapons?page=${page}&limit=${limit}`),
-        ]);
-
-        if (!armorRes.ok || !weaponsRes.ok) {
-          throw new Error('Failed to load equipment data');
+        // Helper to fetch all pages for a resource, respecting backend limit
+        async function fetchAll<T>(resource: string) {
+          const all: T[] = [];
+          let page = 1;
+          const limit = 100; // backend enforces <=100
+          while (true) {
+            const res = await fetch(`${API_URL}/${resource}?page=${page}&limit=${limit}`);
+            if (!res.ok) throw new Error(`Failed to load ${resource} page ${page}`);
+            const data: PaginatedResponse<T> = await res.json();
+            all.push(...data.items);
+            if (page >= data.pages) break;
+            page += 1;
+          }
+          return all;
         }
 
-        const armorData: PaginatedResponse<ArmorItem> = await armorRes.json();
-        const weaponsData: PaginatedResponse<WeaponItem> = await weaponsRes.json();
+        const [allArmor, allWeapons] = await Promise.all([
+          fetchAll<ArmorItem>('armor'),
+          fetchAll<WeaponItem>('weapons'),
+        ]);
 
-        setArmor(armorData);
-        setWeapons(weaponsData);
+        setArmor(allArmor);
+        setWeapons(allWeapons);
       } catch (err) {
         setError(err instanceof Error ? err.message : 'Unknown error');
       } finally {
@@ -34,7 +42,7 @@ export function useEquipmentData(page: number = 1, limit: number = 50) {
     }
 
     loadData();
-  }, [page, limit]);
+  }, []);
 
   return { armor, weapons, loading, error };
 }

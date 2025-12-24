@@ -1,6 +1,7 @@
 import { EquipmentItem, isWeapon, isArmor } from '@/types/equipment';
 import { useEquipment } from '@/context/EquipmentContext';
 import { Shield, Sword, Flame, Snowflake, Zap, Sun, Moon } from 'lucide-react';
+import { getImageSrc } from '@/lib/utils';
 
 interface ItemCardProps {
   item: EquipmentItem;
@@ -33,16 +34,6 @@ function getElementFromItem(item: EquipmentItem): string | null {
     }
   }
   return null;
-}
-
-function getImageSrc(path?: string) {
-  if (!path) return '';
-  
-  // Clean the path: replace backslashes and remove leading slashes
-  const cleanPath = path.replace(/\\/g, '/').replace(/^\/+/, '');
-  
-  // Use Vite's BASE_URL to ensure it works in dev and production
-  return `${import.meta.env.BASE_URL}${cleanPath}`;
 }
 
 export function ItemCard({ item }: ItemCardProps) {

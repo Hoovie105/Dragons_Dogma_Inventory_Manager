@@ -1,24 +1,15 @@
 import { EquipmentItem, isWeapon } from '@/types/equipment';
 import { useEquipment } from '@/context/EquipmentContext';
 import { X, Sword, Shield, Crown, Shirt, Hand, Footprints, Scroll } from 'lucide-react';
-import type { ReactNode, MouseEvent } from 'react';
+import { getImageSrc } from '@/lib/utils';
 
 interface EquipmentSlotProps {
   slotName: string;
   slotKey: string;
   item?: EquipmentItem;
-  icon: ReactNode;
+  icon: React.ReactNode;
 }
 
-function getImageSrc(path?: string) {
-  if (!path) return '';
-  
-  // Clean the path: replace backslashes and remove leading slashes
-  const cleanPath = path.replace(/\\/g, '/').replace(/^\/+/, '');
-  
-  // Use Vite's BASE_URL to ensure it works in dev and production
-  return `${import.meta.env.BASE_URL}${cleanPath}`;
-}
 
 export function EquipmentSlot({ slotName, slotKey, item, icon }: EquipmentSlotProps) {
   const { setSelectedItem, unequipItem } = useEquipment();
@@ -29,7 +20,7 @@ export function EquipmentSlot({ slotName, slotKey, item, icon }: EquipmentSlotPr
     }
   };
 
-  const handleUnequip = (e: MouseEvent) => {
+  const handleUnequip = (e: React.MouseEvent) => {
     e.stopPropagation();
     unequipItem(slotKey as any);
   };

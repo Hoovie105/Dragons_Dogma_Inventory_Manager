@@ -1,17 +1,20 @@
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import { useEquipmentData } from '@/hooks/useEquipmentData';
 import { ItemCard } from './ItemCard';
 import { VocationFilter } from './VocationFilter';
 import { Vocation, EquipmentItem } from '@/types/equipment';
-import { Search, Sword, Shield } from 'lucide-react';
+import { Search, Sword, Shield, ChevronLeft, ChevronRight } from 'lucide-react';
 
 type EquipmentType = 'weapons' | 'armor' | 'all';
+
+const ITEMS_PER_PAGE = 50;
 
 export function BrowseTab() {
   const { armor, weapons, loading, error } = useEquipmentData();
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedVocation, setSelectedVocation] = useState<Vocation | 'all'>('all');
   const [equipmentType, setEquipmentType] = useState<EquipmentType>('all');
+  const [currentPage, setCurrentPage] = useState(1);
 
   const filteredItems = useMemo(() => {
     let items: EquipmentItem[] = [];
@@ -37,6 +40,18 @@ export function BrowseTab() {
 
     return items;
   }, [armor, weapons, selectedVocation, equipmentType, searchQuery]);
+
+  const paginatedItems = useMemo(() => {
+    const startIndex = (currentPage - 1) * ITEMS_PER_PAGE;
+    const endIndex = startIndex + ITEMS_PER_PAGE;
+    return filteredItems.slice(startIndex, endIndex);
+  }, [filteredItems, currentPage]);
+
+  const totalPages = Math.ceil(filteredItems.length / ITEMS_PER_PAGE);
+
+  useEffect(() => {
+    setCurrentPage(1);
+  }, [searchQuery, selectedVocation, equipmentType]);
 
   if (loading) {
     return (
@@ -115,15 +130,44 @@ export function BrowseTab() {
 
       {/* Results Count */}
       <p className="text-sm text-muted-foreground">
-        Showing <span className="gold-text font-medium">{filteredItems.length}</span> items
+        Showing <span className="gold-text font-medium">{paginatedItems.length}</span> of <span className="gold-text font-medium">{filteredItems.length}</span> items
       </p>
 
       {/* Item Grid */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-3 max-h-[calc(100vh-400px)] overflow-y-auto scrollbar-medieval pr-2">
-        {filteredItems.map((item) => (
+        {paginatedItems.map((item) => (
           <ItemCard key={`${item.name}-${item.id}`} item={item} />
         ))}
       </div>
+
+      {/* Pagination Controls */}
+      {totalPages > 1 && (
+        <div className="flex items-center justify-center mt-4 relative">
+          <button
+            onClick={() => setCurrentPage(prev => Math.max(1, prev - 1))}
+            disabled={currentPage === 1}
+            className="absolute left-0 flex items-center gap-2 px-3 py-2 text-sm font-display border rounded-sm transition-all disabled:opacity-50 disabled:cursor-not-allowed border-border text-muted-foreground hover:border-primary/50 enabled:hover:text-primary"
+          >
+            <ChevronLeft className="w-4 h-4" />
+            Previous
+          </button>
+          
+          <div className="flex items-center gap-2 -translate-x-3">
+            <span className="text-sm text-muted-foreground">
+              Page {currentPage} of {totalPages}
+            </span>
+          </div>
+          
+          <button
+            onClick={() => setCurrentPage(prev => Math.min(totalPages, prev + 1))}
+            disabled={currentPage === totalPages}
+            className="absolute right-0 flex items-center gap-2 px-3 py-2 text-sm font-display border rounded-sm transition-all disabled:opacity-50 disabled:cursor-not-allowed border-border text-muted-foreground hover:border-primary/50 enabled:hover:text-primary"
+          >
+            Next
+            <ChevronRight className="w-4 h-4" />
+          </button>
+        </div>
+      )}
     </div>
   );
 }

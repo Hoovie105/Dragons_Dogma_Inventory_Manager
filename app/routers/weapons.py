@@ -1,14 +1,22 @@
-from fastapi import APIRouter, Depends, HTTPException, status, Response, Header
+from fastapi import APIRouter, Depends, HTTPException, status, Response, Header, Query
 from sqlalchemy.orm import Session
 from app.database import SessionLocal
 from app.models import Weapon
-from app.schemas import WeaponOut, WeaponCreate, WeaponUpdate
+from app.schemas import WeaponOut, WeaponCreate, WeaponUpdate, PaginationParams, PaginatedResponse
 import os
 from app.cache import weapons_cache, weapon_item_cache
 import logging
 from app.depends import admin_required
 
 router = APIRouter(prefix="/weapons", tags=["Weapons"])
+
+
+def model_to_dict(obj):
+    # Convert SQLAlchemy model instance to dict using table columns
+    try:
+        return {c.name: getattr(obj, c.name) for c in obj.__table__.columns}
+    except Exception:
+        return obj
 
 
 def get_db():
@@ -20,17 +28,35 @@ def get_db():
 
 logger = logging.getLogger(__name__)
 
-@router.get("/", response_model=list[WeaponOut])
-def get_weapons(db: Session = Depends(get_db)):
-    if "all" in weapons_cache:
-        logger.info("Cache hit for weapons list all")
-        return weapons_cache["all"]
-
-    weapons = db.query(Weapon).all()
-    logger.info("Cache miss for weapons list all")
-    weapons_cache["all"] = weapons
-
-    return weapons
+@router.get("", response_model=PaginatedResponse)
+def get_weapons(
+    page: int = Query(1, ge=1, description="Page number"),
+    limit: int = Query(50, ge=1, le=100, description="Items per page"),
+    db: Session = Depends(get_db)
+):
+    cache_key = f"weapons_page_{page}_limit_{limit}"
+    if cache_key in weapons_cache:
+        logger.info("Cache hit for weapons list page %s limit %s", page, limit)
+        return weapons_cache[cache_key]
+    
+    total = db.query(Weapon).count()
+    offset = (page - 1) * limit
+    weapons = db.query(Weapon).offset(offset).limit(limit).all()
+    
+    pages = (total + limit - 1) // limit  # Ceiling division
+    
+    result = PaginatedResponse(
+        items=[model_to_dict(w) for w in weapons],
+        total=total,
+        page=page,
+        limit=limit,
+        pages=pages
+    )
+    
+    logger.info("Cache miss for weapons list page %s limit %s", page, limit)
+    weapons_cache[cache_key] = result
+    
+    return result
 
 @router.get("/{weapon_id}", response_model=WeaponOut)
 def get_weapon(weapon_id: int, db: Session = Depends(get_db)):
@@ -42,12 +68,13 @@ def get_weapon(weapon_id: int, db: Session = Depends(get_db)):
     if not weapon:
         raise HTTPException(status_code=404, detail="Weapon not found")
     
+    weapon_dict = model_to_dict(weapon)
     logger.info("Cache miss for weapons list by id: %s", weapon_id)
-    weapon_item_cache[weapon_id] = weapon
-    return weapon
+    weapon_item_cache[weapon_id] = weapon_dict
+    return weapon_dict
 
 
-@router.post("/", response_model=WeaponOut, status_code=status.HTTP_201_CREATED, dependencies=[Depends(admin_required)])
+@router.post("", response_model=WeaponOut, status_code=status.HTTP_201_CREATED, dependencies=[Depends(admin_required)])
 def create_weapon(payload: WeaponCreate, db: Session = Depends(get_db)):
     db_weapon = Weapon(**payload.dict())
     db.add(db_weapon)
@@ -55,7 +82,7 @@ def create_weapon(payload: WeaponCreate, db: Session = Depends(get_db)):
     db.refresh(db_weapon)
 
     weapons_cache.clear()              # invalidate list
-    weapon_item_cache[db_weapon.id] = db_weapon
+    weapon_item_cache[db_weapon.id] = model_to_dict(db_weapon)
 
     return db_weapon
 

@@ -1,5 +1,8 @@
 import os
 from functools import lru_cache
+from dotenv import load_dotenv
+
+load_dotenv()
 
 
 class Settings:
@@ -11,7 +14,7 @@ class Settings:
 
     # Cache
     CACHE_TTL_SECONDS: int = int(os.getenv("CACHE_TTL_SECONDS", 300))
-    LIST_CACHE_MAXSIZE: int = int(os.getenv("LIST_CACHE_MAXSIZE", 1))
+    LIST_CACHE_MAXSIZE: int = int(os.getenv("LIST_CACHE_MAXSIZE", 50))
     ITEM_CACHE_MAXSIZE: int = int(os.getenv("ITEM_CACHE_MAXSIZE", 500))
 
     # CORS

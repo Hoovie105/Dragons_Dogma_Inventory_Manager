@@ -5,6 +5,8 @@ import { EquippedTab } from '@/components/equipment/EquippedTab';
 import { ItemDetailPanel } from '@/components/equipment/ItemDetailPanel';
 import parchmentBg from '@/assets/parchment-bg.jpg';
 import { BookOpen, Shield } from 'lucide-react';
+import Footer from '@/layouts/Footer';
+import Header from '@/layouts/Header';
 
 type TabType = 'browse' | 'equipped';
 
@@ -29,42 +31,7 @@ export default function EquipmentManager() {
       >
         {/* Overlay for readability */}
         <div className="min-h-screen bg-background/90">
-          {/* Header */}
-          <header className="border-b border-border bg-card/80 backdrop-blur-sm sticky top-0 z-10">
-            <div className="container mx-auto px-4 py-4">
-              <div className="flex items-center justify-between">
-                <div>
-                  <h1 className="font-display text-2xl md:text-3xl gold-text tracking-wider">
-                    Dragon's Dogma
-                  </h1>
-                  <p className="text-sm text-muted-foreground mt-1">
-                    Equipment Manager — Dark Arisen
-                  </p>
-                </div>
-                
-                {/* Desktop Navigation */}
-                <nav className="hidden md:flex gap-2">
-                  {tabs.map((tab) => (
-                    <button
-                      key={tab.id}
-                      onClick={() => setActiveTab(tab.id)}
-                      className={`
-                        flex items-center gap-2 px-4 py-2 font-display text-sm uppercase tracking-wider
-                        border-2 rounded-sm transition-all duration-200
-                        ${activeTab === tab.id
-                          ? 'border-primary text-primary bg-primary/10'
-                          : 'border-transparent text-muted-foreground hover:text-foreground hover:border-border'
-                        }
-                      `}
-                    >
-                      <tab.icon className="w-4 h-4" />
-                      {tab.label}
-                    </button>
-                  ))}
-                </nav>
-              </div>
-            </div>
-          </header>
+          <Header tabs={tabs} activeTab={activeTab} setActiveTab={setActiveTab} />
 
           {/* Mobile Navigation */}
           <nav className="md:hidden sticky top-[73px] z-10 bg-card/80 backdrop-blur-sm border-b border-border">
@@ -112,22 +79,7 @@ export default function EquipmentManager() {
             </div>
           </main>
 
-          {/* Footer */}
-          <footer className="border-t border-border bg-card/60 backdrop-blur-sm py-4 mt-8">
-            <div className="container mx-auto px-4 text-center">
-              <p className="text-sm text-muted-foreground">
-                Data sourced from the{' '}
-                <a 
-                  href="https://dragonsdogma.wiki.fextralife.com/" 
-                  target="_blank" 
-                  rel="noopener noreferrer"
-                  className="text-primary hover:underline"
-                >
-                  Dragon's Dogma Wiki
-                </a>
-              </p>
-            </div>
-          </footer>
+          <Footer />
         </div>
       </div>
     </EquipmentProvider>

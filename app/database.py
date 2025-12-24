@@ -1,10 +1,7 @@
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker, declarative_base
 import os
-from dotenv import load_dotenv
 from app.config import get_settings
-
-load_dotenv()
 
 settings = get_settings()
 DATABASE_URL = settings.DATABASE_URL
