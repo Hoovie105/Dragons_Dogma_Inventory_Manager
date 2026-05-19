@@ -59,9 +59,6 @@ Dragons_Dogma_Inventory_Manager/
 │
 ├── docker-compose.yml
 └── README.md
-
-yaml
-Copy code
 ```
 ---
 
